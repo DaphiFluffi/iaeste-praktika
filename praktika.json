@@ -1,0 +1,3676 @@
+[
+  {
+    "id": "BE-2026-004-UGE",
+    "offer-type": "ON-SITE",
+    "employer": "Bio Base Europe Pilot Plant",
+    "workplace": "Bio Base Europe Pilot Plant",
+    "business": "biotech pilot plant",
+    "employees": "160",
+    "hoursweekly": 40,
+    "hoursdaily": 5,
+    "website": "http://www.bbeu.org/pilotplant/",
+    "country": "Belgium",
+    "city": "GENT",
+    "from": "01.08.2026",
+    "to": "31.07.2027",
+    "weeksmin": 25,
+    "weeksmax": 52,
+    "deadline": "15.03.2026",
+    "field1": "",
+    "field2": "Biotechnology",
+    "field": "Biotechnology",
+    "completedyearsofstudy": 4,
+    "languages": [
+      {
+        "language": "English",
+        "level": "Excellent (C1, C2)",
+        "andor": ""
+      }
+    ],
+    "payment": [
+      {
+        "payment": 300,
+        "currency": "EUR",
+        "period": "Weekly",
+        "deduction": "0"
+      }
+    ],
+    "lodging": [
+      {
+        "lodging": "Trainee with the help of LC.",
+        "lodgingcost": 150,
+        "livingcost": 300,
+        "currency": "EUR"
+      }
+    ],
+    "description": "Bio Base Europe Pilot Plant was established in 2008 and currently has more than 165 employees.\n We work in a unique, open innovation pilot and demonstration facility for process development, scaling up and (trial) production of bio-based products and processes, from laboratory to multi-ton scale.\n \n We combine a wide and flexible range of modular unit operations with a team of highly qualified and experienced bio-process engineers and technicians to translate laboratory-scale bio-based processes into cost-effective industrial processes. Bio Base Europe Pilot Plant wants to be the workplace where all employees can grow and use their full potential. We offer a pleasant atmosphere, value and reward initiative, hard work and commitment.\n \n ********\n \n TOPIC 4 - Hybrid process development for upcycling mixed plastic waste into high-value dicarboxylic acids\n Available from July 2025\n \n Project description:\n The HYBRID project aims to address two major challenges: the incineration of difficult-to-recycle plastic waste, leading to CO2 emissions, and the fossil-based production of virgin plastics from long-chain dicarboxylic acid (DCA) monomers. By integrating pyrolysis, biological funnelling, fermentation, and advanced product recovery techniques, the project seeks to convert mixed plastic waste into high-value DCAs, critical for producing textile polymers, polyesters, lubricants, and plasticizers.\n This internship, part of the HYBRID project, focuses on upcycling plastic waste into DCAs using a yeast-based fermentation platform. Key tasks include:\n Fermentation Process Development: Investigate and optimize the fermentation behaviour of engineered strains with varying waste-derived feedstocks.\n Biphasic Fermentation: Develop an advanced, multi-phase fermentation process with in situ product recovery and resource recycling.\n Process Integration and Scale-Up: Transfer and evaluate the developed process at bioreactor scale and boost the process performance by in-depth optimisation. Collaborate with engineers to scale up the optimized process.\n This internship at Bio Base Europe Pilot Plant (BBEPP) offers hands-on experience in fermentation and downstream purification technologies and supports the transition to a circular bio economy. All experimental work will be performed in the industrial environment of BBEPP using state-of-the-art equipment, in cooperation with a team of experienced professionals. Your work will contribute to the Flemish-funded HYBRID project, crucial for further development and industrial scale-up.",
+    "other_requirements": "If trainee does not have EEA or Swiss nationality, stay is limited to 90 days.",
+    "additional_Info": "",
+    "requiredknowledgeandexperiences": "You are studying for a degree in bio-engineering or related (bioprocessing, chemistry, biotechnology, cell- and gene technology)\n some experience with bacterial, yeast or fungal hosts is an asset some relevant experience with biocatalytic processes for the production of chemicals, food ingredients or\n cosmetics is an asset."
+  },
+  {
+    "id": "BI-2026-MIN10",
+    "offer-type": "ON-SITE",
+    "employer": "Sonalek Mining Company Ltd",
+    "workplace": "CIBITOKE",
+    "business": "MINING",
+    "employees": "100",
+    "hoursweekly": 20,
+    "hoursdaily": 4,
+    "website": "https://mctit.gov.bi/",
+    "country": "Burundi",
+    "city": "CIBITOKE",
+    "from": "30.04.2026",
+    "to": "30.06.2026",
+    "weeksmin": 6,
+    "weeksmax": 8,
+    "deadline": "10.03.2026",
+    "field1": "",
+    "field2": "Geology, Mining and Mineral Engineering, Natural Resources and Conservation",
+    "field": "Geology, Mining and Mineral Engineering, Natural Resources and Conservation",
+    "completedyearsofstudy": 3,
+    "languages": [
+      {
+        "language": "English",
+        "level": "Good (B1, B2)",
+        "andor": "Or"
+      },
+      {
+        "language": "French",
+        "level": "Good (B1, B2)",
+        "andor": ""
+      }
+    ],
+    "payment": [
+      {
+        "payment": 500000,
+        "currency": "BIF",
+        "period": "Monthly",
+        "deduction": "0"
+      }
+    ],
+    "lodging": [
+      {
+        "lodging": "IAESTE BURUNDI",
+        "lodgingcost": 200000,
+        "livingcost": 500000,
+        "currency": "BIF"
+      }
+    ],
+    "description": "The trainee will conduct field visits to mining sites in Cibitoke (Kibaya, Ndora, Bukinanyana), collect and analyze data on minerals, study local mining practices, and prepare reports with recommendations for safe, sustainable, and community-friendly mining.\n \n On-site fieldwork and campus-based analysis, collaborating with supervisors, local mining staff, and community members.\n \n Work in a small team with independent tasks in research, reporting, and analysis.\n \n A report on mineral resources and mining practices, recommendations for sustainability, and increased awareness of responsible mining among local communities.",
+    "other_requirements": "",
+    "additional_Info": "The trainee will have the opportunity to explore Burundi’s tourist and cultural sites with IAESTE Burundi, combining professional experience with local sightseeing and cultural discovery.",
+    "requiredknowledgeandexperiences": "Interest in sustainable mining, local development, and community engagement."
+  },
+  {
+    "id": "BR-2026-207-BAU",
+    "offer-type": "ON-SITE",
+    "employer": "UNESP - Bauru",
+    "workplace": "Bauru - SP",
+    "business": "University",
+    "employees": "1000",
+    "hoursweekly": 20,
+    "hoursdaily": 5,
+    "website": "http://www.fc.unesp.br/",
+    "country": "Brazil",
+    "city": "Bauru",
+    "from": "01.06.2026",
+    "to": "27.11.2026",
+    "weeksmin": 8,
+    "weeksmax": 8,
+    "deadline": "31.03.2026",
+    "field1": "",
+    "field2": "Biology, Biomedical Sciences, Biotechnology",
+    "field": "Biology, Biomedical Sciences, Biotechnology",
+    "completedyearsofstudy": 1,
+    "languages": [
+      {
+        "language": "English",
+        "level": "Good (B1, B2)",
+        "andor": "Or"
+      },
+      {
+        "language": "Spanish",
+        "level": "Good (B1, B2)",
+        "andor": ""
+      }
+    ],
+    "payment": [
+      {
+        "payment": 1400,
+        "currency": "BRL",
+        "period": "Monthly",
+        "deduction": "0"
+      }
+    ],
+    "lodging": [
+      {
+        "lodging": "Student with IAESTE Brazil support",
+        "lodgingcost": 800,
+        "livingcost": 1400,
+        "currency": "BRL"
+      }
+    ],
+    "description": "Student roles may include the following tasks and activities: \n \n - preparation and management of study documentation \n \n - searching and summarizing relevant scientific literature using online data bases \n \n - Management of study database in Excel, including conducting basic data analysis with support \n \n - Development and management of education and training materials \n \n - collection of data in movement science laboratory setting (Human Movement Research Laboratory – MOVI-LAB – UNESP)\n \n - Assist with the use and analysis of lab-based tools, including motion capture systems (VICON), muscle activity (electromyography), gaze movements (eye-tracker), and force (force plate and load cell) \n \n - Assist in the preparation of research posters, presentations, and publications as appropriate. \n \n - Interact with patient-participants as appropriate. \n \n - meeting regularly with the supervisor and other study investigators",
+    "other_requirements": "",
+    "additional_Info": "",
+    "requiredknowledgeandexperiences": "The student must be familiar with research laboratory. The student must be familiar or willing to learn data acquisition and data/signal processing of human movement and motor control and biomechanics. While students who are within a health, sports and human movement or related disciplines would be appropriate for this work"
+  },
+  {
+    "id": "BR-2026-209-BAU",
+    "offer-type": "ON-SITE",
+    "employer": "UNESP - Bauru",
+    "workplace": "Bauru - SP",
+    "business": "University",
+    "employees": "1000",
+    "hoursweekly": 20,
+    "hoursdaily": 5,
+    "website": "http://www.fc.unesp.br/",
+    "country": "Brazil",
+    "city": "Bauru",
+    "from": "01.06.2026",
+    "to": "27.11.2026",
+    "weeksmin": 8,
+    "weeksmax": 8,
+    "deadline": "31.03.2026",
+    "field1": "General;General;General",
+    "field2": "Biology, Biomedical Sciences, Biotechnology, Education",
+    "field": "Biology, Biomedical Sciences, Biotechnology, Education",
+    "completedyearsofstudy": 1,
+    "languages": [
+      {
+        "language": "English",
+        "level": "Good (B1, B2)",
+        "andor": "Or"
+      },
+      {
+        "language": "Spanish",
+        "level": "Good (B1, B2)",
+        "andor": ""
+      }
+    ],
+    "payment": [
+      {
+        "payment": 1400,
+        "currency": "BRL",
+        "period": "Monthly",
+        "deduction": "0"
+      }
+    ],
+    "lodging": [
+      {
+        "lodging": "Student with IAESTE Brazil support",
+        "lodgingcost": 800,
+        "livingcost": 1400,
+        "currency": "BRL"
+      }
+    ],
+    "description": "Student roles may include the following tasks and activities: \n \n - preparation and management of study documentation \n \n - searching and summarizing relevant scientific literature using online data bases \n \n - Management of study database in Excel, including conducting basic data analysis with support \n \n - Development and management of education and training materials \n \n - collection of data in movement science laboratory setting (Human Movement Research Laboratory – MOVI-LAB – UNESP)\n \n - Assist with the use and analysis of lab-based tools, including motion capture systems (VICON), muscle activity (electromyography), gaze movements (eye-tracker), and force (force plate and load cell) \n \n - Assist in the preparation of research posters, presentations, and publications as appropriate. \n \n - Interact with patient-participants as appropriate. \n \n - meeting regularly with the supervisor and other study investigators",
+    "other_requirements": "",
+    "additional_Info": "",
+    "requiredknowledgeandexperiences": "The student must be familiar with research laboratory. The student must be familiar or willing to learn data acquisition and data/signal processing of human movement and motor control and biomechanics. While students who are within a health, sports and human movement or related disciplines would be appropriate for this work"
+  },
+  {
+    "id": "BR-2026-214-BOT",
+    "offer-type": "ON-SITE",
+    "employer": "UNESP - Botucatu",
+    "workplace": "Botucatu - SP",
+    "business": "University",
+    "employees": "1000",
+    "hoursweekly": 30,
+    "hoursdaily": 6,
+    "website": "http://www.ibb.unesp.br/",
+    "country": "Brazil",
+    "city": "Botucatu",
+    "from": "01.06.2026",
+    "to": "27.11.2026",
+    "weeksmin": 8,
+    "weeksmax": 8,
+    "deadline": "31.03.2026",
+    "field1": "General",
+    "field2": "Bioengineering/Biomedical Engineering, Bioinformatics, Biomedical Sciences, Biotechnology",
+    "field": "Bioengineering/Biomedical Engineering, Bioinformatics, Biomedical Sciences, Biotechnology",
+    "completedyearsofstudy": 3,
+    "languages": [
+      {
+        "language": "English",
+        "level": "Good (B1, B2)",
+        "andor": "Or"
+      },
+      {
+        "language": "Spanish",
+        "level": "Good (B1, B2)",
+        "andor": "Or"
+      },
+      {
+        "language": "Italian",
+        "level": "Good (B1, B2)"
+      }
+    ],
+    "payment": [
+      {
+        "payment": 1400,
+        "currency": "BRL",
+        "period": "Monthly",
+        "deduction": "0"
+      }
+    ],
+    "lodging": [
+      {
+        "lodging": "Student with IAESTE support",
+        "lodgingcost": 800,
+        "livingcost": 1400,
+        "currency": "BRL"
+      }
+    ],
+    "description": "The intern will join the Cancer Cachexia Omics Laboratory at São Paulo State University (UNESP) to study tumor–host interactions and tissue wasting (muscle/adipose) using advanced omics and AI tools. Depending on background and interests, the project will prioritize one or more tracks below (all projects include good practices in reproducible research, documentation, and weekly mentoring meetings):\n \n A) Single-cell transcriptomics\n \n Process and analyze scRNA-seq datasets (QC, normalization with SCTransform, batch correction with Harmony).\n \n Clustering/annotation (marker discovery), differential expression, pathway enrichment.\n \n Doublet detection (e.g., DoubletFinder) and lineage/trajectory exploration when applicable.\n \n Deliverables: a fully documented analysis notebook (R/Python), figures, and a short report of biological insights on tumor microenvironment and cachexia-related cell states.\n \n B) Spatial transcriptomics\n \n Analysis of spatial gene expression (e.g., Seurat spatial, Squidpy) to map cell–cell communication in tissues affected by cancer cachexia.\n \n Integration of histology features and spatial neighborhoods; optional deconvolution.\n \n Deliverables: spatial maps, interaction/ligand–receptor summaries, and a concise written interpretation.\n \n C) Bioinformatics & Systems Biology (multi-omics integration)\n \n Integrate bulk RNA-seq, single-cell, spatial, and/or proteomics; perform pathway/network analyses (e.g., OmniPath ligand–receptor, secretome/immune crosstalk).\n \n Build reproducible pipelines with version control; prepare publication-quality figures.\n \n Deliverables: standardized workflow, README, and result summary.\n \n D) Molecular & Cellular Cancer Biology (theoretical/analysis-driven)\n \n Literature-guided framing of mechanisms of cancer cachexia, tumor biology, and tissue remodeling (muscle/adipose).\n \n Curate gene sets/biomarkers; connect computational results with biological hypotheses and potential validation strategies.\n \n Deliverables: mini-review style memo linking computational findings to mechanisms.\n \n E) Machine Learning & AI applied to Omics\n \n Apply classical ML and/or AI models to identify biomarkers and molecular signatures of cachexia (feature selection, cross-validation, model interpretation).\n \n Emphasis on transparent, reproducible modeling and biological interpretability.\n \n Deliverables: ML pipeline (code + report) and candidate biomarkers/signatures.\n \n All tracks include weekly supervision, optional participation in lab meetings/journal clubs, and the opportunity to contribute to manuscripts, posters, or preprints when results warrant.",
+    "other_requirements": "- For systems biology: experience integrating bulk RNA-seq, single-cell, spatial, proteomics; pathway and network analysis (e.g., OmniPath, ligand–receptor).\n \n - Domain knowledge (nice-to-have): cancer biology, tumor microenvironment, cachexia, muscle/adipose tissue remodeling.\n \n - Good scientific communication in English; collaborative mindset.",
+    "additional_Info": "",
+    "requiredknowledgeandexperiences": "Not mandatory, but preferred:\n \n - Basic proficiency in R and/or Python; Linux/command line; Git/GitHub.\n \n - Intro to data wrangling and visualization.\n \n - For single-cell: prior exposure to Seurat/Scanpy, SCTransform, Harmony, QC concepts; familiarity with cell type annotation.\n \n - For spatial: interest/experience with Squidpy, Seurat (spatial) or similar; image–omics integration is a plus."
+  },
+  {
+    "id": "BR-2026-222-SV",
+    "offer-type": "ON-SITE",
+    "employer": "UNESP - São Vicente",
+    "workplace": "São Vicente - SP",
+    "business": "University",
+    "employees": "1000",
+    "hoursweekly": 20,
+    "hoursdaily": 4,
+    "website": "http://www.clp.unesp.br/",
+    "country": "Brazil",
+    "city": "São Vicente",
+    "from": "06.04.2026",
+    "to": "26.06.2026",
+    "weeksmin": 8,
+    "weeksmax": 8,
+    "deadline": "31.03.2026",
+    "field1": "General;General",
+    "field2": "Biology, Environmental Engineering/Sciences, Natural Resources and Conservation",
+    "field": "Biology, Environmental Engineering/Sciences, Natural Resources and Conservation",
+    "completedyearsofstudy": 1,
+    "languages": [
+      {
+        "language": "English",
+        "level": "Good (B1, B2)",
+        "andor": "Or"
+      },
+      {
+        "language": "Spanish",
+        "level": "Good (B1, B2)",
+        "andor": ""
+      }
+    ],
+    "payment": [
+      {
+        "payment": 1400,
+        "currency": "BRL",
+        "period": "Monthly",
+        "deduction": "0"
+      }
+    ],
+    "lodging": [
+      {
+        "lodging": "Student with IAESTE support",
+        "lodgingcost": 800,
+        "livingcost": 1400,
+        "currency": "BRL"
+      }
+    ],
+    "description": "The student will be involved in research activities within projects aimed at studying the contamination and toxicity of groundwater and/or superficial water collected from coastal water bodies. This will include field sampling, sample processing, and development of toxicity tests with aquatic invertebrates. I intend to discuss with the candidates the possibility of developing a short study within my current projects. They will also be invited to learn about the other activities developed in the laboratory by graduate, master's, and PhD students.",
+    "other_requirements": "",
+    "additional_Info": "",
+    "requiredknowledgeandexperiences": "."
+  },
+  {
+    "id": "BR-2026-227-SOR",
+    "offer-type": "ON-SITE",
+    "employer": "UNESP - Sorocaba",
+    "workplace": "Sorocaba - SP",
+    "business": "University",
+    "employees": "1000",
+    "hoursweekly": 30,
+    "hoursdaily": 6,
+    "website": "http://www.sorocaba.unesp.br/",
+    "country": "Brazil",
+    "city": "Sorocaba - SP",
+    "from": "04.05.2026",
+    "to": "27.11.2026",
+    "weeksmin": 8,
+    "weeksmax": 8,
+    "deadline": "31.03.2026",
+    "field1": "Nanotechnology",
+    "field2": "Agriculture, Biotechnology, Chemistry and Chemical Engineering, Environmental Engineering/Sciences",
+    "field": "Agriculture, Biotechnology, Chemistry and Chemical Engineering, Environmental Engineering/Sciences",
+    "completedyearsofstudy": 3,
+    "languages": [
+      {
+        "language": "English",
+        "level": "Good (B1, B2)",
+        "andor": ""
+      }
+    ],
+    "payment": [
+      {
+        "payment": 1400,
+        "currency": "BRL",
+        "period": "Monthly",
+        "deduction": "0"
+      }
+    ],
+    "lodging": [
+      {
+        "lodging": "Student with IAESTE support",
+        "lodgingcost": 800,
+        "livingcost": 1400,
+        "currency": "BRL"
+      }
+    ],
+    "description": "Development of projects in nanotechnology applied to environmental and agriculture.",
+    "other_requirements": "",
+    "additional_Info": "",
+    "requiredknowledgeandexperiences": "Chemistry and biotechnology lab experience."
+  },
+  {
+    "id": "BR-2026-230-SOR",
+    "offer-type": "ON-SITE",
+    "employer": "UNESP - Sorocaba",
+    "workplace": "Sorocaba - SP",
+    "business": "University",
+    "employees": "1000",
+    "hoursweekly": 20,
+    "hoursdaily": 4,
+    "website": "http://www.sorocaba.unesp.br/",
+    "country": "Brazil",
+    "city": "Sorocaba - SP",
+    "from": "04.05.2026",
+    "to": "30.10.2026",
+    "weeksmin": 8,
+    "weeksmax": 8,
+    "deadline": "31.03.2026",
+    "field1": "General",
+    "field2": "Electrical Engineering, Mechatronics, Robotics and Automation",
+    "field": "Electrical Engineering, Mechatronics, Robotics and Automation",
+    "completedyearsofstudy": 3,
+    "languages": [
+      {
+        "language": "English",
+        "level": "Good (B1, B2)",
+        "andor": "Or"
+      },
+      {
+        "language": "Spanish",
+        "level": "Good (B1, B2)",
+        "andor": ""
+      }
+    ],
+    "payment": [
+      {
+        "payment": 1400,
+        "currency": "BRL",
+        "period": "Monthly",
+        "deduction": "0"
+      }
+    ],
+    "lodging": [
+      {
+        "lodging": "Student with IAESTE support",
+        "lodgingcost": 800,
+        "livingcost": 1400,
+        "currency": "BRL"
+      }
+    ],
+    "description": "The inter is expected to develop or help in hardware-in-the-loop experiments for simulating and testing inverter-based resources in microgrids scenarios.",
+    "other_requirements": "",
+    "additional_Info": "",
+    "requiredknowledgeandexperiences": "C++ programming and electrical simulation softwares like MATLAB/Simulink and PSIM."
+  },
+  {
+    "id": "BR-2026-231-SOR",
+    "offer-type": "ON-SITE",
+    "employer": "UNESP - Sorocaba",
+    "workplace": "Sorocaba - SP",
+    "business": "University",
+    "employees": "1000",
+    "hoursweekly": 20,
+    "hoursdaily": 4,
+    "website": "http://www.sorocaba.unesp.br/",
+    "country": "Brazil",
+    "city": "Sorocaba - SP",
+    "from": "04.05.2026",
+    "to": "30.10.2026",
+    "weeksmin": 8,
+    "weeksmax": 8,
+    "deadline": "31.03.2026",
+    "field1": "General;General",
+    "field2": "Electrical Engineering, Mechatronics, Robotics and Automation",
+    "field": "Electrical Engineering, Mechatronics, Robotics and Automation",
+    "completedyearsofstudy": 3,
+    "languages": [
+      {
+        "language": "English",
+        "level": "Good (B1, B2)",
+        "andor": "Or"
+      },
+      {
+        "language": "Spanish",
+        "level": "Good (B1, B2)",
+        "andor": ""
+      }
+    ],
+    "payment": [
+      {
+        "payment": 1400,
+        "currency": "BRL",
+        "period": "Monthly",
+        "deduction": "0"
+      }
+    ],
+    "lodging": [
+      {
+        "lodging": "Student with IAESTE support",
+        "lodgingcost": 800,
+        "livingcost": 1400,
+        "currency": "BRL"
+      }
+    ],
+    "description": "The inter is expected to develop or help in hardware-in-the-loop experiments for simulating and testing inverter-based resources in microgrids scenarios.",
+    "other_requirements": "",
+    "additional_Info": "",
+    "requiredknowledgeandexperiences": "C++ programming and electrical simulation softwares like MATLAB/Simulink and PSIM."
+  },
+  {
+    "id": "BR-2026-233-ARA",
+    "offer-type": "ON-SITE",
+    "employer": "UNESP - Araraquara",
+    "workplace": "Araraquara - SP",
+    "business": "University",
+    "employees": "1000",
+    "hoursweekly": 25,
+    "hoursdaily": 5,
+    "website": "http://www.fcfar.unesp.br",
+    "country": "Brazil",
+    "city": "Araraquara",
+    "from": "06.07.2026",
+    "to": "30.10.2026",
+    "weeksmin": 8,
+    "weeksmax": 8,
+    "deadline": "31.03.2026",
+    "field1": "",
+    "field2": "Pharmaceutical Studies / Pharmacology",
+    "field": "Pharmaceutical Studies / Pharmacology",
+    "completedyearsofstudy": 3,
+    "languages": [
+      {
+        "language": "English",
+        "level": "Good (B1, B2)",
+        "andor": "Or"
+      },
+      {
+        "language": "Spanish",
+        "level": "Good (B1, B2)",
+        "andor": "Or"
+      },
+      {
+        "language": "Portuguese",
+        "level": "Good (B1, B2)"
+      }
+    ],
+    "payment": [
+      {
+        "payment": 1400,
+        "currency": "BRL",
+        "period": "Monthly",
+        "deduction": "0"
+      }
+    ],
+    "lodging": [
+      {
+        "lodging": "Student with IAESTE support",
+        "lodgingcost": 800,
+        "livingcost": 1400,
+        "currency": "BRL"
+      }
+    ],
+    "description": "1. Support for Sample Collection and Data Integrity\n The intern will be expected to support the procedures used to generate samples for ongoing experiments.\n Protocol Support: Assisting with the final days of the Social Instability Stress (SIS) protocol and ensuring animals are correctly grouped.\n \n Estrous Cycle Determination: For the female mice, the intern will be trained to collect vaginal samples at the time of euthanasia and assist in analyzing the cell types under a microscope to determine the phase of the estrous cycle (proestrus, estrus, metestrus, diestrus).\n \n 2. Brain Tissue Processing and Immunofluorescence \n The intern will be trained to perform the complete immunofluorescence protocol.\n \n Brain Slicing: Assisting with, or learning to, section the frozen mouse brains into 35 μm coronal slices using a cryostat. This involves correctly identifying the target regions (mPFC, amygdala, hippocampus) during slicing.\n \n Staining Protocol: Performing the multi-step staining process, which includes:\n -Washing the tissue slices in PBS.\n -Incubating slices in a blocking solution (containing goat serum and Triton X-100) to prevent non-specific antibody binding.\n -Performing the 24-hour incubation with primary antibodies, specifically Anti-ΔFosB (EPR15905) and Anti-5HT2A (ASR-033-GP200UL).\n -Washing and incubating the slices with the fluorescent secondary antibodies (Alexa Fluor 488 and Alexa-Fluor 568).\n \n Mounting: Carefully mounting the delicate, stained brain slices onto silanized glass slides and applying the Fluoroshield Mounting Medium + DAPI to stain cell nuclei and preserve the fluorescent signal.\n \n 3. Microscopy and Data Analysis\n This is the core activity, identifying the pattern of activation.\n \n Image Capture: Assisting in the capture of high-resolution fluorescent images from the prepared slides using the Axio Imager 2 microscope.\n \n Data Quantification: The intern will be trained to use the ImageJ software to quantify the results. This is a critical task and involves:\n \n - Defining the regions of interest (mPFC, amygdala, hippocampus) in the digital images.\n - Applying the \"Corrected total cell fluorescence\" (CTCF) technique to measure the intensity of the ΔFosB and 5HT2A signals.\n - Organizing the resulting numerical data for statistical analysis.",
+    "other_requirements": "",
+    "additional_Info": "",
+    "requiredknowledgeandexperiences": "Previous experience in handling rodents (mice) in a laboratory setting.\n Fundamental knowledge of behavioral physiology and psychobiology."
+  },
+  {
+    "id": "BR-2026-237-BOT",
+    "offer-type": "ON-SITE",
+    "employer": "UNESP - Botucatu",
+    "workplace": "Botucatu - SP",
+    "business": "University",
+    "employees": "1000",
+    "hoursweekly": 30,
+    "hoursdaily": 6,
+    "website": "http://www.ibb.unesp.br/",
+    "country": "Brazil",
+    "city": "Botucatu",
+    "from": "04.05.2026",
+    "to": "11.12.2026",
+    "weeksmin": 8,
+    "weeksmax": 8,
+    "deadline": "31.03.2026",
+    "field1": "General",
+    "field2": "Biology, Biomedical Sciences, Veterinary",
+    "field": "Biology, Biomedical Sciences, Veterinary",
+    "completedyearsofstudy": 1,
+    "languages": [
+      {
+        "language": "English",
+        "level": "Good (B1, B2)",
+        "andor": "Or"
+      },
+      {
+        "language": "Spanish",
+        "level": "Good (B1, B2)",
+        "andor": "Or"
+      },
+      {
+        "language": "French",
+        "level": "Good (B1, B2)"
+      }
+    ],
+    "payment": [
+      {
+        "payment": 1400,
+        "currency": "BRL",
+        "period": "Monthly",
+        "deduction": "800"
+      }
+    ],
+    "lodging": [
+      {
+        "lodging": "Student with IAESTE support",
+        "lodgingcost": 800,
+        "livingcost": 1400,
+        "currency": "BRL"
+      }
+    ],
+    "description": "The candidate will participate in experimental and analytical activities focused on the cellular and molecular regulation of spermatogenesis, using zebrafish and other teleosts as models. Activities include handling samples for molecular and proteomic analyses, studying testicular extracellular matrix dynamics, and assisting in toxicological assays that evaluate the effects of endocrine disruptors and pollutants on male reproduction. The candidate will also contribute to bioinformatic analyses integrating omics data, supporting the identification of conserved pathways relevant to reproductive and environmental health, while gaining practical training in molecular biology, microscopy, and data interpretation.",
+    "other_requirements": "",
+    "additional_Info": "",
+    "requiredknowledgeandexperiences": "Experience in cell or tissue culture, gene expression analysis, or histology will be a strong asset. If not, comprehensive training will be provided."
+  },
+  {
+    "id": "BR-2026-239-BOT",
+    "offer-type": "ON-SITE",
+    "employer": "UNESP - Botucatu",
+    "workplace": "Botucatu - SP",
+    "business": "University",
+    "employees": "1000",
+    "hoursweekly": 30,
+    "hoursdaily": 6,
+    "website": "http://www.ibb.unesp.br/",
+    "country": "Brazil",
+    "city": "Botucatu",
+    "from": "04.05.2026",
+    "to": "30.06.2026",
+    "weeksmin": 8,
+    "weeksmax": 8,
+    "deadline": "31.03.2026",
+    "field1": "General;General",
+    "field2": "Biology, Mathematics and Statistics, Physics and Physical Sciences",
+    "field": "Biology, Mathematics and Statistics, Physics and Physical Sciences",
+    "completedyearsofstudy": 3,
+    "languages": [
+      {
+        "language": "English",
+        "level": "Good (B1, B2)",
+        "andor": "Or"
+      },
+      {
+        "language": "Spanish",
+        "level": "Good (B1, B2)",
+        "andor": ""
+      }
+    ],
+    "payment": [
+      {
+        "payment": 1400,
+        "currency": "BRL",
+        "period": "Monthly",
+        "deduction": "0"
+      }
+    ],
+    "lodging": [
+      {
+        "lodging": "Student with IAESTE support",
+        "lodgingcost": 800,
+        "livingcost": 1400,
+        "currency": "BRL"
+      }
+    ],
+    "description": "The candidate will study and develop mathematical models in epidemiology, focusing on the fundamental concepts of infectious disease transmission and prevalence within host populations.\n \n The work will begin with the basic Susceptible–Infected–Recovered (SIR) model and then progress to more complex frameworks, including vector-borne transmission and multi-host or multi-pathogen systems.\n \n The student will learn how to determine the equilibrium points of these dynamical systems and analyze their stability. Additionally, the basic reproduction number (R0) of each disease model will be derived and interpreted.\n \n Finally, the student will verify and validate the analytical results through numerical simulations, ensuring consistency between theoretical and computational findings.\n \n Skills that will be developed: Mathematical Model Analysis, Julia Language (coding), Data Analysis.",
+    "other_requirements": "",
+    "additional_Info": "",
+    "requiredknowledgeandexperiences": "Basic Calculus and Programming"
+  },
+  {
+    "id": "CH-2026-000006",
+    "offer-type": "ON-SITE",
+    "employer": "Burckhardt Architektur AG",
+    "workplace": "Zurich",
+    "business": "Architecture",
+    "employees": "30",
+    "hoursweekly": 42,
+    "hoursdaily": 84,
+    "website": "https://burckhardt.swiss/",
+    "country": "Switzerland",
+    "city": "Zürich",
+    "from": "01.08.2026",
+    "to": "31.03.2027",
+    "weeksmin": 26,
+    "weeksmax": 26,
+    "deadline": "31.12.2025",
+    "field1": "",
+    "field2": "Architecture",
+    "field": "Architecture",
+    "completedyearsofstudy": 2,
+    "languages": [
+      {
+        "language": "German",
+        "level": "Good (B1, B2)",
+        "andor": "Or"
+      },
+      {
+        "language": "English",
+        "level": "Good (B1, B2)",
+        "andor": ""
+      }
+    ],
+    "payment": [
+      {
+        "payment": 2500,
+        "currency": "CHF",
+        "period": "Monthly",
+        "deduction": "approx. 10 % Social security AHV/IV"
+      }
+    ],
+    "lodging": [
+      {
+        "lodging": "IAESTE LC Zurich",
+        "lodgingcost": 850,
+        "livingcost": 1650,
+        "currency": "CHF"
+      }
+    ],
+    "description": "We are one of Switzerland's leading architectural/general planning practices and committed to convincing architecture in harmony with economic and sustainable goals. Our international team in Zurich is looking for a highly motivated individual who wants to gain experience in the design and implementation of architectural projects. The tasks include the design of architectural projects in all planning phases in both small and large project teams. A high degree of independence and self-drive are required for this internship.\n \n You will learn about:\n - Drawing in AutoCAD and/or Revit\n - Building of models\n - Design and visualization\n - Presentation and documentation\n - Planning and project organization\n \n We offer:\n - exciting architectural projects in various scales and complexities \n - an instructive internship in all disciplines of architecture \n - projects in all business areas (residential, services, laboratory construction, hospital construction, industrial construction, urban development, etc.) \n - state-of-the-art planning technologies \n - a mixed and well-positioned team of around 40 committed employees in our Zurich office \n - flexibility in compatibility with work (annual working hours)",
+    "other_requirements": "Nomination documents + portfolio should NOT EXCEED 12 MB TOGETHER.",
+    "additional_Info": "Any student with Non-EU/EFTA nationality needs an official letter from their university, confirming that the internship is compulsory (required for visa/work permit).",
+    "requiredknowledgeandexperiences": "Not yet finished Master, and first practical experience in architecture office.\n Knowledge in AutoCAD; Revit and BIM/VDC experience is an advantage."
+  },
+  {
+    "id": "CH-2026-000432",
+    "offer-type": "ON-SITE",
+    "employer": "FHNW - University of Applied Sciences Northwestern Switzerland",
+    "workplace": "Windisch",
+    "business": "Applied Research, R&D, Product Development",
+    "employees": "35",
+    "hoursweekly": 42,
+    "hoursdaily": 84,
+    "website": "https://www.fhnw.ch/en/about-fhnw/schools/school-of-engineering/institutes/institute-of-polymer-nanotechnology",
+    "country": "Switzerland",
+    "city": "Windisch",
+    "from": "01.05.2026",
+    "to": "31.08.2027",
+    "weeksmin": 36,
+    "weeksmax": 52,
+    "deadline": "07.12.2025",
+    "field1": "",
+    "field2": "Chemistry and Chemical Engineering, Material Engineering and Sciences",
+    "field": "Chemistry and Chemical Engineering, Material Engineering and Sciences",
+    "completedyearsofstudy": 3,
+    "languages": [
+      {
+        "language": "English",
+        "level": "Good (B1, B2)",
+        "andor": ""
+      }
+    ],
+    "payment": [
+      {
+        "payment": 2100,
+        "currency": "CHF",
+        "period": "Monthly",
+        "deduction": "approx. 10 % Social security AHV/IV"
+      }
+    ],
+    "lodging": [
+      {
+        "lodging": "IAESTE LC Zurich",
+        "lodgingcost": 850,
+        "livingcost": 1650,
+        "currency": "CHF"
+      }
+    ],
+    "description": "FHNW is one of Switzerland’s leading universities of applied sciences and arts - known for its innovative, practice-oriented approach to teaching, research, and development.\n \n The FHNW School of Engineering and Environment supports companies and institutions in their innovation projects. Every year, around 250 new research and development projects are launched with business partners. More than 300 employees in 12 institutes generate knowledge and solutions that are made accessible for industries and markets. Our successful technology and IT research is also characterized by cooperation with national and international research partners.\n \n The Institutes of Polymer Nanotechnology (INKA) and Polymer Engineering (IKT) conduct industry-focused applied R&D projects in the areas of polymer synthesis, surface structuring on the micro- and nanoscale, chemical (surface) functionalization, coatings, plasma treatments and plasma coatings, and bulk modification through additives and fillers. \n \n The topic of traineeship will deal with the preparation and investigation of polymeric materials, processes for polymer replication on the micro- and nanoscale, chemical surface modification, plasma surface modification or the synthesis of special momomers and polymers. In this context, you will apply different experimental methods for sample preparation as well as a variety of analytical techniques for characterization.\n \n Salary varies depending on study progress: Bachelor students earn 2100 CHF, Bachelor graduates 2300 CHF and Master graduates 2500 CHF",
+    "other_requirements": "ONLY students in Europe are eligible to apply (passport can be EU and non-EU)",
+    "additional_Info": "Any student with Non-EU/EFTA nationality needs an official letter from their university, confirming that the internship is compulsory (required for visa/work permit).",
+    "requiredknowledgeandexperiences": "Also possible: Spezialisation in Chemical synthesis, Polymer modification, Surface Science, Surface Technology"
+  },
+  {
+    "id": "CM-2026-WES-0007",
+    "offer-type": "ON-SITE",
+    "employer": "Academy Collaboration Network Alliance (ACNA)",
+    "workplace": "Yaounde",
+    "business": "Research",
+    "employees": "20",
+    "hoursweekly": 35,
+    "hoursdaily": 7,
+    "website": "https://www.acna-research.org/",
+    "country": "Cameroon",
+    "city": "Yaounde",
+    "from": "02.02.2026",
+    "to": "30.04.2026",
+    "weeksmin": 8,
+    "weeksmax": 12,
+    "deadline": "15.03.2026",
+    "field1": "",
+    "field2": "Biomedical Sciences",
+    "field": "Biomedical Sciences",
+    "completedyearsofstudy": 2,
+    "languages": [
+      {
+        "language": "English",
+        "level": "Good (B1, B2)",
+        "andor": "Or"
+      },
+      {
+        "language": "French",
+        "level": "Fair (A2)",
+        "andor": ""
+      }
+    ],
+    "payment": [
+      {
+        "payment": 350,
+        "currency": "USD",
+        "period": "Monthly",
+        "deduction": "0"
+      }
+    ],
+    "lodging": [
+      {
+        "lodging": "IAESTE Cameroon Guest House",
+        "lodgingcost": 150,
+        "livingcost": 250,
+        "currency": "USD"
+      }
+    ],
+    "description": "Interns will participate in laboratory experiments, including molecular diagnostics (e.g., PCR, ELISA) and biochemical assays, ensuring meticulous documentation while adhering to safety and quality standards. They will collaborate with researchers to analyze data, optimize diagnostic methodologies, and interpret results that inform public health strategies. Interns will also engage in discussions on local healthcare challenges and solutions, enriching their global perspective on public health. Candidates with a background in Biomedical Sciences, Biochemistry, or related fields and prior laboratory experience are preferred.",
+    "other_requirements": "",
+    "additional_Info": "IAESTE Cameroon will assist students with the visa procedure.",
+    "requiredknowledgeandexperiences": "Basic Knowledge in data collection, analysis, and interpretation.\n Attention to detail, organizational skills, and the ability to work collaboratively in a multicultural setting.\n Enrolled in Biomedical Sciences, Molecular Biology, or related fields.\n Ability to approach research problems with creativity and logical reasoning.\n Knowledge in presenting findings clearly, both in writing and verbally, to diverse audiences."
+  },
+  {
+    "id": "CO-2026-UI-02",
+    "offer-type": "ON-SITE",
+    "employer": "Universidad de Ibagué",
+    "workplace": "Ibague",
+    "business": "",
+    "employees": "500",
+    "hoursweekly": 40,
+    "hoursdaily": 8,
+    "website": "https://www.unibague.edu.co/",
+    "country": "Colombia",
+    "city": "Ibagué",
+    "from": "20.04.2026",
+    "to": "11.12.2026",
+    "weeksmin": 8,
+    "weeksmax": 12,
+    "deadline": "15.03.2026",
+    "field1": "",
+    "field2": "Computer Science / Informatics",
+    "field": "Computer Science / Informatics",
+    "completedyearsofstudy": 25,
+    "languages": [
+      {
+        "language": "Spanish",
+        "level": "Good (B1, B2)",
+        "andor": "Or"
+      },
+      {
+        "language": "English",
+        "level": "Good (B1, B2)",
+        "andor": ""
+      }
+    ],
+    "payment": [
+      {
+        "payment": 1500000,
+        "currency": "COP",
+        "period": "Monthly",
+        "deduction": "15%"
+      }
+    ],
+    "lodging": [
+      {
+        "lodging": "Employer",
+        "lodgingcost": 650000,
+        "livingcost": 1300000,
+        "currency": "COP"
+      }
+    ],
+    "description": "A student is required to work as part of a team in the design, development, implementation, and explainability of image processing and machine learning\n techniques for the study and analysis of bright-field and confocal microscopy images of biological tissues and medical images of cancer. Several of the\n techniques have already been developed, and efforts are underway to make them more efficient through parallel computing. These techniques will primarily\n be used for cellular detection and cancer identification.",
+    "other_requirements": "",
+    "additional_Info": "Students nationals from Americas and Europe don't need to issue a visa if their stay is shorter than 180 days",
+    "requiredknowledgeandexperiences": "Good computing skills, particularly in Java, C or Python. Basic\n knowledge of image processing. Computer vision or machine learning techniques a plus."
+  },
+  {
+    "id": "CO-2026-USTAT-02",
+    "offer-type": "ON-SITE",
+    "employer": "Universidad Santo Tomás - Tunja",
+    "workplace": "Tunja",
+    "business": "Higher education",
+    "employees": "400",
+    "hoursweekly": 40,
+    "hoursdaily": 8,
+    "website": "https://www.ustatunja.edu.co/",
+    "country": "Colombia",
+    "city": "Tunja",
+    "from": "01.06.2026",
+    "to": "30.11.2026",
+    "weeksmin": 8,
+    "weeksmax": 16,
+    "deadline": "15.03.2026",
+    "field1": "",
+    "field2": "Electrical Engineering, Electronics Engineering",
+    "field": "Electrical Engineering, Electronics Engineering",
+    "completedyearsofstudy": 25,
+    "languages": [
+      {
+        "language": "Spanish",
+        "level": "Good (B1, B2)",
+        "andor": "Or"
+      },
+      {
+        "language": "English",
+        "level": "Good (B1, B2)",
+        "andor": ""
+      }
+    ],
+    "payment": [
+      {
+        "payment": 1500000,
+        "currency": "COP",
+        "period": "Monthly",
+        "deduction": "0"
+      }
+    ],
+    "lodging": [
+      {
+        "lodging": "Employer",
+        "lodgingcost": 800000,
+        "livingcost": 1500000,
+        "currency": "COP"
+      }
+    ],
+    "description": "The candidate should work on image labeling and programming computer vision algorithms for object identification and classification in embedded systems. Basic knowledge of Python and programming logic fundamentals is desirable. Experience in image processing, optimization of algorithms for low-power hardware such as Raspberry Pi or Jetson Nano, and use of libraries such as OpenCV, TensorFlow or PyTorch for machine vision applied to real-time image classification is an asset.",
+    "other_requirements": "",
+    "additional_Info": "Students from Americas and Europe don't need to issue a visa if their stay is shorter than 180 days",
+    "requiredknowledgeandexperiences": "Embedded Systems and Machine Vision"
+  },
+  {
+    "id": "CO-2026-UV-02",
+    "offer-type": "ON-SITE",
+    "employer": "Universidad del Valle",
+    "workplace": "Caicedonia - Valle del Cauca",
+    "business": "Education & Research",
+    "employees": "100",
+    "hoursweekly": 40,
+    "hoursdaily": 8,
+    "website": "https://www.univalle.edu.co/",
+    "country": "Colombia",
+    "city": "Cali",
+    "from": "03.08.2026",
+    "to": "15.12.2026",
+    "weeksmin": 12,
+    "weeksmax": 16,
+    "deadline": "15.03.2026",
+    "field1": "",
+    "field2": "Agriculture, Biotechnology, Chemistry and Chemical Engineering, Food Science",
+    "field": "Agriculture, Biotechnology, Chemistry and Chemical Engineering, Food Science",
+    "completedyearsofstudy": 25,
+    "languages": [
+      {
+        "language": "Spanish",
+        "level": "Good (B1, B2)",
+        "andor": "Or"
+      },
+      {
+        "language": "English",
+        "level": "Good (B1, B2)",
+        "andor": ""
+      }
+    ],
+    "payment": [
+      {
+        "payment": 2300000,
+        "currency": "COP",
+        "period": "Monthly",
+        "deduction": "7%"
+      }
+    ],
+    "lodging": [
+      {
+        "lodging": "Employer and trainee",
+        "lodgingcost": 600000,
+        "livingcost": 1500000,
+        "currency": "COP"
+      }
+    ],
+    "description": "The Research Group in Innovation and Development of Specialty Coffee, aims to conduct research across two lines: the transformation of specialty coffees and the governance and sustainability of the coffee ecosystem. We are seeking students in Chemical Engineering, Food Engineering, Biotechnology, Agricultural Engineering, and Agro-Industrial Engineering, who are interested in understanding how post-harvest processes affect coffee quality. Specialty Coffee refers to coffee that is graded 80 points or higher, on a 100 point scale, which has been certified by a licensed Specialty Coffee Association (SCA) Q Grader (CQI). At the RoastLab, Univalle https://sigelab.net/laboratorio/ElKStj7fl51OmQ6bvi5o , physical and chemical tests are conducted on Arabica coffee beans grown in the Colombian Coffee Cultural Landscape area. The purpose is to identify the potential for specialty coffee that can be valued by coffee consumers worldwide. These results are then transferred to producers to help standardize the processes that enable them to obtain better coffee and become more competitive in global markets.\n The student will develop the following tasks: Physical characterization of green (fresh), dried, and roasted coffee beans. Chemical characterization of green, dried, and roasted coffee beans. Experimentation in the lab and on the farm (in the field, at the productive unit, to obtain a specialty coffee). Participation in the results transfer processes with producers and the academic community. Support in the analysis of relocation agendas and the production agenda for the region (Valle del Cauca) with sustainable development criteria. ​​Participation in academic meetings, seminars, and research debates.",
+    "other_requirements": "",
+    "additional_Info": "Americas and Europe students don´t need to issue a visa if their stay is shorter than 180 days.",
+    "requiredknowledgeandexperiences": "Data Analytics, Analysis Reporting, is a plus if has intrest in Coffee studies."
+  },
+  {
+    "id": "CZ-2026-020002",
+    "offer-type": "ON-SITE",
+    "employer": "Procter & Gamble - Rakona, s.r.o.",
+    "workplace": "Rakovník",
+    "business": "business",
+    "employees": "400",
+    "hoursweekly": 40,
+    "hoursdaily": 8,
+    "website": "procter-gamble.cz",
+    "country": "Czech Republic",
+    "city": "Rakovnik",
+    "from": "02.02.2026",
+    "to": "02.10.2026",
+    "weeksmin": 12,
+    "weeksmax": 12,
+    "deadline": "15.03.2026",
+    "field1": "General;Computer and Information Research;Database Architecture",
+    "field2": "Computer Science / Informatics",
+    "field": "Computer Science / Informatics",
+    "completedyearsofstudy": 2,
+    "languages": [
+      {
+        "language": "English",
+        "level": "Good (B1, B2)",
+        "andor": "Or"
+      },
+      {
+        "language": "Czech",
+        "level": "Good (B1, B2)",
+        "andor": ""
+      }
+    ],
+    "payment": [
+      {
+        "payment": 30000,
+        "currency": "CZK",
+        "period": "Monthly",
+        "deduction": "0"
+      }
+    ],
+    "lodging": [
+      {
+        "lodging": "Employer",
+        "lodgingcost": 0,
+        "livingcost": 8000,
+        "currency": "CZK"
+      }
+    ],
+    "description": "The project is executed in the FMCG manufacturing facility. Project scope is to understand to current digitalization level of manufacturing and work through IOT platform on increasing productivity process flows. The objective is to develop most recent digital solution which will be reimplemented in the other P&G factories all over the globe. The cost accommodation will be covered by company.",
+    "other_requirements": "Online interview and online testing of students skills will be required. Only students who dont need VISA for Europe can apply\n Due to the Turkey GDPR legislation Turkish students are excluded from this request, no data from Turkish citizens will be shared with P&G.",
+    "additional_Info": "Please follow the instructions for preparing the nomination documents and the visa process in the attached document. This document ia only for you and your student, please don't include it in your student's nomination.\n IAESTE provides accommodation in the student dormitory, where interns are housed in shared double rooms with same-sex roommates. If an intern prefers a single room, they are responsible for arranging alternative accommodation independently.",
+    "requiredknowledgeandexperiences": "MVC architecture (model view controller), OOP (object oriented programming), Computer Programming, Data entry, Database administration"
+  },
+  {
+    "id": "EC-2026-EC-004",
+    "offer-type": "ON-SITE",
+    "employer": "BIOMETRIKA S.A.",
+    "workplace": "Quito, Ecuador",
+    "business": "Over 20 years of specialization in time management and human identification.",
+    "employees": "15",
+    "hoursweekly": 30,
+    "hoursdaily": 6,
+    "website": "www.biometrika.ec",
+    "country": "Ecuador",
+    "city": "Quito",
+    "from": "04.09.2026",
+    "to": "27.11.2026",
+    "weeksmin": 11,
+    "weeksmax": 12,
+    "deadline": "13.02.2026",
+    "field1": "Artificial Intelligence;Machine Learning",
+    "field2": "Computer Science / Informatics",
+    "field": "Computer Science / Informatics",
+    "completedyearsofstudy": 3,
+    "languages": [
+      {
+        "language": "English",
+        "level": "Good (B1, B2)",
+        "andor": ""
+      }
+    ],
+    "payment": [
+      {
+        "payment": 470,
+        "currency": "USD",
+        "period": "Monthly",
+        "deduction": "0"
+      }
+    ],
+    "lodging": [
+      {
+        "lodging": "IAESTE",
+        "lodgingcost": 250,
+        "livingcost": 470,
+        "currency": "USD"
+      }
+    ],
+    "description": "Improving the functionality of the Robot Daniela Project through software development and the integration of peripherals such as cameras and API connections",
+    "other_requirements": "Computer Science, with a focus on Artificial Intelligence / Machine Learning.",
+    "additional_Info": "As a student you will be enrolled at Universidad San Francisco de Quito , therefore your legal status in Ecuador will be as a student doing a cultural exchange program , in order to complete your studies. Despite of the fact that Ecuador allows almost every country to come as a tourist, you must to request an extension of permanence in Ecuador if you stay longer than 90 days. It is mandatory to apply a visa before coming to Ecuador for the following countries: Afganistan, Angola, Bangladesh, Republic of Cameroon, Cuba, Egypt, Eritrea, Etiopia, Gambia, Ghana, Guinera, Haiti, Ivory Coast, India, Irak, Kenia, Libia, Nepal, Nigeria, Pakistán, Philippines, Democratic Republic of the Congo, North Korea, Senegal, Siria, Somalia, Sri Lanka, Venezuela, Vietnam, Yemen.\n Students must have Health Insurance. Accommodation will be arranged by IAESTE ECUADOR in the case that student will want our help. We will pick you up from the airport and take you to your Guest House.",
+    "requiredknowledgeandexperiences": "Degree programs in Systems, Computer, and Information Engineering."
+  },
+  {
+    "id": "EC-2026-EC-005",
+    "offer-type": "ON-SITE",
+    "employer": "Huella Verde",
+    "workplace": "Quito, Ecuador",
+    "business": "Zero Waste in food courts. We replace single-use containers with reusable tableware and recover the waste we cannot avoid.",
+    "employees": "79",
+    "hoursweekly": 30,
+    "hoursdaily": 6,
+    "website": "https://www.huellaverde.com.ec/",
+    "country": "Ecuador",
+    "city": "Quito",
+    "from": "01.05.2026",
+    "to": "02.10.2026",
+    "weeksmin": 12,
+    "weeksmax": 26,
+    "deadline": "13.02.2026",
+    "field1": "",
+    "field2": "Industrial Engineering / System Engineering",
+    "field": "Industrial Engineering / System Engineering",
+    "completedyearsofstudy": 3,
+    "languages": [
+      {
+        "language": "English",
+        "level": "Good (B1, B2)",
+        "andor": "And"
+      },
+      {
+        "language": "Spanish",
+        "level": "Good (B1, B2)",
+        "andor": ""
+      }
+    ],
+    "payment": [
+      {
+        "payment": 470,
+        "currency": "USD",
+        "period": "Monthly",
+        "deduction": "0"
+      }
+    ],
+    "lodging": [
+      {
+        "lodging": "IAESTE",
+        "lodgingcost": 250,
+        "livingcost": 470,
+        "currency": "USD"
+      }
+    ],
+    "description": "• Review previously established processes and procedures through documentation and team meetings.\n • Plan and implement the Quality Management System (QMS).\n • Review and improve audit templates based on the QMS.\n • Data management.\n • Provide training on QMS implementation.\n • Collaborate with different departments.\n • Identify risks and opportunities found during the QMS evaluation.\n • Optimize processes.\n • Manage QMS documentation.",
+    "other_requirements": "Analysis, problem-solving, results orientation, leadership, teamwork, adaptability, continuous learning, proactivity, and effective communication.",
+    "additional_Info": "As a student you will be enrolled at Universidad San Francisco de Quito , therefore your legal status in Ecuador will be as a student doing a cultural exchange program , in order to complete your studies. Despite of the fact that Ecuador allows almost every country to come as a tourist, you must to request an extension of permanence in Ecuador if you stay longer than 90 days. It is mandatory to apply a visa before coming to Ecuador for the following countries: Afganistan, Angola, Bangladesh, Republic of Cameroon, Cuba, Egypt, Eritrea, Etiopia, Gambia, Ghana, Guinera, Haiti, Ivory Coast, India, Irak, Kenia, Libia, Nepal, Nigeria, Pakistán, Philippines, Democratic Republic of the Congo, North Korea, Senegal, Siria, Somalia, Sri Lanka, Venezuela, Vietnam, Yemen.\n Students must have Health Insurance. Accommodation will be arranged by IAESTE ECUADOR in the case that student will want our help. We will pick you up from the airport and take you to your Guest House.",
+    "requiredknowledgeandexperiences": "Having knowledge of the processes and tools a company needs to improve its planning and internal activities, in order to efficiently achieve its strategic objectives.\n Intermediate level of Spanish."
+  },
+  {
+    "id": "EC-2026-EC-010",
+    "offer-type": "ON-SITE",
+    "employer": "UNIVERSIDAD SAN FRANCISCO DE QUITO",
+    "workplace": "Quito, Ecuador",
+    "business": "Education",
+    "employees": "1000",
+    "hoursweekly": 30,
+    "hoursdaily": 6,
+    "website": "https://www.usfq.edu.ec/es",
+    "country": "Ecuador",
+    "city": "Quito",
+    "from": "01.05.2026",
+    "to": "28.08.2026",
+    "weeksmin": 10,
+    "weeksmax": 12,
+    "deadline": "13.02.2026",
+    "field1": "General",
+    "field2": "Biotechnology, Chemistry and Chemical Engineering, Environmental Engineering/Sciences",
+    "field": "Biotechnology, Chemistry and Chemical Engineering, Environmental Engineering/Sciences",
+    "completedyearsofstudy": 3,
+    "languages": [
+      {
+        "language": "English",
+        "level": "Good (B1, B2)",
+        "andor": ""
+      }
+    ],
+    "payment": [
+      {
+        "payment": 470,
+        "currency": "USD",
+        "period": "Monthly",
+        "deduction": "0"
+      }
+    ],
+    "lodging": [
+      {
+        "lodging": "IAESTE",
+        "lodgingcost": 250,
+        "livingcost": 470,
+        "currency": "USD"
+      }
+    ],
+    "description": "The intern will assist in collecting and analyzing water and sediment samples based on physical-parameters. The student will also participate in laboratory experiments to characterize microbial communities using microbiological and molecular techniques. Additional responsibilities include documenting experimental procedures, managing data, and contributing to the interpretation of results. The intern will also support for preparing reports or presentations to communicate findings to the research team, and to attend weekly lab meetings.",
+    "other_requirements": "Candidates should have a basic understanding of bioprocesses, microbiology, environmental sciences, or related fields. Strong analytical and problem-solving skills, attention to detail, and the ability to work both independently and as part of a team are essential. Familiarity with laboratory techniques and a genuine interest in sustainable environmental solutions, particularly bioremediation processes, are highly desirable.",
+    "additional_Info": "As a student you will be enrolled at Universidad San Francisco de Quito , therefore your legal status in Ecuador will be as a student doing a cultural exchange program , in order to complete your studies. Despite of the fact that Ecuador allows almost every country to come as a tourist, you must to request an extension of permanence in Ecuador if you stay longer than 90 days. It is mandatory to apply a visa before coming to Ecuador for the following countries: Afganistan, Angola, Bangladesh, Republic of Cameroon, Cuba, Egypt, Eritrea, Etiopia, Gambia, Ghana, Guinera, Haiti, Ivory Coast, India, Irak, Kenia, Libia, Nepal, Nigeria, Pakistán, Philippines, Democratic Republic of the Congo, North Korea, Senegal, Siria, Somalia, Sri Lanka, Venezuela, Vietnam, Yemen.\n Students must have Health Insurance. Accommodation will be arranged by IAESTE ECUADOR in the case that student will want our help. We will pick you up from the airport and take you to your Guest House.",
+    "requiredknowledgeandexperiences": "A complete academic record, a motivation letter, and a personal interview."
+  },
+  {
+    "id": "EC-2026-EC-012",
+    "offer-type": "ON-SITE",
+    "employer": "UNIVERSIDAD SAN FRANCISCO DE QUITO",
+    "workplace": "Quito, Ecuador",
+    "business": "Education",
+    "employees": "1000",
+    "hoursweekly": 30,
+    "hoursdaily": 6,
+    "website": "https://www.usfq.edu.ec/es",
+    "country": "Ecuador",
+    "city": "Quito",
+    "from": "03.04.2026",
+    "to": "28.08.2026",
+    "weeksmin": 8,
+    "weeksmax": 9,
+    "deadline": "13.02.2026",
+    "field1": "",
+    "field2": "Computer Science / Informatics, Industrial Engineering / System Engineering",
+    "field": "Computer Science / Informatics, Industrial Engineering / System Engineering",
+    "completedyearsofstudy": 3,
+    "languages": [
+      {
+        "language": "English",
+        "level": "Good (B1, B2)",
+        "andor": "And"
+      },
+      {
+        "language": "Spanish",
+        "level": "Fair (A2)",
+        "andor": ""
+      }
+    ],
+    "payment": [
+      {
+        "payment": 470,
+        "currency": "USD",
+        "period": "Monthly",
+        "deduction": "0"
+      }
+    ],
+    "lodging": [
+      {
+        "lodging": "IAESTE",
+        "lodgingcost": 250,
+        "livingcost": 470,
+        "currency": "USD"
+      }
+    ],
+    "description": "Supply chain in the era of Industry 6.0\n - Literature Review in topics related to the Project, Develop models (optimization models and machine learning), Record references\n - Knowledge of Python, Python (programming skills), Handle drones and sensors Manage Research tools (latex, Mendeley)\n - Industry 4.0, Industry 5.0, Logistics, Supply Chain",
+    "other_requirements": "Knowledge of Python, Python (programming skills), Handle drones and sensors Manage Research tools (latex, Mendeley)",
+    "additional_Info": "As a student you will be enrolled at Universidad San Francisco de Quito , therefore your legal status in Ecuador will be as a student doing a cultural exchange program , in order to complete your studies. Despite of the fact that Ecuador allows almost every country to come as a tourist, you must to request an extension of permanence in Ecuador if you stay longer than 90 days. It is mandatory to apply a visa before coming to Ecuador for the following countries: Afganistan, Angola, Bangladesh, Republic of Cameroon, Cuba, Egypt, Eritrea, Etiopia, Gambia, Ghana, Guinera, Haiti, Ivory Coast, India, Irak, Kenia, Libia, Nepal, Nigeria, Pakistán, Philippines, Democratic Republic of the Congo, North Korea, Senegal, Siria, Somalia, Sri Lanka, Venezuela, Vietnam, Yemen.\n Students must have Health Insurance. Accommodation will be arranged by IAESTE ECUADOR in the case that student will want our help. We will pick you up from the airport and take you to your Guest House.",
+    "requiredknowledgeandexperiences": "Students from Industrial Engineering or Computer Science, Language Skills in Spanish and English"
+  },
+  {
+    "id": "EC-2026-EC-019",
+    "offer-type": "ON-SITE",
+    "employer": "UNIVERSIDAD SAN FRANCISCO DE QUITO",
+    "workplace": "Quito, Ecuador",
+    "business": "Education",
+    "employees": "1000",
+    "hoursweekly": 30,
+    "hoursdaily": 6,
+    "website": "https://www.usfq.edu.ec/es",
+    "country": "Ecuador",
+    "city": "Quito",
+    "from": "05.01.2026",
+    "to": "29.05.2026",
+    "weeksmin": 8,
+    "weeksmax": 10,
+    "deadline": "13.02.2026",
+    "field1": "",
+    "field2": "Industrial Engineering / System Engineering",
+    "field": "Industrial Engineering / System Engineering",
+    "completedyearsofstudy": 3,
+    "languages": [
+      {
+        "language": "English",
+        "level": "Good (B1, B2)",
+        "andor": ""
+      }
+    ],
+    "payment": [
+      {
+        "payment": 470,
+        "currency": "USD",
+        "period": "Monthly",
+        "deduction": "0"
+      }
+    ],
+    "lodging": [
+      {
+        "lodging": "IAESTE",
+        "lodgingcost": 250,
+        "livingcost": 470,
+        "currency": "USD"
+      }
+    ],
+    "description": "Conduct a benchmarking analysis of the degree program to evaluate its positioning compared to similar programs in Ecuador and around the world.",
+    "other_requirements": "None in particular, beyond the ability to conduct benchmarking.\n Marketing / Industrial Engineering or related Engineering fields / Business Administration and similar areas.",
+    "additional_Info": "As a student you will be enrolled at Universidad San Francisco de Quito , therefore your legal status in Ecuador will be as a student doing a cultural exchange program , in order to complete your studies. Despite of the fact that Ecuador allows almost every country to come as a tourist, you must to request an extension of permanence in Ecuador if you stay longer than 90 days. It is mandatory to apply a visa before coming to Ecuador for the following countries: Afganistan, Angola, Bangladesh, Republic of Cameroon, Cuba, Egypt, Eritrea, Etiopia, Gambia, Ghana, Guinera, Haiti, Ivory Coast, India, Irak, Kenia, Libia, Nepal, Nigeria, Pakistán, Philippines, Democratic Republic of the Congo, North Korea, Senegal, Siria, Somalia, Sri Lanka, Venezuela, Vietnam, Yemen.\n Students must have Health Insurance. Accommodation will be arranged by IAESTE ECUADOR in the case that student will want our help. We will pick you up from the airport and take you to your Guest House.",
+    "requiredknowledgeandexperiences": "Not being at an early stage of their degree, preferably at an intermediate or advanced level, and having knowledge of how to make comparisons and/or conduct benchmarking."
+  },
+  {
+    "id": "EG-2026-CUFE-9",
+    "offer-type": "ON-SITE",
+    "employer": "Faculty of Engineering, Cairo University",
+    "workplace": "Cairo University",
+    "business": "Engineering and applied science",
+    "employees": "100",
+    "hoursweekly": 40,
+    "hoursdaily": 8,
+    "website": "cu.edu.eg",
+    "country": "Egypt",
+    "city": "12613",
+    "from": "01.07.2026",
+    "to": "31.08.2026",
+    "weeksmin": 4,
+    "weeksmax": 6,
+    "deadline": "15.03.2026",
+    "field1": "General;Sustainable and Renewable Energy Engineering;General;General",
+    "field2": "Computer Science / Informatics, Mechanical Engineering, Power Engineering",
+    "field": "Computer Science / Informatics, Mechanical Engineering, Power Engineering",
+    "completedyearsofstudy": 3,
+    "languages": [
+      {
+        "language": "English",
+        "level": "Good (B1, B2)",
+        "andor": "Or"
+      },
+      {
+        "language": "Arabic",
+        "level": "Good (B1, B2)",
+        "andor": ""
+      }
+    ],
+    "payment": [
+      {
+        "payment": 10000,
+        "currency": "EGP",
+        "period": "Monthly",
+        "deduction": "0"
+      }
+    ],
+    "lodging": [
+      {
+        "lodging": "Employer",
+        "lodgingcost": 0,
+        "livingcost": 8000,
+        "currency": "EGP"
+      }
+    ],
+    "description": "The Engineering and Renewable Energy Engineering internship is a research-oriented experience that builds a broad understanding of clean-energy technologies and their role in achieving a low-carbon, healthy environment. Interns review academic and industry literature; compare renewable options such as solar, wind, storage, and efficiency across buildings, industry, agriculture, transport, and water; study fundamentals of energy systems, grid integration, and decarbonization pathways; and synthesize policy, market, and environmental considerations. The focus is on systems thinking, sustainability ethics, and clear communication. Typical outputs include brief summaries, concept notes, and presentations that highlight opportunities, risks, and high-level recommendations for expanding the use of renewables to support a cleaner environment.",
+    "other_requirements": "An interview",
+    "additional_Info": "Interview must be done before acceptance. \n Some social events will be arranged during the training.",
+    "requiredknowledgeandexperiences": "Research"
+  },
+  {
+    "id": "EG-2026-PR-4",
+    "offer-type": "ON-SITE",
+    "employer": "Project Risk",
+    "workplace": "Cairo University",
+    "business": "Education, Project Risk",
+    "employees": "20",
+    "hoursweekly": 40,
+    "hoursdaily": 8,
+    "website": "",
+    "country": "Egypt",
+    "city": "Giza",
+    "from": "01.07.2026",
+    "to": "31.08.2026",
+    "weeksmin": 4,
+    "weeksmax": 6,
+    "deadline": "15.03.2026",
+    "field1": "General;Industrial Design & Product Development Engineering;General;General;Marketing",
+    "field2": "Computer Science / Informatics, Economics, Business, Management and Marketing, Mechanical Engineering",
+    "field": "Computer Science / Informatics, Economics, Business, Management and Marketing, Mechanical Engineering",
+    "completedyearsofstudy": 3,
+    "languages": [
+      {
+        "language": "English",
+        "level": "Good (B1, B2)",
+        "andor": "Or"
+      },
+      {
+        "language": "Arabic",
+        "level": "Good (B1, B2)",
+        "andor": ""
+      }
+    ],
+    "payment": [
+      {
+        "payment": 10000,
+        "currency": "EGP",
+        "period": "Monthly",
+        "deduction": "0"
+      }
+    ],
+    "lodging": [
+      {
+        "lodging": "Employer",
+        "lodgingcost": 0,
+        "livingcost": 8000,
+        "currency": "EGP"
+      }
+    ],
+    "description": "A research-oriented internship that explores the economics of renewable energy across regions and selected countries, emphasizing broad cost trends, policy environments, financing approaches, and their potential impacts on development and the environment. Interns review reputable sources, compare high-level patterns, and synthesize findings into brief summaries and presentations with general recommendations for institutions and policymakers. The role prioritizes analytical thinking, curiosity, and clear, concise writing.",
+    "other_requirements": "An interview",
+    "additional_Info": "",
+    "requiredknowledgeandexperiences": "-Research"
+  },
+  {
+    "id": "ES-2026-7100",
+    "offer-type": "ON-SITE",
+    "employer": "AIMPLAS",
+    "workplace": "Paterna (Valencia)",
+    "business": "I+D+i",
+    "employees": "265",
+    "hoursweekly": 335,
+    "hoursdaily": 67,
+    "website": "www.aimplas.es",
+    "country": "Spain",
+    "city": "Paterna",
+    "from": "03.02.2026",
+    "to": "31.07.2026",
+    "weeksmin": 24,
+    "weeksmax": 24,
+    "deadline": "10.01.2026",
+    "field1": "Polymer/Plastics Engineering;Polymer/Plastics Engineering",
+    "field2": "Aerospace, Aeronautical and Astronautical/Space Engineering, Chemistry and Chemical Engineering, Material Engineering and Sciences",
+    "field": "Aerospace, Aeronautical and Astronautical/Space Engineering, Chemistry and Chemical Engineering, Material Engineering and Sciences",
+    "completedyearsofstudy": 4,
+    "languages": [
+      {
+        "language": "English",
+        "level": "Excellent (C1, C2)",
+        "andor": "And"
+      },
+      {
+        "language": "Spanish",
+        "level": "Good (B1, B2)",
+        "andor": ""
+      }
+    ],
+    "payment": [
+      {
+        "payment": 800,
+        "currency": "EUR",
+        "period": "Monthly",
+        "deduction": "0"
+      }
+    ],
+    "lodging": [
+      {
+        "lodging": "LC IAESTE Valencia",
+        "lodgingcost": 400,
+        "livingcost": 600,
+        "currency": "EUR"
+      }
+    ],
+    "description": "Detailed Job Description\n \n Conduct state-of-the-art reviews and bibliographic research in areas of interest related to the mobility sector.\n \n Perform experimental work and pilot-scale testing for the development of new materials, including compounding, compression molding, resin infusion, and related processes.\n \n Prepare detailed technical reports summarizing experimental results and findings.\n \n Participate in meetings with potential clients to present AIMPLAS’ technological capabilities and expertise.\n \n Gain an introduction to AIMPLAS’ internal working model and project management methodologies.\n \n Provide support in the execution of ongoing R&D&I projects, contributing to their technical and operational development.",
+    "other_requirements": "Only EU-Schengen passport holders\n \n It is recommended to have some knowledge of Spanish for a better understanding with the rest of staff.",
+    "additional_Info": "",
+    "requiredknowledgeandexperiences": "Any prior knowledge related to polymers and composite materials will be highly valued. Polymer chemistry and materials for energy storage will also be considered areas of interest.\n A strong interest in industries such as aerospace, automotive, and marine will be positively regarded."
+  },
+  {
+    "id": "GH-2026-018",
+    "offer-type": "ON-SITE",
+    "employer": "Recycle Up! Ghana",
+    "workplace": "Fumesua",
+    "business": "Climate Innovation",
+    "employees": "10",
+    "hoursweekly": 40,
+    "hoursdaily": 8,
+    "website": "http://www.recycleupghana.org",
+    "country": "Ghana",
+    "city": "Kumasi",
+    "from": "01.07.2026",
+    "to": "31.12.2026",
+    "weeksmin": 4,
+    "weeksmax": 12,
+    "deadline": "15.03.2026",
+    "field1": "General;General",
+    "field2": "Education, Environmental Engineering/Sciences",
+    "field": "Education, Environmental Engineering/Sciences",
+    "completedyearsofstudy": 2,
+    "languages": [
+      {
+        "language": "English",
+        "level": "Good (B1, B2)",
+        "andor": ""
+      }
+    ],
+    "payment": [
+      {
+        "payment": 500,
+        "currency": "GHC",
+        "period": "Monthly",
+        "deduction": ""
+      }
+    ],
+    "lodging": [
+      {
+        "lodging": "IAESTE Ghana",
+        "lodgingcost": 0,
+        "livingcost": 1000,
+        "currency": "GHC"
+      }
+    ],
+    "description": "The intern will play a crucial role in supporting climate innovation initiatives by utilizing their skills and knowledge to advance research and development efforts aimed at combating climate change and fostering sustainable solutions. This internship provides a unique opportunity to work on cutting-edge projects, collaborate with experts, and contribute to impactful climate innovation strategies.",
+    "other_requirements": "",
+    "additional_Info": "Accommodation will be arranged and paid by IAESTE Ghana. IAESTE Ghana will organize receptions, sightseeing trips and other social programs for the intern.",
+    "requiredknowledgeandexperiences": "Teamwork"
+  },
+  {
+    "id": "GH-2026-035-AC",
+    "offer-type": "ON-SITE",
+    "employer": "Henos Energy Limited Company",
+    "workplace": "Accra",
+    "business": "Business",
+    "employees": "50",
+    "hoursweekly": 50,
+    "hoursdaily": 10,
+    "website": "www.henosenergy.com",
+    "country": "Ghana",
+    "city": "Accra",
+    "from": "01.06.2026",
+    "to": "31.12.2026",
+    "weeksmin": 8,
+    "weeksmax": 12,
+    "deadline": "15.03.2026",
+    "field1": "General;Information Technology;General",
+    "field2": "Computer Science / Informatics, Computer Software/Hardware Engineering",
+    "field": "Computer Science / Informatics, Computer Software/Hardware Engineering",
+    "completedyearsofstudy": 2,
+    "languages": [
+      {
+        "language": "English",
+        "level": "Good (B1, B2)",
+        "andor": ""
+      }
+    ],
+    "payment": [
+      {
+        "payment": 1000,
+        "currency": "GHC",
+        "period": "Monthly",
+        "deduction": ""
+      }
+    ],
+    "lodging": [
+      {
+        "lodging": "IAESTE Ghana",
+        "lodgingcost": 1000,
+        "livingcost": 2000,
+        "currency": "GHC"
+      }
+    ],
+    "description": "The company seeks to empower communities through reliable and safe energy solutions. We commit to providing efficient gas cylinder refilling and distribution services while prioritizing health and safety of customers.\n \n Student will join a team who work in various regions of the country to ensure efficient gas refill and distribution. This is a Computer Science-focused role, and interns are expected to have programming skills to assist in software, app, and system-related tasks. Assignments and departmental responsibilities will be tailored to the student’s academic background and interests, providing exposure to technical problem-solving, operational planning, programming-based solutions, and stakeholder engagement.\n \n Job responsibilities and departmental assignments will be tailored based on student's interest and field of study",
+    "other_requirements": "Excel, human relation skills",
+    "additional_Info": "The employer will help arrange for the accommodation. IAESTE Ghana will organize receptions, sightseeing trips and other social programs for the intern.",
+    "requiredknowledgeandexperiences": "Good human relation skills/knowledge in any programming language"
+  },
+  {
+    "id": "GH-2026-044",
+    "offer-type": "ON-SITE",
+    "employer": "Kwame Nkrumah University of Science and Technology (KNUST) Department of Food Science and Technology",
+    "workplace": "KNUST",
+    "business": "University Education",
+    "employees": "20",
+    "hoursweekly": 40,
+    "hoursdaily": 8,
+    "website": "knust.edu.gh",
+    "country": "Ghana",
+    "city": "Kumasi",
+    "from": "01.09.2026",
+    "to": "31.12.2026",
+    "weeksmin": 8,
+    "weeksmax": 12,
+    "deadline": "15.03.2026",
+    "field1": "General;Food Technology and Processing;Nutrition & Health",
+    "field2": "Food Science",
+    "field": "Food Science",
+    "completedyearsofstudy": 2,
+    "languages": [
+      {
+        "language": "English",
+        "level": "Good (B1, B2)",
+        "andor": ""
+      }
+    ],
+    "payment": [
+      {
+        "payment": 500,
+        "currency": "GHC",
+        "period": "Monthly",
+        "deduction": ""
+      }
+    ],
+    "lodging": [
+      {
+        "lodging": "Arranged and paid by IAESTE",
+        "lodgingcost": 0,
+        "livingcost": 600,
+        "currency": "GHC"
+      }
+    ],
+    "description": "The student will partake in an ongoing projects being carried out by the Food Science Department which comprises of field work and a laboratory research. \n \n The research focuses on:\n \n • Food product development\n • Food processing\n • Food analysis\n • Mycotoxin and toxicological analysis\n • Chromatography involving High-Performance Liquid Chromatography (HPLC)\n • Risk and determination of other risk of food.",
+    "other_requirements": "",
+    "additional_Info": "Accommodation will be arranged and paid for by IAESTE Ghana. IAESTE Ghana will organize receptions, sightseeing trips and other social programs for the intern.",
+    "requiredknowledgeandexperiences": "Previous knowledge of work offered is required"
+  },
+  {
+    "id": "GH-2026-055",
+    "offer-type": "ON-SITE",
+    "employer": "Hydroponics and Agritech Gh",
+    "workplace": "Nationwide",
+    "business": "Agriculture",
+    "employees": "10",
+    "hoursweekly": 40,
+    "hoursdaily": 8,
+    "website": "",
+    "country": "Ghana",
+    "city": "Eastern Region",
+    "from": "01.06.2026",
+    "to": "31.12.2026",
+    "weeksmin": 6,
+    "weeksmax": 24,
+    "deadline": "15.03.2026",
+    "field1": "General;Applied Horticulture;Plant Sciences",
+    "field2": "Agriculture",
+    "field": "Agriculture",
+    "completedyearsofstudy": 3,
+    "languages": [
+      {
+        "language": "English",
+        "level": "Fair (A2)",
+        "andor": ""
+      }
+    ],
+    "payment": [
+      {
+        "payment": 715,
+        "currency": "GHC",
+        "period": "Monthly",
+        "deduction": ""
+      }
+    ],
+    "lodging": [
+      {
+        "lodging": "Employer",
+        "lodgingcost": 0,
+        "livingcost": 1000,
+        "currency": "GHC"
+      }
+    ],
+    "description": "Introduction\n This internship provides international students with hands-on exposure to Ghana’s advancing agricultural and agri-tech landscape. Based in Kumasi and Abetima, the cultural capital of Ghana and a major center for commerce, research, and agricultural innovation, interns will also have the opportunity to travel across Ghana to support field operations, advisory services, and mapping of agricultural projects. The placement is ideal for students with interests in agricultural sciences, plant health, crop production, ICT in agriculture, or farm management technologies.\n \n Internship Work Areas\n The intern will have the opportunity to work across a diverse range of operational and technical units, depending on their background, interests, and experience. Potential areas of assignment include:\n \n Crop Production\n Supporting field operations such as land preparation, planting, crop monitoring, and yield assessments.\n \n Plant Health Clinic\n Participating in plant disease diagnosis, pest identification, and recommending evidence-based control measures.\n \n Sale of Agricultural Inputs\n Supporting input distribution strategies, client engagement, and inventory management for seeds, fertilizers, and agrochemicals.\n \n Extension Services to Farmers\n Assisting field officers in delivering advisory services, conducting farm visits, and collecting agronomic data to support improved production practices.\n \n Mobile App Development and Support\n Contributing to the development, testing, and optimization of digital applications used for farm data capture, advisory services, and farmer engagement.\n \n Farm ERP Support\n Providing technical assistance for Enterprise Resource Planning systems used for farm record-keeping, monitoring, and operational planning.\n \n Based on the intern’s competencies and career interests, they may be placed within a specific unit where they will gain hands-on experience and contribute directly to ongoing agricultural development projects and digital innovation initiatives.",
+    "other_requirements": "",
+    "additional_Info": "",
+    "requiredknowledgeandexperiences": "Agriculture, Agribusiness, Agritech (preferred) programming/Ai)"
+  },
+  {
+    "id": "GH-2026-058",
+    "offer-type": "ON-SITE",
+    "employer": "Medilab Diagnostic Services Limited",
+    "workplace": "Kumasi",
+    "business": "Medical Laboratory Services",
+    "employees": "20",
+    "hoursweekly": 40,
+    "hoursdaily": 8,
+    "website": "www.medilabghana.com",
+    "country": "Ghana",
+    "city": "Kumasi",
+    "from": "01.09.2026",
+    "to": "31.12.2026",
+    "weeksmin": 8,
+    "weeksmax": 12,
+    "deadline": "15.03.2026",
+    "field1": "General",
+    "field2": "Bioengineering/Biomedical Engineering, Biology, Biomedical Sciences, Microbiology",
+    "field": "Bioengineering/Biomedical Engineering, Biology, Biomedical Sciences, Microbiology",
+    "completedyearsofstudy": 2,
+    "languages": [
+      {
+        "language": "English",
+        "level": "Good (B1, B2)",
+        "andor": ""
+      }
+    ],
+    "payment": [
+      {
+        "payment": 600,
+        "currency": "GHC",
+        "period": "Monthly",
+        "deduction": ""
+      }
+    ],
+    "lodging": [
+      {
+        "lodging": "IAESTE Ghana",
+        "lodgingcost": 0,
+        "livingcost": 600,
+        "currency": "GHC"
+      }
+    ],
+    "description": "1. Introduction\n This internship offers hands-on experience in a clinical laboratory environment. Interns will gain exposure to a wide range of biological testing techniques while working alongside experienced health professionals. Kumasi provides a dynamic cultural and professional environment, combining academic excellence, modern lab facilities, and vibrant local culture.\n \n 2. Work Description\n Interns will participate in laboratory processes across multiple specialized areas, including parasitology, bacteriology, microbiology, immunology, molecular biology, haematology, and sonography. Key responsibilities include:\n - Assisting in the analysis of clinical samples and contributing to testing procedures in specialized areas.\n - Supporting data recording and documentation of experimental results and laboratory procedures.\n - Assisting in the maintenance of laboratory equipment and adherence to quality control protocols.\n - Contributing to ongoing research projects and staying updated on advancements in biological sciences.\n - Enhancing practical laboratory techniques and technical competencies relevant to each discipline.\n \n This internship provides hands-on exposure to modern clinical laboratory operations and research practices. Opportunity to work in a state-of-the-art laboratory environment in Kumasi.",
+    "other_requirements": "",
+    "additional_Info": "Accommodation will be arranged and paid for by IAESTE Ghana. IAESTE Ghana will organize receptions, sightseeing trips and other social programs for the intern.",
+    "requiredknowledgeandexperiences": "Previous knowledge of work offered is required"
+  },
+  {
+    "id": "GH-2026-062",
+    "offer-type": "ON-SITE",
+    "employer": "Clinical Analysis Lab - KNUST",
+    "workplace": "KNUST - Kumasi",
+    "business": "Laboratoy",
+    "employees": "20",
+    "hoursweekly": 40,
+    "hoursdaily": 8,
+    "website": "",
+    "country": "Ghana",
+    "city": "Kumasi",
+    "from": "01.07.2026",
+    "to": "31.12.2026",
+    "weeksmin": 8,
+    "weeksmax": 8,
+    "deadline": "15.03.2026",
+    "field1": "General;General",
+    "field2": "Biology, Food Science, Microbiology",
+    "field": "Biology, Food Science, Microbiology",
+    "completedyearsofstudy": 2,
+    "languages": [
+      {
+        "language": "English",
+        "level": "Good (B1, B2)",
+        "andor": ""
+      }
+    ],
+    "payment": [
+      {
+        "payment": 500,
+        "currency": "GHC",
+        "period": "Monthly",
+        "deduction": ""
+      }
+    ],
+    "lodging": [
+      {
+        "lodging": "IAESTE Ghana",
+        "lodgingcost": 0,
+        "livingcost": 500,
+        "currency": "GHC"
+      }
+    ],
+    "description": "The laboratory undertakes wide range of biological tests on clinical samples employing different biological techniques spanning across the following areas;\n parasitology, bacteriology, microbiology, immunology, molecular- -biology, haematology and sonography. The trainee would therefore assist laboratory\n scientists to assay human biological substances and also be engaged in performing laboratory tests following established protocols, operate and maintain\n laboratory equipment, record and analyze test results accurately and also collaborate with healthcare professionals",
+    "other_requirements": "",
+    "additional_Info": "Accommodation will be arranged and paid for by IAESTE Ghana. IAESTE Ghana will organize receptions, sightseeing trips and other social programs for the intern.",
+    "requiredknowledgeandexperiences": "Previous knowledge on work offered is required"
+  },
+  {
+    "id": "GR-2026-SKG-04",
+    "offer-type": "ON-SITE",
+    "employer": "AUTH - Environmental Engineering Lab",
+    "workplace": "Thermi, Thessaloniki",
+    "business": "Research Laboratory",
+    "employees": "30",
+    "hoursweekly": 40,
+    "hoursdaily": 8,
+    "website": "http://www.enve-lab.eu",
+    "country": "Greece",
+    "city": "Thessaloniki",
+    "from": "01.05.2026",
+    "to": "30.09.2026",
+    "weeksmin": 8,
+    "weeksmax": 21,
+    "deadline": "31.01.2026",
+    "field1": "",
+    "field2": "Chemistry and Chemical Engineering, Computer Science / Informatics, Electrical Engineering",
+    "field": "Chemistry and Chemical Engineering, Computer Science / Informatics, Electrical Engineering",
+    "completedyearsofstudy": 3,
+    "languages": [
+      {
+        "language": "English",
+        "level": "Excellent (C1, C2)",
+        "andor": ""
+      }
+    ],
+    "payment": [
+      {
+        "payment": 900,
+        "currency": "EUR",
+        "period": "Monthly",
+        "deduction": "none / salary from 900 to 1000 euros depending on experience"
+      }
+    ],
+    "lodging": [
+      {
+        "lodging": "Student with the help of IAESTE Greece",
+        "lodgingcost": 400,
+        "livingcost": 650,
+        "currency": "EUR"
+      }
+    ],
+    "description": "Contribution to the development of suspect screening methods for exprosomics and metabolomics using advanced LC-MS/MS and GC-MS/MS coupled with advanced bioinformatics. Application of the developed methods in the HERACLES and ecoWASTE studies, integral parts of the Europe-wide research projects PARC and ENVESOME respectively.\n Placement at Center of Interdisciplinary Research and Innovation, 6th km Thessaloniki-Thermi road.",
+    "other_requirements": "Completed years of study: 3 or 4 (depending on total duration of studies at home institution)",
+    "additional_Info": "",
+    "requiredknowledgeandexperiences": "Modeling, numerical analysis, computational methods, environmental\n chemistry, biochemical engineering"
+  },
+  {
+    "id": "IN-2026-B1122-KU",
+    "offer-type": "ON-SITE",
+    "employer": "Faculty of Information Security and Digital Forensics",
+    "workplace": "Karunya University",
+    "business": "Educational",
+    "employees": "400",
+    "hoursweekly": 40,
+    "hoursdaily": 8,
+    "website": "www.karunya.edu",
+    "country": "India",
+    "city": "Coimbatore",
+    "from": "07.09.2026",
+    "to": "04.12.2026",
+    "weeksmin": 10,
+    "weeksmax": 10,
+    "deadline": "15.03.2026",
+    "field1": "General",
+    "field2": "Computer Science / Informatics",
+    "field": "Computer Science / Informatics",
+    "completedyearsofstudy": 3,
+    "languages": [
+      {
+        "language": "English",
+        "level": "Excellent (C1, C2)",
+        "andor": ""
+      }
+    ],
+    "payment": [
+      {
+        "payment": 10000,
+        "currency": "INR",
+        "period": "Monthly",
+        "deduction": "0"
+      }
+    ],
+    "lodging": [
+      {
+        "lodging": "IAESTE- LC KARUNYA",
+        "lodgingcost": 5000,
+        "livingcost": 8000,
+        "currency": "INR"
+      }
+    ],
+    "description": "Machine Learning, Robotic Process Automation & Computer Network Security Project\n \n Overview:\n This multidisciplinary project integrated Machine Learning (ML), Robotic Process Automation (RPA), and Computer Network Security to design, develop, and evaluate intelligent, secure, and efficient digital solutions. The ML segment focused on predictive modeling using supervised, unsupervised, and reinforcement learning with algorithms such as Decision Trees, Random Forests, and Neural Networks. RPA leveraged tools like UiPath and Automation Anywhere to automate repetitive tasks with cognitive features enabled by ML models. The security component implemented firewalls, intrusion detection systems, encryption, and vulnerability assessments to mitigate threats like malware, denial-of-service, and ransomware. Industry-standard tools, including Python, TensorFlow, and Kali Linux, were used extensively.\n \n Objectives:\n 1) Develop predictive ML models with robust evaluation.\n 2) Design automated RPA workflows integrated with ML.\n 3) Implement and test network security protocols.\n \n Outcomes:\n 1) Improved operational efficiency and reduced manual effort.\n 2) Enhanced decision-making through ML-powered insights.\n 3) Strengthened systems against cyberattacks.\n \n Intern’s Responsibilities:\n 1) Build, train, and evaluate ML models.\n 2) Create, test, and optimize RPA workflows.\n 3) Configure security tools, conduct VAPT, and document findings.",
+    "other_requirements": "The intern should have basic understanding of machine learning, robotic process automation, and computer network security.",
+    "additional_Info": "This offer is from the Department of Digital Sciences, and the intern's field of research would be Machine Learning, Robotic Process Automation, and Computer Network Security.",
+    "requiredknowledgeandexperiences": "Python, Network security, Robotics"
+  },
+  {
+    "id": "IN-2026-B1127-KU",
+    "offer-type": "ON-SITE",
+    "employer": "Karunya University",
+    "workplace": "Karunya Institute of Technology",
+    "business": "University",
+    "employees": "400",
+    "hoursweekly": 40,
+    "hoursdaily": 8,
+    "website": "http://www.karunya.edu",
+    "country": "India",
+    "city": "Coimbatore",
+    "from": "15.06.2026",
+    "to": "18.09.2026",
+    "weeksmin": 8,
+    "weeksmax": 8,
+    "deadline": "15.03.2026",
+    "field1": "General",
+    "field2": "Electrical Engineering",
+    "field": "Electrical Engineering",
+    "completedyearsofstudy": 3,
+    "languages": [
+      {
+        "language": "English",
+        "level": "Excellent (C1, C2)",
+        "andor": ""
+      }
+    ],
+    "payment": [
+      {
+        "payment": 10000,
+        "currency": "INR",
+        "period": "Monthly",
+        "deduction": "0"
+      }
+    ],
+    "lodging": [
+      {
+        "lodging": "IAESTE- LC KARUNYA",
+        "lodgingcost": 5000,
+        "livingcost": 8000,
+        "currency": "INR"
+      }
+    ],
+    "description": "Physics-Informed Deep Learning for Battery Health and Lifetime Prediction\n \n Overview:\n This project focuses on developing a physics-informed deep learning framework to predict the Remaining Useful Life (RUL) and State-of-Health (SOH) of lithium-ion batteries in electric vehicles. By combining data-driven sequence models with embedded electrochemical constraints, the framework aims to deliver accurate, robust, and interpretable predictions under real-world conditions such as variable driving patterns, ambient temperatures, and fast-charging events.\n \n Objectives:\n 1) Curate and preprocess multi-source time-series battery data.\n 2) Explore feature engineering methods such as incremental capacity analysis.\n 3) Implement and compare LSTM/GRU, transformer-based, and physics-informed architectures.\n 4) Design loss functions that balance prediction accuracy with physical plausibility.\n \n Outcomes:\n 1) A reproducible deep learning framework for RUL and SOH prediction.\n 2) Benchmarked performance across multiple modeling approaches.\n 3) Insights into hybrid physics-informed architectures for battery health.\n \n Responsibilities:\n 1) Build and preprocess datasets for modeling and training.\n 2) Implement deep learning models in PyTorch/TensorFlow.\n 3) Evaluate performance under diverse driving and charging scenarios.\n 4) Document findings in reports, notebooks, and presentation materials.",
+    "other_requirements": "The intern should have knowledge related to supervised learning, RNNs/CNNs, and basics of transformer architectures. Familiarity with Python (PyTorch/TensorFlow), time-series data processing, and fundamental battery concepts (SOC, SOH, charge/discharge cycles) is preferred.",
+    "additional_Info": "1. The option to work from home is available for this offer. In this case, the available dates for the internship are from May 2026 - September 2026 and there will be no stipend provided.\n However, if the intern chooses to work at the employer's location, a stipend will be provided based on the dates specified in the 'Work Offered Field'.\n 2. The intern is required to fill out the attached declaration form to confirm their preferred mode of internship.",
+    "requiredknowledgeandexperiences": "Programming, Machine Learning, Electrical Engineering"
+  },
+  {
+    "id": "IN-2026-B1425-KU",
+    "offer-type": "ON-SITE",
+    "employer": "Faculty of Robotics & Automation",
+    "workplace": "Karunya Institute of Technology",
+    "business": "Educational",
+    "employees": "400",
+    "hoursweekly": 40,
+    "hoursdaily": 8,
+    "website": "www.karunya.edu",
+    "country": "India",
+    "city": "Coimbatore",
+    "from": "15.06.2026",
+    "to": "23.10.2026",
+    "weeksmin": 6,
+    "weeksmax": 20,
+    "deadline": "15.03.2026",
+    "field1": "General",
+    "field2": "Mechatronics, Robotics and Automation",
+    "field": "Mechatronics, Robotics and Automation",
+    "completedyearsofstudy": 3,
+    "languages": [
+      {
+        "language": "English",
+        "level": "Excellent (C1, C2)",
+        "andor": ""
+      }
+    ],
+    "payment": [
+      {
+        "payment": 10000,
+        "currency": "INR",
+        "period": "Monthly",
+        "deduction": "0"
+      }
+    ],
+    "lodging": [
+      {
+        "lodging": "IAESTE- LC KARUNYA",
+        "lodgingcost": 5000,
+        "livingcost": 8000,
+        "currency": "INR"
+      }
+    ],
+    "description": "Intelligent Underwater Robotics with Edge AI\n \n Overview:\n This internship focuses on developing an autonomous underwater robot equipped with a Raspberry Pi as its core processing unit. The system integrates depth sensors, IMU, sonar, water quality probes, and a waterproof camera for real-time data acquisition. Interns will explore algorithms for navigation, object detection, and obstacle avoidance through sensor fusion and computer vision.\n \n Objectives:\n 1)Design and implement algorithms for autonomous navigation, depth stability, and obstacle avoidance using sensor fusion and control strategies.\n 2)Explore advanced techniques such as SLAM for mapping underwater terrains and machine learning for marine life or debris identification.\n 3)Optimize energy efficiency and communication methods using tethered Ethernet or acoustic modems for underwater operation.\n \n Outcomes:\n 1)Hands-on experience with Raspberry Pi for real-time robotic applications in aquatic environments.\n 2)Practical knowledge of computer vision, path planning, and SLAM techniques.\n 3)Research exposure to energy-efficient underwater robotics and AI-based decision-making.\n \n Intern's Responsibilities:\n 1)Integrate and test underwater sensors and camera modules with Raspberry Pi.\n 2)Develop algorithms for navigation, object detection, and mapping.\n 3)Document findings and propose improvements for autonomous underwater missions.",
+    "other_requirements": "The intern should have knowledge related to Python, Robotics and Data science",
+    "additional_Info": "This offer is from the Department of Robotics Engineering, and the intern's field of research would be Intelligent Underwater Robotics with Edge AI.",
+    "requiredknowledgeandexperiences": "Python, Robotics and Artificial Intelligence."
+  },
+  {
+    "id": "IN-2026-C1418-MU",
+    "offer-type": "ON-SITE",
+    "employer": "Manipal Institute of Technology",
+    "workplace": "Manipal",
+    "business": "Education",
+    "employees": "500",
+    "hoursweekly": 40,
+    "hoursdaily": 8,
+    "website": "http://www.manipal.edu",
+    "country": "India",
+    "city": "Manipal",
+    "from": "01.06.2026",
+    "to": "30.11.2026",
+    "weeksmin": 6,
+    "weeksmax": 8,
+    "deadline": "31.12.2025",
+    "field1": "General;General;Artificial Intelligence",
+    "field2": "Computer Science / Informatics, Mechanical Engineering",
+    "field": "Computer Science / Informatics, Mechanical Engineering",
+    "completedyearsofstudy": 3,
+    "languages": [
+      {
+        "language": "English",
+        "level": "Excellent (C1, C2)",
+        "andor": ""
+      }
+    ],
+    "payment": [
+      {
+        "payment": 9000,
+        "currency": "INR",
+        "period": "Monthly",
+        "deduction": "15%"
+      }
+    ],
+    "lodging": [
+      {
+        "lodging": "IAESTE India LC Manipal",
+        "lodgingcost": 0,
+        "livingcost": 4500,
+        "currency": "INR"
+      }
+    ],
+    "description": "Project Title: Machine Learning Approaches for Accurate Land Use and Land Cover Classification from Remote Sensing Data.\n \n Land Use and Land Cover (LULC) mapping plays a vital role in urban planning, agriculture monitoring, deforestation studies, and climate change research. Traditionally, LULC classification relies on manual interpretation or conventional statistical techniques, which are often time-consuming and less accurate in handling large-scale remote sensing datasets.\n Machine Learning (ML) provides efficient and automated approaches to analyze satellite images (e.g., Sentinel-2, Landsat-8) for precise classification of land categories such as agriculture, water bodies, forests, and built-up areas. This project aims to apply ML techniques to classify LULC from remote sensing imagery, evaluate their accuracy, and recommend the best-performing models.\" \"Preprocessed satellite dataset for ROI.\n \n Trained ML models for LULC classification.\n LULC thematic maps showing classified categories.\n Accuracy analysis report comparing multiple ML models.\n Workflow documentation for scalable LULC monitoring projects.\n \n This project proposes the use of machine learning for efficient LULC classification, enabling accurate and scalable mapping of land categories from satellite data. The workflow developed can support applications in agriculture, urban planning, and environmental monitoring. The project is achievable within a 6–8 week internship and will provide hands-on exposure to both remote sensing and machine learning techniques.",
+    "other_requirements": "Specialization: Machine learning\n Study Level: Graduate",
+    "additional_Info": "",
+    "requiredknowledgeandexperiences": "Python (Scikit-learn, TensorFlow, PyTorch)"
+  },
+  {
+    "id": "IN-2026-C1456-MU",
+    "offer-type": "HYBRID",
+    "employer": "Manipal Institute of Technology",
+    "workplace": "Manipal",
+    "business": "Education",
+    "employees": "500",
+    "hoursweekly": 40,
+    "hoursdaily": 8,
+    "website": "http://www.manipal.edu",
+    "country": "India",
+    "city": "Manipal",
+    "from": "01.09.2026",
+    "to": "31.12.2026",
+    "weeksmin": 12,
+    "weeksmax": 16,
+    "deadline": "31.12.2025",
+    "field1": "",
+    "field2": "Computer Science / Informatics",
+    "field": "Computer Science / Informatics",
+    "completedyearsofstudy": 1,
+    "languages": [
+      {
+        "language": "English",
+        "level": "Excellent (C1, C2)",
+        "andor": ""
+      }
+    ],
+    "payment": [
+      {
+        "payment": 9000,
+        "currency": "INR",
+        "period": "Monthly",
+        "deduction": "15%"
+      }
+    ],
+    "lodging": [
+      {
+        "lodging": "IAESTE India LC Manipal",
+        "lodgingcost": 0,
+        "livingcost": 4500,
+        "currency": "INR"
+      }
+    ],
+    "description": "Project Title:Medical Diagnosis Agent using Vision Transformer and GPT-based Deep Learning Models for Radiology Workflows\n \n This project focuses on building an intelligent agent that assists radiologists by analyzing medical images (e.g., X-rays, CT scans, MRIs) using Vision Transformer (ViT) deep learning models and generating natural language diagnostic summaries using a GPT-based language model.",
+    "other_requirements": "Specialization: Computer Science\n Study Level: Graduate",
+    "additional_Info": "The option of Work from Home is available for this offer. In the case where the intern chooses to work from home, there will be no stipend provided. However, in the case where the intern opts to intern at the employer's address, a stipend will be provided for the period of internship.",
+    "requiredknowledgeandexperiences": "Basic Python programming"
+  },
+  {
+    "id": "IN-2026-D1120-MJ",
+    "offer-type": "ON-SITE",
+    "employer": "Manipal University Jaipur",
+    "workplace": "Jaipur",
+    "business": "Education",
+    "employees": "450",
+    "hoursweekly": 40,
+    "hoursdaily": 8,
+    "website": "Jaipur.manipal.edu",
+    "country": "India",
+    "city": "Jaipur",
+    "from": "06.05.2026",
+    "to": "27.09.2026",
+    "weeksmin": 6,
+    "weeksmax": 10,
+    "deadline": "15.03.2026",
+    "field1": "General",
+    "field2": "Computer Science / Informatics",
+    "field": "Computer Science / Informatics",
+    "completedyearsofstudy": 1,
+    "languages": [
+      {
+        "language": "English",
+        "level": "Excellent (C1, C2)",
+        "andor": ""
+      }
+    ],
+    "payment": [
+      {
+        "payment": 16000,
+        "currency": "INR",
+        "period": "Monthly",
+        "deduction": "0%"
+      }
+    ],
+    "lodging": [
+      {
+        "lodging": "IAESTE",
+        "lodgingcost": 8500,
+        "livingcost": 16000,
+        "currency": "INR"
+      }
+    ],
+    "description": "Computer Science Intern\n Title of the Project: Customization and Flexibility of RPA Solutions\n \n This project focuses on developing flexible and customizable Robotic Process Automation (RPA) frameworks to address the limitations of off-the-shelf RPA solutions, which may not fully meet the unique needs of organizations. The goal is to create adaptable automation tools that can be tailored to diverse business processes, enhancing efficiency and reducing manual intervention.\n \n The intern will work on designing, implementing, and testing RPA workflows, integrating customization features such as dynamic input handling, modular task execution, and process-specific adaptations. The project combines software development, process analysis, and automation strategy to deliver scalable and robust RPA frameworks.\n \n Expected Outcomes:\n \n Practical experience in RPA development and customization.\n \n A flexible RPA framework that can be adapted to multiple organizational processes.\n \n Documentation and presentation of results demonstrating improved automation efficiency and flexibility.",
+    "other_requirements": "No",
+    "additional_Info": "",
+    "requiredknowledgeandexperiences": "Robotics,Software Development Frameworks"
+  },
+  {
+    "id": "IN-2026-D1122-MJ",
+    "offer-type": "ON-SITE",
+    "employer": "Manipal University Jaipur",
+    "workplace": "Jaipur",
+    "business": "Education",
+    "employees": "450",
+    "hoursweekly": 40,
+    "hoursdaily": 8,
+    "website": "Jaipur.manipal.edu",
+    "country": "India",
+    "city": "Jaipur",
+    "from": "06.05.2026",
+    "to": "27.09.2026",
+    "weeksmin": 6,
+    "weeksmax": 10,
+    "deadline": "15.03.2026",
+    "field1": "General",
+    "field2": "Computer Science / Informatics",
+    "field": "Computer Science / Informatics",
+    "completedyearsofstudy": 1,
+    "languages": [
+      {
+        "language": "English",
+        "level": "Excellent (C1, C2)",
+        "andor": ""
+      }
+    ],
+    "payment": [
+      {
+        "payment": 16000,
+        "currency": "INR",
+        "period": "Monthly",
+        "deduction": "0%"
+      }
+    ],
+    "lodging": [
+      {
+        "lodging": "IAESTE",
+        "lodgingcost": 8500,
+        "livingcost": 16000,
+        "currency": "INR"
+      }
+    ],
+    "description": "Computer Applications Intern\n Title of the Project: Medical Data Analysis\n \n This project focuses on modeling sequential clinical events to analyze the progression of patient data, including lab tests, medications, and interventions. By examining temporal relationships between events, it aims to uncover hidden pathways of disease evolution, such as progression from mild infection to sepsis and organ failure.\n \n Hands-on work involves implementing techniques like recurrent neural networks, temporal point processes, and transformer-based models to capture complex dependencies in clinical data. These models provide predictive insights that enable timely interventions, personalized treatment strategies, and improved understanding of disease mechanisms in critical care.\n \n The project integrates computational modeling with clinical research, offering practical experience in data analysis, machine learning, and healthcare applications.\n \n Expected Outcomes:\n \n Research publication detailing methodology and findings.\n \n Practical exposure to sequential data modeling and advanced ML techniques.\n \n Presentation of results highlighting the impact of predictive analytics on patient care.",
+    "other_requirements": "Python or R",
+    "additional_Info": "",
+    "requiredknowledgeandexperiences": "Data Analysis,\n Machine Learning,Python"
+  },
+  {
+    "id": "IN-2026-D4004-MJ",
+    "offer-type": "ON-SITE",
+    "employer": "Manipal University Jaipur",
+    "workplace": "Jaipur",
+    "business": "Education",
+    "employees": "450",
+    "hoursweekly": 40,
+    "hoursdaily": 8,
+    "website": "Jaipur.manipal.edu",
+    "country": "India",
+    "city": "Jaipur",
+    "from": "07.05.2026",
+    "to": "28.09.2026",
+    "weeksmin": 10,
+    "weeksmax": 10,
+    "deadline": "15.03.2026",
+    "field1": "General;Chemoinformatics",
+    "field2": "Chemistry and Chemical Engineering",
+    "field": "Chemistry and Chemical Engineering",
+    "completedyearsofstudy": 1,
+    "languages": [
+      {
+        "language": "English",
+        "level": "Excellent (C1, C2)",
+        "andor": ""
+      }
+    ],
+    "payment": [
+      {
+        "payment": 16000,
+        "currency": "INR",
+        "period": "Monthly",
+        "deduction": "0%"
+      }
+    ],
+    "lodging": [
+      {
+        "lodging": "IAESTE",
+        "lodgingcost": 8500,
+        "livingcost": 16000,
+        "currency": "INR"
+      }
+    ],
+    "description": "Materials Science Intern\n Project Title: Development of Polymeric and Metallic Composite-Based Electrodeposited Coating and Its Characterization\n \n Project Overview:\n This project focuses on developing polymer-reinforced metallic coatings using electrodeposition and electrophoretic deposition techniques to prevent corrosion, which occurs when metals react with oxygen and water, forming oxides that degrade structural integrity. Such degradation can lead to structural failure and economic losses. The coatings will be designed for applications in aeronautical, automotive, marine, electrical, and mechanical industries, providing durable and protective surfaces. The project will evaluate coating performance using methods like electrochemical impedance spectroscopy, potentiodynamic polarization, hardness testing, tribology analysis, adhesion studies, and surface imaging. By combining metallic and polymeric components, the study aims to enhance corrosion resistance, mechanical strength, and surface durability, contributing to the development of long-lasting and cost-effective protective coatings for industrial applications.\n \n Expected Outcome:\n • Fabrication of polymer-metal composite coatings through electrodeposition and EPD.\n • Performance evaluation using electrochemical and mechanical tests.\n • Analytical report detailing coating characteristics and effectiveness.\n • Presentation summarizing results, surface analyses, and industrial applicability.",
+    "other_requirements": "Chemistry Lab knowledge",
+    "additional_Info": "",
+    "requiredknowledgeandexperiences": "Handling Electrochemical Instrument, Polymer Synthesis, Good experimental hand, Teamwork."
+  },
+  {
+    "id": "JO-2026-101-AJI",
+    "offer-type": "ON-SITE",
+    "employer": "AJI Group",
+    "workplace": "Al-Rawabi, Amman, Jordan",
+    "business": "Engineering Firm",
+    "employees": "215",
+    "hoursweekly": 45,
+    "hoursdaily": 9,
+    "website": "https://ajigroup.com/intl-en",
+    "country": "Jordan",
+    "city": "Amman, Jordan",
+    "from": "01.06.2026",
+    "to": "01.09.2026",
+    "weeksmin": 4,
+    "weeksmax": 8,
+    "deadline": "15.03.2026",
+    "field1": "",
+    "field2": "Architecture",
+    "field": "Architecture",
+    "completedyearsofstudy": 4,
+    "languages": [
+      {
+        "language": "English",
+        "level": "Good (B1, B2)",
+        "andor": ""
+      }
+    ],
+    "payment": [
+      {
+        "payment": 250,
+        "currency": "JOD",
+        "period": "Monthly",
+        "deduction": "0"
+      }
+    ],
+    "lodging": [
+      {
+        "lodging": "IAESTE Jordan",
+        "lodgingcost": 0,
+        "livingcost": 180,
+        "currency": "JOD"
+      }
+    ],
+    "description": "Company Description:\n AJi is a regional leader in architecture and engineering building on 60 years of a deep legacy of forward-looking projects in the MENA region. AJi has delivered over 2000 projects in urban design, healthcare, utilities and sustainable development. AJi ranked amongst ENR’s top 225 international design firms through combining a multidisciplinary approach to all projects with a focus on sustainability and excellence. \n \n Work description\n The intern will be work on: \n 1. Designing and developing architectural concepts\n 2. Designing and developing drawings and presentations\n 3. Preparing design documentation\n 4. Collaborating with a multi-disciplinary team on projects.",
+    "other_requirements": "The applicant must submit a portfolio along with their application.",
+    "additional_Info": "Accommodation\n IAESTE Jordan will cover the cost of accommodation for the entire duration of the internship, including accommodation two days before the start date and two days after the end date.\n \n VISA \n Any information/requirements regarding the VISA will be communicated upon acceptance, and IAESTE JO will work to handle the majority of the process.",
+    "requiredknowledgeandexperiences": "Proficiency in new design concepts\n Knowledge of BIM and the tools is a plus."
+  },
+  {
+    "id": "JO-2026-201-HCE",
+    "offer-type": "ON-SITE",
+    "employer": "Hedra Consultant Engineering",
+    "workplace": "Amman",
+    "business": "Structural Consultants",
+    "employees": "4",
+    "hoursweekly": 40,
+    "hoursdaily": 8,
+    "website": "",
+    "country": "Jordan",
+    "city": "Amman",
+    "from": "01.06.2026",
+    "to": "31.08.2026",
+    "weeksmin": 8,
+    "weeksmax": 8,
+    "deadline": "15.03.2026",
+    "field1": "",
+    "field2": "Civil Engineering",
+    "field": "Civil Engineering",
+    "completedyearsofstudy": 4,
+    "languages": [
+      {
+        "language": "English",
+        "level": "Good (B1, B2)",
+        "andor": "And"
+      },
+      {
+        "language": "Arabic",
+        "level": "Good (B1, B2)",
+        "andor": ""
+      }
+    ],
+    "payment": [
+      {
+        "payment": 200,
+        "currency": "JOD",
+        "period": "Monthly",
+        "deduction": "0"
+      }
+    ],
+    "lodging": [
+      {
+        "lodging": "IAESTE",
+        "lodgingcost": 0,
+        "livingcost": 180,
+        "currency": "JOD"
+      }
+    ],
+    "description": "The internship starts by learning the design principles from the conceptual stage to concept development, 3D renders and presentation, study the engineering systems (structural & electromechanical) related to the project till reaching the construction drawings and details. The internship will depend on the available projects at the time of internship.",
+    "other_requirements": "",
+    "additional_Info": "Accommodation\n IAESTE Jordan will cover the cost of accommodation for the entire duration of the internship, including accommodation two days before the start date and two days after the end date.\n \n VISA \n Any information/requirements regarding the VISA will be communicated upon acceptance, and IAESTE JO will work to handle the majority of the process.",
+    "requiredknowledgeandexperiences": "The intern should have the knowledge to design principles. Possess knowledge of the methods of drawing three-dimensional models in AutoCAD or other ordinary programs. Toward the end of the internship, the intern will be expected to know the structural basic design. If the workshop conditions allow, the intern should be able to contribute personally in building structural models"
+  },
+  {
+    "id": "JO-2026-301-MGE",
+    "offer-type": "ON-SITE",
+    "employer": "Magic Energy",
+    "workplace": "Wasfi Al-Tal St.",
+    "business": "Engineering Firm",
+    "employees": "20",
+    "hoursweekly": 42,
+    "hoursdaily": 8,
+    "website": "https://www.magic-energy.net/en",
+    "country": "Jordan",
+    "city": "Amman",
+    "from": "01.06.2026",
+    "to": "31.08.2026",
+    "weeksmin": 8,
+    "weeksmax": 8,
+    "deadline": "15.03.2026",
+    "field1": "",
+    "field2": "Mechanical Engineering",
+    "field": "Mechanical Engineering",
+    "completedyearsofstudy": 4,
+    "languages": [
+      {
+        "language": "Arabic",
+        "level": "Excellent (C1, C2)",
+        "andor": "And"
+      },
+      {
+        "language": "English",
+        "level": "Good (B1, B2)",
+        "andor": ""
+      }
+    ],
+    "payment": [
+      {
+        "payment": 200,
+        "currency": "JOD",
+        "period": "Monthly",
+        "deduction": "0"
+      }
+    ],
+    "lodging": [
+      {
+        "lodging": "IAESTE Jordan",
+        "lodgingcost": 0,
+        "livingcost": 180,
+        "currency": "JOD"
+      }
+    ],
+    "description": "Company Description: \n Magic Energy for Engineering & Electrical Systems is a Jordan-based company specializing in renewable-energy solutions, with a focus on solar photovoltaic (PV) system design, installation, and maintenance. They work across multiple regions in Jordan and handle projects ranging from residential setups to commercial and industrial systems. Their work includes solar energy, battery storage, and related electrical solutions, aiming to deliver reliable and efficient energy systems tailored to client needs.\n \n Work Description:\n The intern will contribute to project stages including preparing proposals, assisting with design work, and installation.",
+    "other_requirements": "",
+    "additional_Info": "Accommodation\n IAESTE Jordan will cover the cost of accommodation for the entire duration of the internship, including accommodation two days before the start date and two days after the end date.\n \n VISA \n Any information/requirements regarding the VISA will be communicated upon acceptance, and IAESTE JO will work to handle the majority of the process.",
+    "requiredknowledgeandexperiences": "A bachelor's Degree"
+  },
+  {
+    "id": "KE-2026-12C-DK",
+    "offer-type": "ON-SITE",
+    "employer": "DEDAN KIMATHI UNIVERSITY OF TECHNOLOGY",
+    "workplace": "Main Campus",
+    "business": "Education",
+    "employees": "500",
+    "hoursweekly": 40,
+    "hoursdaily": 8,
+    "website": "www.dkut.ac.ke",
+    "country": "Kenya",
+    "city": "NYERI",
+    "from": "01.05.2026",
+    "to": "30.11.2026",
+    "weeksmin": 12,
+    "weeksmax": 12,
+    "deadline": "15.03.2026",
+    "field1": "Language Education/Linguistics",
+    "field2": "Education",
+    "field": "Education",
+    "completedyearsofstudy": 2,
+    "languages": [
+      {
+        "language": "German",
+        "level": "Excellent (C1, C2)",
+        "andor": "And"
+      },
+      {
+        "language": "English",
+        "level": "Good (B1, B2)",
+        "andor": ""
+      }
+    ],
+    "payment": [
+      {
+        "payment": 15000,
+        "currency": "KES",
+        "period": "Monthly",
+        "deduction": "NONE"
+      }
+    ],
+    "lodging": [
+      {
+        "lodging": "Student with support from IAESTE DeKUT LC",
+        "lodgingcost": 5000,
+        "livingcost": 15000,
+        "currency": "KES"
+      }
+    ],
+    "description": "The hospitality industry is inherently multicultural and global, making language learning an essential aspect of it. The Institute of Tourism and Hospitality Management of DeKUT is offering German Language classes to students.\n \n The tasks of the intern will include:\n -Teaching German\n -Assist in the design of the curriculum\n -Prepare course outlines\n -Prepare lesson plans\n -Engage students with activities that will make them proficient in the German language.\n -Engage students in intercultural activities promoting intercultural learning.\n -Undertake assessments for the students.\n -Submit class attendance sheets, and file weekly reports with the Director of the Institute.",
+    "other_requirements": "",
+    "additional_Info": "Laptops/computers not provided\n Kindly apply to start at the beginning of the month",
+    "requiredknowledgeandexperiences": "Good communication skills and interpersonal skills\n Lesson planning."
+  },
+  {
+    "id": "KE-2026-1A-DK",
+    "offer-type": "ON-SITE",
+    "employer": "DEDAN KIMATHI UNIVERSITY OF TECHNOLOGY",
+    "workplace": "Main Campus",
+    "business": "Education",
+    "employees": "500",
+    "hoursweekly": 40,
+    "hoursdaily": 8,
+    "website": "www.dkut.ac.ke",
+    "country": "Kenya",
+    "city": "NYERI",
+    "from": "01.05.2026",
+    "to": "30.11.2026",
+    "weeksmin": 8,
+    "weeksmax": 8,
+    "deadline": "15.03.2026",
+    "field1": "",
+    "field2": "Civil Engineering, Electrical Engineering, Mechanical Engineering, Mechatronics, Robotics and Automation",
+    "field": "Civil Engineering, Electrical Engineering, Mechanical Engineering, Mechatronics, Robotics and Automation",
+    "completedyearsofstudy": 4,
+    "languages": [
+      {
+        "language": "English",
+        "level": "Good (B1, B2)",
+        "andor": ""
+      }
+    ],
+    "payment": [
+      {
+        "payment": 15000,
+        "currency": "KES",
+        "period": "Monthly",
+        "deduction": ""
+      }
+    ],
+    "lodging": [
+      {
+        "lodging": "Student with support from IAESTE DeKUT LC",
+        "lodgingcost": 5000,
+        "livingcost": 15000,
+        "currency": "KES"
+      }
+    ],
+    "description": "The DeKUT Centre for Energy Studies (CBES) is a Centre for excellence established under\n Dedan Kimathi University’s GREEN Institute. We are committed to providing social,\n economic, technical and policy solutions along the bioenergy value chains through research\n and development, capacity building, and undertaking commissioned consultancy work for our partners\n Responsibilities\n 1. Design, development, and testing of energy systems or any other system assigned.\n 2. Collect, record, and analyze data.\n 3. Interpret data analysis results and draw inferences and conclusions.\n 4. Present results.\n 5. Use results to write reports, papers, reviews and present findings in journals and\n conferences.\n 6. Work with, and collaborate with the research team, industry colleagues and any other\n stakeholders/partners in projects.\n 7. Perform any other task assigned by supervisor.",
+    "other_requirements": "· Strong critical thinking and analytical skills · Proficient in data analysis and research methodologies · Effective presentation skills · Attention to detail and accuracy\n · Ability to manage multiple projects simultaneously\n · Apt time management skills. · Analytical and problem-solving skills",
+    "additional_Info": "Laptops/computers not provided\n Kindly apply to start at the beginning of the month",
+    "requiredknowledgeandexperiences": "· Bachelors or Masters level with a background in mechanical, mechatronics, civil,\n electrical engineering, GIS or any other relevant in the energy sector. · Proficient in relevant software and tools · Effective writing and verbal communication skills in the English language · Ability to work independently and in teams · Willingness to learn and carry out new activities · Willingness to be involved in technical and hands on activities."
+  },
+  {
+    "id": "KE-2026-2B-DK",
+    "offer-type": "ON-SITE",
+    "employer": "DEDAN KIMATHI UNIVERSITY OF TECHNOLOGY",
+    "workplace": "Main Campus",
+    "business": "Education",
+    "employees": "500",
+    "hoursweekly": 40,
+    "hoursdaily": 8,
+    "website": "www.dkut.ac.ke",
+    "country": "Kenya",
+    "city": "NYERI",
+    "from": "01.05.2026",
+    "to": "30.11.2026",
+    "weeksmin": 8,
+    "weeksmax": 8,
+    "deadline": "15.03.2026",
+    "field1": "",
+    "field2": "Mechatronics, Robotics and Automation",
+    "field": "Mechatronics, Robotics and Automation",
+    "completedyearsofstudy": 3,
+    "languages": [
+      {
+        "language": "English",
+        "level": "Good (B1, B2)",
+        "andor": ""
+      }
+    ],
+    "payment": [
+      {
+        "payment": 15000,
+        "currency": "KES",
+        "period": "Monthly",
+        "deduction": "NONE"
+      }
+    ],
+    "lodging": [
+      {
+        "lodging": "Student with support from IAESTE DeKUT LC",
+        "lodgingcost": 5000,
+        "livingcost": 15000,
+        "currency": "KES"
+      }
+    ],
+    "description": "Selected students will work under the supervision of experienced faculty members on research and development projects. Depending on your research area of interest, you may engage in:\n 1. IoT, AIoT, and Smart Systems:\n • Design and implementation of sensor networks and smart systems\n • Integration of AI algorithms with IoT devices for intelligent decision-making\n • Data analytics, machine learning applications, and edge computing\n \n 2. Mathematical Modelling and Biomolecular Machines:\n • Mathematical modelling and simulation of molecular-scale biological machines (e.g.\n motor proteins)\n • Computational analysis of protein dynamics and enzyme mechanisms\n • Mechanistic studies of molecular motors and biomechanical processes at the cellular\n level\n 3. Acoustics, Vibration Control, and Soft Robotics:\n • Sound wave analysis and acoustic engineering applications\n • Development of vibration control techniques for mechanical systems\n • Design and fabrication of flexible robots using topological functional materials\n \n 3. Virtual Reality, PLCs, and Virtual Mechatronics:\n • Development of immersive VR environments for training and simulation\n • Programming and implementation of Siemens programmable logic controllers\n • Simulation and modeling of mechatronic systems in virtual environments",
+    "other_requirements": "We value academic excellence, practical skills, programming proficiency, and a genuine interest in interdisciplinary projects that bridge theoretical knowledge with real world applications.",
+    "additional_Info": "Laptops/computers not provided\n Kindly apply to start at the begining of the month",
+    "requiredknowledgeandexperiences": "We welcome applications from Bachelor’s, Master’s, and PhD level students with a\n background or strong interest in:\n • Mechatronics Engineering and related disciplines\n • Internet of Things (IoT) and Artificial Intelligence of Things (AIoT)\n • Robotics (including soft robotics) and automation systems\n • Mathematical modelling, simulation, and biophysics\n • Acoustics, vibration control, and mechanical systems analysis\n • Virtual reality, programmable logic controllers (PLCs), and virtual mechatronics"
+  },
+  {
+    "id": "KE-2026-6A1-DK",
+    "offer-type": "ON-SITE",
+    "employer": "DEDAN KIMATHI UNIVERSITY OF TECHNOLOGY",
+    "workplace": "Main Campus",
+    "business": "Education",
+    "employees": "500",
+    "hoursweekly": 40,
+    "hoursdaily": 8,
+    "website": "www.dkut.ac.ke",
+    "country": "Kenya",
+    "city": "NYERI",
+    "from": "01.05.2026",
+    "to": "30.11.2026",
+    "weeksmin": 8,
+    "weeksmax": 8,
+    "deadline": "15.03.2026",
+    "field1": "",
+    "field2": "Chemistry and Chemical Engineering, Process Engineering",
+    "field": "Chemistry and Chemical Engineering, Process Engineering",
+    "completedyearsofstudy": 3,
+    "languages": [
+      {
+        "language": "English",
+        "level": "Good (B1, B2)",
+        "andor": ""
+      }
+    ],
+    "payment": [
+      {
+        "payment": 15000,
+        "currency": "KES",
+        "period": "Monthly",
+        "deduction": "NONE"
+      }
+    ],
+    "lodging": [
+      {
+        "lodging": "Student with support from IAESTE DeKUT LC",
+        "lodgingcost": 5000,
+        "livingcost": 15000,
+        "currency": "KES"
+      }
+    ],
+    "description": "Project 1: Process development for diversification of products from tea industry\n \n Brief: The tea industry in Kenya is currently facing challenges with a slow-down of sales due to varied reasons (competition, quality, etc). This project is aimed at investigating/developing alternative processes that will allow for product diversification in the tea industry\n \n Tasks: \n a) Literature review to identify alternative products that can be generated from tea\n b) Development of process simulations for alternative products identified",
+    "other_requirements": "",
+    "additional_Info": "Laptops/computers are not provided.\n Kindly apply to start at the beginning of the month.",
+    "requiredknowledgeandexperiences": "Background in Chemical/Process Engineering (Either Bachelor or Masters) with expertise/experience in process modelling using DWSIM or related software."
+  },
+  {
+    "id": "KE-2026-FS-01JK",
+    "offer-type": "ON-SITE",
+    "employer": "JOMO KENYATTA UNIVERSITY OF AGRICULTURE & TECHNOLOGY",
+    "workplace": "Main campus",
+    "business": "PRODUCTS",
+    "employees": "800",
+    "hoursweekly": 40,
+    "hoursdaily": 8,
+    "website": "www.jkuat.ac.ke/",
+    "country": "Kenya",
+    "city": "NAIROBI",
+    "from": "01.05.2026",
+    "to": "30.11.2026",
+    "weeksmin": 8,
+    "weeksmax": 8,
+    "deadline": "15.03.2026",
+    "field1": "",
+    "field2": "Food Science",
+    "field": "Food Science",
+    "completedyearsofstudy": 3,
+    "languages": [
+      {
+        "language": "English",
+        "level": "Good (B1, B2)",
+        "andor": ""
+      }
+    ],
+    "payment": [
+      {
+        "payment": 10000,
+        "currency": "KES",
+        "period": "Monthly",
+        "deduction": ""
+      }
+    ],
+    "lodging": [
+      {
+        "lodging": "IAESTE JKUAT LC",
+        "lodgingcost": 3000,
+        "livingcost": 10000,
+        "currency": "KES"
+      }
+    ],
+    "description": "The University is looking for a motivated student to take part in yoghurt production. The student will be working in the Nissin Food Company located inside the university. The student will also be involved in the manufacturing processes of yoghurt. The student will work closely with other food production staff including micro biologists, engineers, packaging specialists and buyers.",
+    "other_requirements": "",
+    "additional_Info": "Laptops/computers not provided",
+    "requiredknowledgeandexperiences": "Testing food samples for particular types of molds, yeast and bacteria that maybe harmful, monitoring food safety protocols ,testing food storage options and making recommendations on improvement, good communication skills, good IT, analytical and numerical abilities"
+  },
+  {
+    "id": "LB-2026-L001-B",
+    "offer-type": "ON-SITE",
+    "employer": "INDEVCO SAL",
+    "workplace": "TBA",
+    "business": "Manufacturing",
+    "employees": "10000",
+    "hoursweekly": 40,
+    "hoursdaily": 8,
+    "website": "https://www.indevcogroup.com/",
+    "country": "Lebanon",
+    "city": "Aajaltoun",
+    "from": "01.06.2026",
+    "to": "31.07.2026",
+    "weeksmin": 6,
+    "weeksmax": 8,
+    "deadline": "15.03.2026",
+    "field1": "",
+    "field2": "Computer Software/Hardware Engineering, Electrical Engineering, Mechanical Engineering",
+    "field": "Computer Software/Hardware Engineering, Electrical Engineering, Mechanical Engineering",
+    "completedyearsofstudy": 4,
+    "languages": [
+      {
+        "language": "English",
+        "level": "Excellent (C1, C2)",
+        "andor": ""
+      }
+    ],
+    "payment": [
+      {
+        "payment": 300,
+        "currency": "USD",
+        "period": "Monthly",
+        "deduction": "7.5"
+      }
+    ],
+    "lodging": [
+      {
+        "lodging": "IAESTE Lebanon",
+        "lodgingcost": 0,
+        "livingcost": 300,
+        "currency": "USD"
+      }
+    ],
+    "description": "1- Assembly training on field\n • Identification of each component and its accessories\n • Understanding the functionality of each component\n • Understanding the wiring method of each component\n • Understanding cabinet’s structure and assembly method\n • Hands on assembly training \n \n 2- Introduction to design tools\n • Cad tools \n o Autocad, Solid works\n o Eplan\n • Programming tools \n o Siemens WinCC Flexible\n o Siemens Simatic Step 7\n o Siemens Drive Monitor\n o Programming exercises\n § Sequential programming\n § Latching functions\n § Single push button turns on lamp after 1st push then turns off lamp after 2nd push\n • Selection tools \n o Siemens CA01 Catalog\n o Siemens Sizer\n o Overview on al catalogs used in designs \n \n 3- Brief introduction to the design concept \n The trainee is to design a sample project in the same design steps followed by an electrical design engineer in a machine design process:\n a- Product Concept & General Electrical Layout\n b- Definition and Sizing of Actuators and Sensors\n c- Definition and Sizing of Machining and Automation Components\n d- Preparation of Electrical Lay-Out Drawings\n e- Preparation of Preliminary Wiring Diagrams\n f- BOM preparation\n g- Design and Development of machining and Automation Software Programs\n h- Design and Development of Drive Parameterization\n i- Preparation of operation instruction manual.\n \n 4- Hands on automation and motion control products \n a- S7-300 / S7-400\n b- Profibus network\n c- Remote IO\n d- Operator panel\n e- Micromaster\n f- Masterdrive Vector control\n g- Implementation of program with hands on training on Lab kit\n \n 5- Typical project \n a- Wiring diagrams and BOM\n b- WinCC design\n c- Programming PLC\n d- PLC and Screen simulation\n e- Micromaster AC Drives\n f- MasterDrive vector control\n g- Commissioning\n \n 6- Report and presentation preparation\n a. A presentation will be required weekly\n b. A final report is required by the end of the training phase\n  \n Objectives:\n At the end of this training the trainee should have acquired the basics of:\n • Mechanical and Electrical components (bearings, belts, PLC, Drives, protection elements, etc…)\n • Design tools and supporting documents\n • General Design process\n • Hands on Automation",
+    "other_requirements": "",
+    "additional_Info": "For accommodation, the dorms will be in Byblos",
+    "requiredknowledgeandexperiences": "Student studying towards an engineering or graphic design degree"
+  },
+  {
+    "id": "MK-2026-SK-05",
+    "offer-type": "ON-SITE",
+    "employer": "Faculty of Mechanical Engineering",
+    "workplace": "Skopje",
+    "business": "Education and research",
+    "employees": "100",
+    "hoursweekly": 40,
+    "hoursdaily": 8,
+    "website": "www.mfs.ukim.edu.mk",
+    "country": "North Macedonia",
+    "city": "Skopje",
+    "from": "02.01.2026",
+    "to": "31.12.2026",
+    "weeksmin": 6,
+    "weeksmax": 8,
+    "deadline": "15.03.2026",
+    "field1": "",
+    "field2": "Mechanical Engineering",
+    "field": "Mechanical Engineering",
+    "completedyearsofstudy": 1,
+    "languages": [
+      {
+        "language": "English",
+        "level": "Good (B1, B2)",
+        "andor": ""
+      }
+    ],
+    "payment": [
+      {
+        "payment": 18000,
+        "currency": "MKD",
+        "period": "Monthly",
+        "deduction": "0"
+      }
+    ],
+    "lodging": [
+      {
+        "lodging": "IAESTE",
+        "lodgingcost": 12000,
+        "livingcost": 18000,
+        "currency": "MKD"
+      }
+    ],
+    "description": "The trainee will be involved in the current University's projects, working in the laboratories as well as in the office along with his/hers mentor, doing\n research.\n The work description and tasks will be given according the applicant's specialty",
+    "other_requirements": "",
+    "additional_Info": "Optional charge: 10 euros for finding accomodation for the student.",
+    "requiredknowledgeandexperiences": "/"
+  },
+  {
+    "id": "PH-2026-003-FCPC",
+    "offer-type": "ON-SITE",
+    "employer": "First City Providential College",
+    "workplace": "San Jose del Monte City",
+    "business": "Educational Institution",
+    "employees": "300",
+    "hoursweekly": 40,
+    "hoursdaily": 8,
+    "website": "www.firstcity.ph",
+    "country": "Philippines",
+    "city": "San Jose del Monte, Bulacan",
+    "from": "01.07.2026",
+    "to": "30.09.2026",
+    "weeksmin": 8,
+    "weeksmax": 12,
+    "deadline": "15.03.2026",
+    "field1": "Software Engineering",
+    "field2": "Cybersecurity, Web Development / Software Engineering / Computer Programming",
+    "field": "Cybersecurity, Web Development / Software Engineering / Computer Programming",
+    "completedyearsofstudy": 3,
+    "languages": [
+      {
+        "language": "English",
+        "level": "Good (B1, B2)",
+        "andor": ""
+      }
+    ],
+    "payment": [
+      {
+        "payment": 10000,
+        "currency": "PHP",
+        "period": "Monthly",
+        "deduction": "0"
+      }
+    ],
+    "lodging": [
+      {
+        "lodging": "Employer",
+        "lodgingcost": 0,
+        "livingcost": 8000,
+        "currency": "PHP"
+      }
+    ],
+    "description": "The Cybersecurity Intern will assist the institution’s IT and security team in safeguarding digital systems, networks, and sensitive information. The intern will participate in monitoring, detecting, and responding to security incidents while supporting preventive measures to strengthen the overall cybersecurity posture of the organization.",
+    "other_requirements": "",
+    "additional_Info": "",
+    "requiredknowledgeandexperiences": "Basic understanding of cybersecurity concepts such as:\n \n Network security\n \n Firewalls and intrusion detection systems\n \n Malware types and common attack vectors\n \n Encryption and authentication\n \n Access control and data protection"
+  },
+  {
+    "id": "PL-2026-PLO008",
+    "offer-type": "ON-SITE",
+    "employer": "Institute of Material Science, Dept. of Numerical Methods in Materials Science - TUL",
+    "workplace": "Lodz",
+    "business": "research institute",
+    "employees": "75",
+    "hoursweekly": 35,
+    "hoursdaily": 7,
+    "website": "www.iim.p.lodz.pl",
+    "country": "Poland",
+    "city": "Lodz",
+    "from": "01.07.2026",
+    "to": "18.08.2026",
+    "weeksmin": 6,
+    "weeksmax": 6,
+    "deadline": "20.12.2025",
+    "field1": "",
+    "field2": "Bioengineering/Biomedical Engineering, Material Engineering and Sciences, Mechanical Engineering",
+    "field": "Bioengineering/Biomedical Engineering, Material Engineering and Sciences, Mechanical Engineering",
+    "completedyearsofstudy": 3,
+    "languages": [
+      {
+        "language": "English",
+        "level": "Good (B1, B2)",
+        "andor": ""
+      }
+    ],
+    "payment": [
+      {
+        "payment": 1000,
+        "currency": "PLN",
+        "period": "Monthly",
+        "deduction": "0%"
+      }
+    ],
+    "lodging": [
+      {
+        "lodging": "IAESTE",
+        "lodgingcost": 0,
+        "livingcost": 80000,
+        "currency": "PLN"
+      }
+    ],
+    "description": "The internship takes place in the Division of Numerical Methods in Material Science and Engineering lab. The main area of the division's activity concerns the use of Numerical Methods in Materials Science, FEM modeling, Computer-Aided Materials Engineering and Design, Lattice Structures, 3D printing (FDM, SLA) technology.\n Depending on the specialisation and the interest of the candidate, the intern will become a member of one of the research teams working on the following topics:\n - numerical models manufactured additively, with different core infill type of the samples,\n - numerical analysis of stress and strains,\n - 3D printing in FDM and SLA technology,\n - manufacture and properties of lightweight composite with mineral filling,\n - improve the mechanical properties of 3D printing polymer materials,\n - use 3D printing (FDM and SLA) technologies to produce biomedical components, challenges at the intersection of engineering and medicine.\n Other activities from the department's research area will be added based on the student's skills and interests.",
+    "other_requirements": "",
+    "additional_Info": "",
+    "requiredknowledgeandexperiences": "-"
+  },
+  {
+    "id": "PL-2026-PLO014",
+    "offer-type": "ON-SITE",
+    "employer": "Institute of General Food Chemistry, Department of Chemical Biophysics - TUL",
+    "workplace": "Lodz",
+    "business": "Research Institute - biotechnology and general food chemistry",
+    "employees": "20",
+    "hoursweekly": 35,
+    "hoursdaily": 7,
+    "website": "www.snack.p.lodz.pl",
+    "country": "Poland",
+    "city": "90-924",
+    "from": "31.08.2026",
+    "to": "12.10.2026",
+    "weeksmin": 6,
+    "weeksmax": 6,
+    "deadline": "20.12.2025",
+    "field1": "Food Technology and Processing",
+    "field2": "Biotechnology, Food Science",
+    "field": "Biotechnology, Food Science",
+    "completedyearsofstudy": 3,
+    "languages": [
+      {
+        "language": "English",
+        "level": "Good (B1, B2)",
+        "andor": ""
+      }
+    ],
+    "payment": [
+      {
+        "payment": 1000,
+        "currency": "PLN",
+        "period": "Monthly",
+        "deduction": "0%"
+      }
+    ],
+    "lodging": [
+      {
+        "lodging": "IAESTE",
+        "lodgingcost": 0,
+        "livingcost": 80000,
+        "currency": "PLN"
+      }
+    ],
+    "description": "The student will be based in the Institute of General Food Chemistry research centre and will become part of a project team working on the following projects:\n - designing an electrochemical method system for determining tryptophan solution,\n - molecular modelling methods to study the drug-protein and DNA interactions,\n - the application of fluorescence spectroscopy for folding-unfolding transition in proteins.\n The trainee will take part in practical laboratory works assisting the university researchers.\n The student will take a challenge to find literature data in these areas and to find out about analytical methods. The student will acquire knowledge in methods of measurements and the sample's preparation.",
+    "other_requirements": "",
+    "additional_Info": "Offer available in two possible periods:\n - the number of weeks offered between 25/05/2026 - 30/06/2026 is equal to 5, due to company holidays;\n - the number of weeks offered between 31/08/26 – 11/10/26 is equal to 6.",
+    "requiredknowledgeandexperiences": "-"
+  },
+  {
+    "id": "PL-2026-PLO024",
+    "offer-type": "ON-SITE",
+    "employer": "MakoLab S.A.",
+    "workplace": "Lodz",
+    "business": "Digital Solutions Agency - Web graphics and software",
+    "employees": "200",
+    "hoursweekly": 30,
+    "hoursdaily": 6,
+    "website": "www.makolab.com",
+    "country": "Poland",
+    "city": "Łódź",
+    "from": "01.07.2026",
+    "to": "28.10.2026",
+    "weeksmin": 6,
+    "weeksmax": 12,
+    "deadline": "20.12.2025",
+    "field1": "Information Technology",
+    "field2": "Computer Science / Informatics, Computer Software/Hardware Engineering, Web Development / Software Engineering / Computer Programming",
+    "field": "Computer Science / Informatics, Computer Software/Hardware Engineering, Web Development / Software Engineering / Computer Programming",
+    "completedyearsofstudy": 3,
+    "languages": [
+      {
+        "language": "English",
+        "level": "Good (B1, B2)",
+        "andor": ""
+      }
+    ],
+    "payment": [
+      {
+        "payment": 3500,
+        "currency": "PLN",
+        "period": "Monthly",
+        "deduction": "17%"
+      }
+    ],
+    "lodging": [
+      {
+        "lodging": "IAESTE",
+        "lodgingcost": 550,
+        "livingcost": 200000,
+        "currency": "PLN"
+      }
+    ],
+    "description": "MakoLab is a catalyst for innovation, a digital project house unleashing humancentric creativity, providing business and technology consulting, product design, software delivery and global 24/7 operations support. We have been operating since 1989, putting people first \n as we craft user-inspired solutions. We currently handle millions of operations daily for more than 100 markets.\n We apply our pioneering concept of intelligence amplified to create our IT solutions. Our developers are empowered and their skills are enhanced by using tools such as machine learning, language models and artificial intelligence techniques. Our innovative, profoundly intuitive work is the outcome of uniting state-of-the-art technology with immense human expertise and insight.\n As a developer of custom-designed software, we offer our clients a one-stop shop service rooted in our wide technology stack, outstanding user experience and impeccable standards of quality, attested to by the certificates we hold. Internship experience: Web designer (Java, JavaScript, React, Angular, HTML, .Net), QA and testing. \n The training can be longer depending on the student's skills and motivation.",
+    "other_requirements": "",
+    "additional_Info": "",
+    "requiredknowledgeandexperiences": "-"
+  },
+  {
+    "id": "PL-2026-PLO025",
+    "offer-type": "ON-SITE",
+    "employer": "MakoLab S.A.",
+    "workplace": "Lodz",
+    "business": "Digital Solutions Agency - Web graphics and software",
+    "employees": "200",
+    "hoursweekly": 30,
+    "hoursdaily": 6,
+    "website": "www.makolab.com",
+    "country": "Poland",
+    "city": "Łódź",
+    "from": "01.07.2026",
+    "to": "28.10.2026",
+    "weeksmin": 6,
+    "weeksmax": 12,
+    "deadline": "20.12.2025",
+    "field1": "Information Technology",
+    "field2": "Computer Science / Informatics, Computer Software/Hardware Engineering, Web Development / Software Engineering / Computer Programming",
+    "field": "Computer Science / Informatics, Computer Software/Hardware Engineering, Web Development / Software Engineering / Computer Programming",
+    "completedyearsofstudy": 3,
+    "languages": [
+      {
+        "language": "English",
+        "level": "Good (B1, B2)",
+        "andor": ""
+      }
+    ],
+    "payment": [
+      {
+        "payment": 3500,
+        "currency": "PLN",
+        "period": "Monthly",
+        "deduction": "17%"
+      }
+    ],
+    "lodging": [
+      {
+        "lodging": "IAESTE",
+        "lodgingcost": 550,
+        "livingcost": 200000,
+        "currency": "PLN"
+      }
+    ],
+    "description": "MakoLab is a catalyst for innovation, a digital project house unleashing humancentric creativity, providing business and technology consulting, product design, software delivery and global 24/7 operations support. We have been operating since 1989, putting people first as we craft user-inspired solutions. We currently handle millions of operations daily for more \n than 100 markets.\n We apply our pioneering concept of intelligence amplified to create our IT solutions. Our developers are empowered and their skills are enhanced by using tools such as machine learning, language models and artificial intelligence techniques. Our innovative, profoundly intuitive work is the outcome of uniting state-of-the-art technology with immense human expertise and insight.\n As a developer of custom-designed software, we offer our clients a one-stop shop service rooted in our wide technology stack, outstanding user experience and impeccable standards of quality, attested to by the certificates we hold. \n Internship experience: Web designer (Java, JavaScript, React, Angular, HTML, .Net), QA and\n testing.\n The training can be longer depending on the student's skills and motivation.",
+    "other_requirements": "",
+    "additional_Info": "",
+    "requiredknowledgeandexperiences": "-"
+  },
+  {
+    "id": "QA-2026-01-04",
+    "offer-type": "ON-SITE",
+    "employer": "Qatar University",
+    "workplace": "doha",
+    "business": "Research, Academic",
+    "employees": "3500",
+    "hoursweekly": 40,
+    "hoursdaily": 8,
+    "website": "www.qu.edu.qa",
+    "country": "Qatar",
+    "city": "Doha",
+    "from": "07.06.2026",
+    "to": "30.07.2026",
+    "weeksmin": 6,
+    "weeksmax": 8,
+    "deadline": "15.02.2026",
+    "field1": "",
+    "field2": "Chemistry and Chemical Engineering",
+    "field": "Chemistry and Chemical Engineering",
+    "completedyearsofstudy": 3,
+    "languages": [
+      {
+        "language": "English",
+        "level": "Excellent (C1, C2)",
+        "andor": ""
+      }
+    ],
+    "payment": [
+      {
+        "payment": 2000,
+        "currency": "QAR",
+        "period": "Monthly",
+        "deduction": "5%"
+      }
+    ],
+    "lodging": [
+      {
+        "lodging": "Qatar University",
+        "lodgingcost": 0,
+        "livingcost": 1500,
+        "currency": "QAR"
+      }
+    ],
+    "description": "The Machine Learning-Driven Design of Deep Eutectic Solvents (DESs) for CO2 capture relies heavily on computational screening to find sustainable, high-performance solvents. COSMO-RS (Conductor-like Screening Model for Real Solvents) and Density Functional Theory (DFT) are the core predictive tools. DFT models are used to analyze the molecular structure and electronic properties of DES components. This data is then fed into COSMO-RS to accurately forecast thermodynamic properties crucial for CO2 capture. This integrated approach enables the research to refine solvent choices and ensure their thermodynamic and kinetic suitability for high-efficiency, low-energy CO2 removal, thereby avoiding the costly experimental synthesis and large-scale testing required for traditional methods.",
+    "other_requirements": "",
+    "additional_Info": "As per the QU, Finance Department rules:\n 1- The payment will be given by the end of the month and based on the actual working days. If you work for less than a month, you will be paid for the actual working days only.\n 2- The beneficiary (student) shall bear any bank fees or currency exchange differences that may deducted when transferring the amount.\n 3- The account to which the transfer is made must be in the name of the trainee (student), and the transfer can’t be made to any other account.",
+    "requiredknowledgeandexperiences": "Chemical Engineering"
+  },
+  {
+    "id": "RO-2026-ARH-23",
+    "offer-type": "ON-SITE",
+    "employer": "S.C. STUDIO 10 M. S.R.L.",
+    "workplace": "Bucharest",
+    "business": "ARCHITECTURE",
+    "employees": "10",
+    "hoursweekly": 40,
+    "hoursdaily": 8,
+    "website": "",
+    "country": "Romania",
+    "city": "BUCHAREST",
+    "from": "01.04.2025",
+    "to": "19.12.2026",
+    "weeksmin": 8,
+    "weeksmax": 11,
+    "deadline": "31.03.2026",
+    "field1": "General",
+    "field2": "Architecture",
+    "field": "Architecture",
+    "completedyearsofstudy": 4,
+    "languages": [
+      {
+        "language": "English",
+        "level": "Excellent (C1, C2)",
+        "andor": ""
+      }
+    ],
+    "payment": [
+      {
+        "payment": 1750,
+        "currency": "RON",
+        "period": "Monthly",
+        "deduction": "0"
+      }
+    ],
+    "lodging": [
+      {
+        "lodging": "IAESTE",
+        "lodgingcost": 650,
+        "livingcost": 1500,
+        "currency": "RON"
+      }
+    ],
+    "description": "Architectural, Urbanistic and Design Studies, CAD drawing,",
+    "other_requirements": "",
+    "additional_Info": "",
+    "requiredknowledgeandexperiences": "AutoCad and Photoshop , Portfolio"
+  },
+  {
+    "id": "RO-2026-ARH-28",
+    "offer-type": "ON-SITE",
+    "employer": "Adest Architecture",
+    "workplace": "Bucharest",
+    "business": "Architectural Design Company",
+    "employees": "0-10",
+    "hoursweekly": 40,
+    "hoursdaily": 8,
+    "website": "http://",
+    "country": "Romania",
+    "city": "Bucharest",
+    "from": "01.03.2026",
+    "to": "31.07.2026",
+    "weeksmin": 6,
+    "weeksmax": 8,
+    "deadline": "15.03.2026",
+    "field1": "",
+    "field2": "Architecture",
+    "field": "Architecture",
+    "completedyearsofstudy": 4,
+    "languages": [
+      {
+        "language": "English",
+        "level": "Excellent (C1, C2)",
+        "andor": ""
+      }
+    ],
+    "payment": [
+      {
+        "payment": 1750,
+        "currency": "RON",
+        "period": "Monthly",
+        "deduction": "0"
+      }
+    ],
+    "lodging": [
+      {
+        "lodging": "IAESTE",
+        "lodgingcost": 650,
+        "livingcost": 1500,
+        "currency": "RON"
+      }
+    ],
+    "description": "Architectural, Urbanistic and Design Studies, CAD drawing,",
+    "other_requirements": "",
+    "additional_Info": "",
+    "requiredknowledgeandexperiences": "REvit , AutoCad , Portfolio"
+  },
+  {
+    "id": "SI-2026-1003",
+    "offer-type": "ON-SITE",
+    "employer": "Inštitut Jožef Stefan",
+    "workplace": "Ljubljana",
+    "business": "research",
+    "employees": "1300",
+    "hoursweekly": 40,
+    "hoursdaily": 8,
+    "website": "https://www.ijs.si/ijsw",
+    "country": "Slovenia",
+    "city": "Ljubljana",
+    "from": "01.06.2026",
+    "to": "28.08.2026",
+    "weeksmin": 8,
+    "weeksmax": 12,
+    "deadline": "01.02.2026",
+    "field1": "",
+    "field2": "Physics and Physical Sciences",
+    "field": "Physics and Physical Sciences",
+    "completedyearsofstudy": 2,
+    "languages": [
+      {
+        "language": "English",
+        "level": "Excellent (C1, C2)",
+        "andor": ""
+      }
+    ],
+    "payment": [
+      {
+        "payment": 700,
+        "currency": "EUR",
+        "period": "Monthly",
+        "deduction": "none"
+      }
+    ],
+    "lodging": [
+      {
+        "lodging": "Student in cooperation with IAESTE",
+        "lodgingcost": 250,
+        "livingcost": 600,
+        "currency": "EUR"
+      }
+    ],
+    "description": "The candidate will work with semiconductor particle detectors for tracking and timing applications in the ATLAS experiment at CERN. The tasks will include laboratory measurements and analysis of collected data.\n \n The candidate will perform electrical tests of the samples and study charge collection with a laser setup. Data analysis will mostly be carried out with C++ (CERN ROOT framework), and using basic Python and Git tools will also be included.\n \n The work will be done at the Experimental Particle Physics department at JSI.",
+    "other_requirements": "Only applicants with EU, EEA, or Swiss citizenship are eligible.",
+    "additional_Info": "",
+    "requiredknowledgeandexperiences": "Python or C++"
+  },
+  {
+    "id": "SI-2026-1004",
+    "offer-type": "ON-SITE",
+    "employer": "Protim Ržišnik Perc d.o.o.",
+    "workplace": "Šenčur",
+    "business": "consulting and design of architects and engineers",
+    "employees": "117",
+    "hoursweekly": 40,
+    "hoursdaily": 8,
+    "website": "http://www.protim.si/home",
+    "country": "Slovenia",
+    "city": "",
+    "from": "01.09.2026",
+    "to": "31.12.2026",
+    "weeksmin": 4,
+    "weeksmax": 12,
+    "deadline": "15.03.2026",
+    "field1": "",
+    "field2": "Architecture",
+    "field": "Architecture",
+    "completedyearsofstudy": 3,
+    "languages": [
+      {
+        "language": "English",
+        "level": "Excellent (C1, C2)",
+        "andor": ""
+      }
+    ],
+    "payment": [
+      {
+        "payment": 700,
+        "currency": "EUR",
+        "period": "Monthly",
+        "deduction": "none"
+      }
+    ],
+    "lodging": [
+      {
+        "lodging": "Student in cooperation with IAESTE",
+        "lodgingcost": 300,
+        "livingcost": 600,
+        "currency": "EUR"
+      }
+    ],
+    "description": "Inclusion in a working group in the project office. Participating in various architectural projects for different buildings and infrastructures.\n \n Requires knowledge, skills and experience:\n - excellent technical skills\n - excellent computer skills: advanced knowledge of AutoCAD, Sketchup, Revit, Photoshop\n - good communication skills\n - team work ability\n - desirable design work",
+    "other_requirements": "Only applicants with EU, EEA, or Swiss citizenship are eligible.",
+    "additional_Info": "",
+    "requiredknowledgeandexperiences": "/"
+  },
+  {
+    "id": "TH-2026-C01-02",
+    "offer-type": "ON-SITE",
+    "employer": "Electricity Generating Authority of Thailand",
+    "workplace": "Bangkok",
+    "business": "Electricity Generating",
+    "employees": "20",
+    "hoursweekly": 35,
+    "hoursdaily": 7,
+    "website": "https://iaeste.kmutnb.ac.th/",
+    "country": "Thailand",
+    "city": "Nonthaburi",
+    "from": "04.06.2026",
+    "to": "30.12.2026",
+    "weeksmin": 12,
+    "weeksmax": 12,
+    "deadline": "15.03.2026",
+    "field1": "",
+    "field2": "Computer Software/Hardware Engineering, Electronics Engineering",
+    "field": "Computer Software/Hardware Engineering, Electronics Engineering",
+    "completedyearsofstudy": 4,
+    "languages": [
+      {
+        "language": "English",
+        "level": "Excellent (C1, C2)",
+        "andor": ""
+      }
+    ],
+    "payment": [
+      {
+        "payment": 11000,
+        "currency": "THB",
+        "period": "Monthly",
+        "deduction": "0"
+      }
+    ],
+    "lodging": [
+      {
+        "lodging": "IAESTE",
+        "lodgingcost": 4000,
+        "livingcost": 7000,
+        "currency": "THB"
+      }
+    ],
+    "description": "The Trainee will be assigned to learn how to :\n - create renewable energy solutions,\n - system analysis and\n - operation improvement including\n - design backening and developing Maximo Application\n \n \n (fields of study needed: Electrical Engineering and Computer Engineering)",
+    "other_requirements": "***- The hard-working student with responsibility who can complete the internship till the end period is needed.",
+    "additional_Info": "**-Visa application – You are required to apply for a visa at your nearest Thai Embassy or Consulate. It is very important to apply as soon as you get you acceptance papers from IAESTE THAILAND the application procedure sometimes takes 8-12 weeks. The type of visa that you must get is Non-immigrant-“ED” only. If you wish to travel to the countries nearby Thailand, make sure that you have the multi-entries visa. We need to be informed about your visa extension at least 2 weeks before its expiration date.\n \n Remarks :\n **-In the past, bringing a significant other person while attending the internship has proven to be unsuccessful. Conflicts in schedules and distractions have in some cases led to a less than productive experience for both the intern and the employer. It is therefore requested that a trainee arrive unaccompanied to get maximum benefit from the time spent in his/her internship.",
+    "requiredknowledgeandexperiences": "See work offered."
+  },
+  {
+    "id": "TH-2026-U01-09",
+    "offer-type": "ON-SITE",
+    "employer": "King Mongkut's University of Technology North Bangkok (Bangkok)",
+    "workplace": "Bangkok",
+    "business": "University",
+    "employees": "11",
+    "hoursweekly": 40,
+    "hoursdaily": 8,
+    "website": "",
+    "country": "Thailand",
+    "city": "Bangkok",
+    "from": "01.07.2026",
+    "to": "31.03.2027",
+    "weeksmin": 12,
+    "weeksmax": 12,
+    "deadline": "15.03.2026",
+    "field1": "",
+    "field2": "Architecture",
+    "field": "Architecture",
+    "completedyearsofstudy": 4,
+    "languages": [
+      {
+        "language": "English",
+        "level": "Good (B1, B2)",
+        "andor": ""
+      }
+    ],
+    "payment": [
+      {
+        "payment": 10000,
+        "currency": "THB",
+        "period": "Monthly",
+        "deduction": "0"
+      }
+    ],
+    "lodging": [
+      {
+        "lodging": "IAESTE",
+        "lodgingcost": 4000,
+        "livingcost": 6000,
+        "currency": "THB"
+      }
+    ],
+    "description": "The intern will be assigned to :\n - work as our professor's teaching assistant in architecture classes to give and help our students with architectural designs and technical drawings, and\n - deal and a real estate project with a group of students to work on management of design project course.\n \n \n (fields of study needed: Architecture, Interior design, Real Estate or related fields)",
+    "other_requirements": "***- The hard-working student with responsibility who can complete the internship till the end period is needed.",
+    "additional_Info": "**-Visa application – You are required to apply for a visa at your nearest Thai Embassy or Consulate. It is very important to apply as soon as you get you acceptance papers from IAESTE THAILAND the application procedure sometimes takes 8-12 weeks. The type of visa that you must get is Non-immigrant-“ED” only. If you wish to travel to the countries nearby Thailand, make sure that you have the multi-entries visa. We need to be informed about your visa extension at least 2 weeks before its expiration date.\n \n Remarks :\n **-In the past, bringing a significant other person while attending the internship has proven to be unsuccessful. Conflicts in schedules and distractions have in some cases led to a less than productive experience for both the intern and the employer. It is therefore requested that a trainee arrive unaccompanied to get maximum benefit from the time spent in his/her internship.",
+    "requiredknowledgeandexperiences": "See work offered."
+  },
+  {
+    "id": "TH-2026-U01-13",
+    "offer-type": "ON-SITE",
+    "employer": "King Mongkut's University of Technology North Bangkok (Rayong Campus)",
+    "workplace": "Rayong",
+    "business": "University",
+    "employees": "100",
+    "hoursweekly": 40,
+    "hoursdaily": 8,
+    "website": "",
+    "country": "Thailand",
+    "city": "Rayong",
+    "from": "01.05.2026",
+    "to": "30.11.2026",
+    "weeksmin": 12,
+    "weeksmax": 12,
+    "deadline": "15.03.2026",
+    "field1": "",
+    "field2": "Mechanical Engineering",
+    "field": "Mechanical Engineering",
+    "completedyearsofstudy": 4,
+    "languages": [
+      {
+        "language": "English",
+        "level": "Good (B1, B2)",
+        "andor": ""
+      }
+    ],
+    "payment": [
+      {
+        "payment": 10000,
+        "currency": "THB",
+        "period": "Monthly",
+        "deduction": "0"
+      }
+    ],
+    "lodging": [
+      {
+        "lodging": "Faculty",
+        "lodgingcost": 4000,
+        "livingcost": 6000,
+        "currency": "THB"
+      }
+    ],
+    "description": "- The trainees will be supervised by the faculty instructors who are specialized in related fields of work. The training topics are based on the trainee's background of knowledge and internal in the topics of mechanical and automotive engineering: machine design and simulation, machine testing, chassis and steering design and simulation, and EV issue.\n \n \n (fields of study needed: Mechanical and Automotive Engineering)",
+    "other_requirements": "***- The student, who is familiar with field-related simulation software, is needed. The student with responsibility, who can complete the internship until the end period, is needed.",
+    "additional_Info": "**-Visa application – You are required to apply for a visa at your nearest Thai Embassy or Consulate. It is very important to apply as soon as you get you acceptance papers from IAESTE THAILAND the application procedure sometimes takes 8-12 weeks. The type of visa that you must get is Non-immigrant-“ED” only. If you wish to travel to the countries nearby Thailand, make sure that you have the multi-entries visa. We need to be informed about your visa extension at least 2 weeks before its expiration date.\n \n Remarks :\n **-In the past, bringing a significant other person while attending the internship has proven to be unsuccessful. Conflicts in schedules and distractions have in some cases led to a less than productive experience for both the intern and the employer. It is therefore requested that a trainee arrive unaccompanied to get maximum benefit from the time spent in his/her internship.",
+    "requiredknowledgeandexperiences": "See work offered."
+  },
+  {
+    "id": "TH-2026-U05-01",
+    "offer-type": "ON-SITE",
+    "employer": "Prince of Songkla University (Hatyai Campus)",
+    "workplace": "Songkhla",
+    "business": "University",
+    "employees": "18",
+    "hoursweekly": 40,
+    "hoursdaily": 8,
+    "website": "https://www.iaeste.kmutnb.ac.th/",
+    "country": "Thailand",
+    "city": "Songkhla",
+    "from": "04.06.2026",
+    "to": "30.12.2026",
+    "weeksmin": 12,
+    "weeksmax": 12,
+    "deadline": "15.03.2026",
+    "field1": "",
+    "field2": "Chemistry and Chemical Engineering",
+    "field": "Chemistry and Chemical Engineering",
+    "completedyearsofstudy": 4,
+    "languages": [
+      {
+        "language": "English",
+        "level": "Excellent (C1, C2)",
+        "andor": ""
+      }
+    ],
+    "payment": [
+      {
+        "payment": 11000,
+        "currency": "THB",
+        "period": "Monthly",
+        "deduction": "0"
+      }
+    ],
+    "lodging": [
+      {
+        "lodging": "University",
+        "lodgingcost": 4000,
+        "livingcost": 7000,
+        "currency": "THB"
+      }
+    ],
+    "description": "The trainee will be engaged in research and laboratory activities within the Department of Chemical Engineering, Prince of Songkla University. Tasks may include conducting experiments, preparing samples, analyzing data, and assisting in ongoing research projects related to areas such as process engineering, environmental technology, polymer and rubber materials, or energy systems. \n - Undergraduate students will receive hands-on training in basic experimental techniques and safety procedures. \n   - Graduate students will contribute to experimental design, simulation, and advanced data interpretation. \n - Postdoctoral researchers researchers will conduct independent research, support project development, and may assist in supervising junior researchers.\n \n \n \n (fields of study needed: Chemical Engineering)",
+    "other_requirements": "***- The hard-working student with responsibility who can complete the internship till the end period is needed.",
+    "additional_Info": "**-Visa application – You are required to apply for a visa at your nearest Thai Embassy or Consulate. It is very important to apply as soon as you get you acceptance papers from IAESTE THAILAND the application procedure sometimes takes 8-12 weeks. The type of visa that you must get is Non-immigrant-“ED” only. If you wish to travel to the countries nearby Thailand, make sure that you have the multi-entries visa. We need to be informed about your visa extension at least 2 weeks before its expiration date.\n \n Remarks :\n **-In the past, bringing a significant other person while attending the internship has proven to be unsuccessful. Conflicts in schedules and distractions have in some cases led to a less than productive experience for both the intern and the employer. It is therefore requested that a trainee arrive unaccompanied to get maximum benefit from the time spent in his/her internship.",
+    "requiredknowledgeandexperiences": "See work offered."
+  },
+  {
+    "id": "TH-2026-U09-02",
+    "offer-type": "ON-SITE",
+    "employer": "Mahidol University",
+    "workplace": "Nakhon Pathom",
+    "business": "University",
+    "employees": "149",
+    "hoursweekly": 40,
+    "hoursdaily": 8,
+    "website": "https://www.iaeste.kmutnb.ac.th/",
+    "country": "Thailand",
+    "city": "Nakhon Pathom",
+    "from": "04.06.2026",
+    "to": "30.12.2026",
+    "weeksmin": 12,
+    "weeksmax": 12,
+    "deadline": "15.03.2026",
+    "field1": "",
+    "field2": "Environmental Engineering/Sciences",
+    "field": "Environmental Engineering/Sciences",
+    "completedyearsofstudy": 4,
+    "languages": [
+      {
+        "language": "English",
+        "level": "Good (B1, B2)",
+        "andor": ""
+      }
+    ],
+    "payment": [
+      {
+        "payment": 7000,
+        "currency": "THB",
+        "period": "Monthly",
+        "deduction": "0"
+      }
+    ],
+    "lodging": [
+      {
+        "lodging": "University",
+        "lodgingcost": 0,
+        "livingcost": 7000,
+        "currency": "THB"
+      }
+    ],
+    "description": "The intern will primarily participate in our faculty’s available academic projects. They will be assigned as a research assistant, responsible for conducting extensive literature reviews on issues related to the projects and coordinating with various stakeholders (e.g., faculty staff, universities, high schools, and government agencies in ASEAN countries). Besides academic work, cultural exchange between the intern’s home country and our students will be encouraged. Additionally, the intern will be assigned PR tasks to promote the faculty at the international level.\n \n (fields of study needed: Environmental Science)",
+    "other_requirements": "***- The hard-working student with responsibility who can complete the internship till the end period is needed.",
+    "additional_Info": "**-Visa application – You are required to apply for a visa at your nearest Thai Embassy or Consulate. It is very important to apply as soon as you get you acceptance papers from IAESTE THAILAND the application procedure sometimes takes 8-12 weeks. The type of visa that you must get is Non-immigrant-“ED” only. If you wish to travel to the countries nearby Thailand, make sure that you have the multi-entries visa. We need to be informed about your visa extension at least 2 weeks before its expiration date.\n \n Remarks :\n **-In the past, bringing a significant other person while attending the internship has proven to be unsuccessful. Conflicts in schedules and distractions have in some cases led to a less than productive experience for both the intern and the employer. It is therefore requested that a trainee arrive unaccompanied to get maximum benefit from the time spent in his/her internship.",
+    "requiredknowledgeandexperiences": "See work offered."
+  },
+  {
+    "id": "TH-2026-U09-04",
+    "offer-type": "ON-SITE",
+    "employer": "Mahidol University",
+    "workplace": "Nakhon Pathom",
+    "business": "University",
+    "employees": "30",
+    "hoursweekly": 40,
+    "hoursdaily": 8,
+    "website": "https://www.iaeste.kmutnb.ac.th/",
+    "country": "Thailand",
+    "city": "Nakhon Pathom",
+    "from": "01.05.2026",
+    "to": "30.10.2026",
+    "weeksmin": 12,
+    "weeksmax": 12,
+    "deadline": "15.03.2026",
+    "field1": "",
+    "field2": "Chemistry and Chemical Engineering",
+    "field": "Chemistry and Chemical Engineering",
+    "completedyearsofstudy": 4,
+    "languages": [
+      {
+        "language": "English",
+        "level": "Good (B1, B2)",
+        "andor": ""
+      }
+    ],
+    "payment": [
+      {
+        "payment": 11000,
+        "currency": "THB",
+        "period": "Monthly",
+        "deduction": "0"
+      }
+    ],
+    "lodging": [
+      {
+        "lodging": "University",
+        "lodgingcost": 4000,
+        "livingcost": 7000,
+        "currency": "THB"
+      }
+    ],
+    "description": "- Inters will be placed in one of the department's specialized resesrch laboratories and will work on a supwevised ceseurch project in the field of chemical Engneering , Areas of research inude 1)Catalysis Biorefinry, 2) Advanced materials, 3) food, Phsmarceution and Healt care Engineerin, and AI, Modeling, Simulation and Digital Engineering.\n \n (fields of study needed: Chemical Engineering)",
+    "other_requirements": "***- The hard-working student with responsibility who can complete the internship till the end period is needed.",
+    "additional_Info": "**-Visa application – You are required to apply for a visa at your nearest Thai Embassy or Consulate. It is very important to apply as soon as you get you acceptance papers from IAESTE THAILAND the application procedure sometimes takes 8-12 weeks. The type of visa that you must get is Non-immigrant-“ED” only. If you wish to travel to the countries nearby Thailand, make sure that you have the multi-entries visa. We need to be informed about your visa extension at least 2 weeks before its expiration date.\n \n Remarks :\n **-In the past, bringing a significant other person while attending the internship has proven to be unsuccessful. Conflicts in schedules and distractions have in some cases led to a less than productive experience for both the intern and the employer. It is therefore requested that a trainee arrive unaccompanied to get maximum benefit from the time spent in his/her internship.",
+    "requiredknowledgeandexperiences": "See work offered."
+  },
+  {
+    "id": "TJ-2026-0202",
+    "offer-type": "ON-SITE",
+    "employer": "\"Saikhun\" Ltd",
+    "workplace": "Khujand",
+    "business": "Liqueur-alcohol products",
+    "employees": "60",
+    "hoursweekly": 40,
+    "hoursdaily": 8,
+    "website": "http://saikhun.tj/",
+    "country": "Tajikistan",
+    "city": "Khujand",
+    "from": "01.07.2026",
+    "to": "30.09.2026",
+    "weeksmin": 6,
+    "weeksmax": 9,
+    "deadline": "15.03.2026",
+    "field1": "General",
+    "field2": "Electrical Engineering",
+    "field": "Electrical Engineering",
+    "completedyearsofstudy": 3,
+    "languages": [
+      {
+        "language": "English",
+        "level": "Good (B1, B2)",
+        "andor": "Or"
+      },
+      {
+        "language": "Russian",
+        "level": "Good (B1, B2)",
+        "andor": "Or"
+      },
+      {
+        "language": "Persian",
+        "level": "Good (B1, B2)"
+      }
+    ],
+    "payment": [
+      {
+        "payment": 1500,
+        "currency": "TJS",
+        "period": "Monthly",
+        "deduction": "0"
+      }
+    ],
+    "lodging": [
+      {
+        "lodging": "IAESTE",
+        "lodgingcost": 0,
+        "livingcost": 600,
+        "currency": "TJS"
+      }
+    ],
+    "description": "The student will be assisting in scheduled maintaining, monitoring and testing of the company's electrical equipment.\n The detailed work-plan will be sent upon receipt of nomination documents.",
+    "other_requirements": "",
+    "additional_Info": "",
+    "requiredknowledgeandexperiences": "-"
+  },
+  {
+    "id": "TJ-2026-1003",
+    "offer-type": "ON-SITE",
+    "employer": "JSC \"Babilon-Mobile\"",
+    "workplace": "Dushanbe",
+    "business": "GSM/2G/3G/LTE mobile network operator",
+    "employees": "160",
+    "hoursweekly": 40,
+    "hoursdaily": 8,
+    "website": "http://www.babilon-m.tj",
+    "country": "Tajikistan",
+    "city": "Dushanbe",
+    "from": "01.05.2026",
+    "to": "30.09.2026",
+    "weeksmin": 6,
+    "weeksmax": 8,
+    "deadline": "15.03.2026",
+    "field1": "General;Information Technology",
+    "field2": "Computer Science / Informatics, Computer Software/Hardware Engineering, Telecommunications",
+    "field": "Computer Science / Informatics, Computer Software/Hardware Engineering, Telecommunications",
+    "completedyearsofstudy": 3,
+    "languages": [
+      {
+        "language": "English",
+        "level": "Good (B1, B2)",
+        "andor": "Or"
+      },
+      {
+        "language": "Russian",
+        "level": "Good (B1, B2)",
+        "andor": ""
+      }
+    ],
+    "payment": [
+      {
+        "payment": 1000,
+        "currency": "TJS",
+        "period": "Monthly",
+        "deduction": "0"
+      }
+    ],
+    "lodging": [
+      {
+        "lodging": "IAESTE",
+        "lodgingcost": 0,
+        "livingcost": 600,
+        "currency": "TJS"
+      }
+    ],
+    "description": "The company is interested in a motivated and enthusiastic student, who will be engaged in the following duties: \n - Learning and implementing the main working principles, structural functions and NSS/BSS/BTS subsystems of the GSM/WCDMA networks;\n - Testing of the GSM/WCDMA networks;\n - Monitoring, planning and testing of the GSM radio network settings;\n - Performing statistical data analysis of BSS subsystem;\n \n The detailed work-plan will be sent upon receipt of nomination documents.",
+    "other_requirements": "",
+    "additional_Info": "",
+    "requiredknowledgeandexperiences": "-"
+  },
+  {
+    "id": "VN-2026-ISTNU-4E",
+    "offer-type": "ON-SITE",
+    "employer": "International School - Thai Nguyen University",
+    "workplace": "Thai Nguyen",
+    "business": "Education",
+    "employees": "65",
+    "hoursweekly": 40,
+    "hoursdaily": 8,
+    "website": "http://is.tnu.edu.vn/",
+    "country": "Vietnam",
+    "city": "Thai Nguyen",
+    "from": "01.03.2026",
+    "to": "31.05.2026",
+    "weeksmin": 12,
+    "weeksmax": 12,
+    "deadline": "15.03.2026",
+    "field1": "",
+    "field2": "Environmental Engineering/Sciences",
+    "field": "Environmental Engineering/Sciences",
+    "completedyearsofstudy": 3,
+    "languages": [
+      {
+        "language": "English",
+        "level": "Excellent (C1, C2)",
+        "andor": ""
+      }
+    ],
+    "payment": [
+      {
+        "payment": 2500000,
+        "currency": "VND",
+        "period": "Monthly",
+        "deduction": "20%"
+      }
+    ],
+    "lodging": [
+      {
+        "lodging": "Employer",
+        "lodgingcost": 0,
+        "livingcost": 2000000,
+        "currency": "VND"
+      }
+    ],
+    "description": "- There are international students of nearly 20 different nationalities at ISTNU, which creates an international exchange environment here. \n - Introduction about ISTNU: https://en.is.tnu.edu.vn/about-us/\n - Students will be assigned with Several tasks (not all tasks) in the list below: \n - Doing experiments in a lab (depending on the projects)\n - Participating in writing a research paper for scientific journals.\n - Interns are given relevant data and figures & supervised to analyse the data, and write the different parts of the paper.\n - The goal of the project is to finally publish these results in a scientific journal. \n - Two of several previous research with the participation of IAESTE interns:\n * Degradation of organic pollutans by mercaprosulfate using cobalt particles as a catalyst\n * Hollow cobalt oxide nanoparticles used for catalysis in hydrogen gas production\n - Student will be able to develop presentation, and scientific/ academic writing skills.\n - Working as a Teaching Assistant in Specialized subjects for the Lecturers in one, two or three of these subjects, depending on students' interest and knowledge, including: Enviromental analysis/ General and Environment Chemistry/ Statistics and Applied Statistics in Biology Science/ Organic Chemistry/ /General Microbiology/ /Conservation Biology/ General Ecology/ Biology/ Environmental Science/ Urban Ecology/ Population and Community Ecology/ Biodiversity Measurement and Estimation/ Trees and Forests/ Project Management/ Global Environmental Interactions/ Earth science and Climate Change/ Strategic Planning and Environmental Management/ /Principles of Soil Science and Soil Polution Management\n - Attending and organizing seminars related to the field of study\n - Attending English club\n - Helping students in improving their English",
+    "other_requirements": "Willing to take part in extra-curricular activities",
+    "additional_Info": "- The school closes from 01 June until 30 Aug, so they cannot welcome an intern at this time. But if the student is still interested in an internship in Vietnam, you can nominate her/ his application so that we can find other employers that can welcome her/ him.\n - You can be provided a good free room which costs 3,500,000 VND/ month at the Guest - House for international teachers of the school if there are available rooms, and the school doesn't charge you for this fee. In case there are no rooms left at the Guest House during your internships, you will be provided free accommodation at the dormitory for students. Normally, all IAESTE interns at ISTNU stay at the Guest House.",
+    "requiredknowledgeandexperiences": "- Having laptop, Hard-working, Creative, Friendly, Active, Enthusiastic, Responsible, Proactive\n - Loves research work\n - Priority is given to students having working experience in: (not compulsory)\n + Chemical and environmental laboratories\n + Performing analyzes of typical water quality indicators such as ammonium, nitrate, nitrite, phosphate, heavy metals, BOD, COD"
+  },
+  {
+    "id": "VN-2026-TTAS-07",
+    "offer-type": "ON-SITE",
+    "employer": "TT-AS Architecture - Construction Joint Stock Company - Website: http://tt-as.vn/ Hanoi",
+    "workplace": "Hanoi",
+    "business": "Architectural Design",
+    "employees": "45",
+    "hoursweekly": 44,
+    "hoursdaily": 8,
+    "website": "http://tt-as.vn/",
+    "country": "Vietnam",
+    "city": "Hanoi",
+    "from": "01.02.2026",
+    "to": "30.06.2026",
+    "weeksmin": 12,
+    "weeksmax": 12,
+    "deadline": "15.03.2026",
+    "field1": "General;City/Urban, Community and Regional Planning",
+    "field2": "Architecture",
+    "field": "Architecture",
+    "completedyearsofstudy": 3,
+    "languages": [
+      {
+        "language": "English",
+        "level": "Excellent (C1, C2)",
+        "andor": ""
+      }
+    ],
+    "payment": [
+      {
+        "payment": 5000000,
+        "currency": "VND",
+        "period": "Monthly",
+        "deduction": "0/ Depending"
+      }
+    ],
+    "lodging": [
+      {
+        "lodging": "Employer",
+        "lodgingcost": 5000000,
+        "livingcost": 7000000,
+        "currency": "VND"
+      }
+    ],
+    "description": "- T-As Architecture and Construction JSC (https://tt-as.vn/company/) was originated from RACBT (Research and Application Centre of Building Technique – University of Civil Engineering). With over 20 years of experience and more than 100 projects done, TT-Associates is proud to be among the ones who shape the landscape of the future. Designing this world is a truly meaningful thing to do. Now we refresh our brand by combining the TT-Associates and TTA-Partners logos together. \n - The company is one of the best companies in Architecture in Vietnam. Students will have a great time to experience in terms of Architecture Field in reality.\n --------------------------------------------------------------------------------------------------------\n - Participate in practical designing works with other staff in the company\n - Develop creativity and expand ideas about planning projects, deploy drawings of urban planning.\n - Support architects and interior designers: Build 3D perspective, deploy 2D technical documents as a customer design requirement. \n - Arranging layout images and drawings of projects to present to customers, and investors.\n - Deploy designs as a division of leaders\n - Support senior leaders in operating and managing design work in each project. \n - Deploy construction drawing.\n - Perspective drawing – build ideas\n - Working time: Monday - Friday: 8 hours/ day, Saturday: 4 hours in the morning\n ------------------------------------------------------------------------------------------------\n Prizes of TTAS:\n - National Architecture Gold Award 2024 – 2025 for Grand Mercure 5 star hotel project\n - TOP TEN Vietnam Architecture Firms voted by BCI.\n - National Architecture Award for Hanoi Stock Exchange project\n - 100 Architects of the Year – UIA 2017\n - Awarded Housing design for N04 Complex building- UDIC complex\n - Awarded the Designer Selection for “ Sofitel Legend Metropole hotel renovation 2015” project.\n - Awarded the first prize in design contests for Vietnam News Agency television center ( VNEWS) – 33 Le Thanh Tong str- Hanoi\n & a lot more here: https://tt-as.vn/award/",
+    "other_requirements": "- Willing to take part in extra-curricular activities\n - Porfolio",
+    "additional_Info": "Hanoi is the capital city of Vietnam, and it is expensive to rent a room here. The company can only support an amount of stipend that isn't sufficient for the interns to pay for the accommodation and the fee of electricity; therefore, students need to bring about 250 USD to cover their living expenses.",
+    "requiredknowledgeandexperiences": "- Being friendly/ sociable/ adaptive/ creative and serious at work\n - Having a laptop"
+  }
+]
