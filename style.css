@@ -1,72 +1,141 @@
+/* =======================================================================
+   BASE — Mobile first
+   =======================================================================*/
+
 body {
   font-family: Arial, sans-serif;
-  margin: 20px;
+  margin: 10px;
+  padding: 0;
+  font-size: 16px;                 /* Base size larger for mobile */
+  background: #fafafa;
 }
 
-#filters select {
-  margin-right: 10px;
-  padding: 5px;
-}
-
-.card {
-  border: 1px solid #ccc;
-  border-radius: 8px;
-  padding: 15px;
-  margin: 10px 0;
-  cursor: pointer;
-}
-
-.card:hover {
-  background-color: #f0f0f0;
-}
-
-.modal {
-  display: none; 
-  position: fixed; 
-  z-index: 1000;
-  left: 0;
-  top: 0;
-  width: 100%; 
-  height: 100%; 
-  overflow: auto;
-  background-color: rgba(0,0,0,0.5);
-}
-
-.modal-content {
-  background-color: #fff;
-  margin: 10% auto;
-  padding: 20px;
-  border-radius: 10px;
-  width: 80%;
-}
-
-.close {
-  float: right;
-  font-size: 24px;
-  cursor: pointer;
-}
+/* =======================================================================
+   FILTERS — Optimiert für Handy
+   =======================================================================*/
 
 #filters {
   display: flex;
-  flex-wrap: wrap; /* Zeilenumbruch bei kleinen Bildschirmen */
-  gap: 10px; /* Abstand zwischen Dropdowns */
+  flex-direction: column;
+  gap: 12px;
   margin-bottom: 20px;
 }
 
 #filters select {
-  flex: 1 1 200px; /* Dropdowns wachsen, min-width = 200px */
-  padding: 8px;
-  font-size: 1em;
-  border-radius: 5px;
+  width: 100%;
+  padding: 14px 12px;
+  font-size: 1.1rem;
+  border-radius: 8px;
   border: 1px solid #ccc;
+  background: white;
 }
 
-/* Mobile optimieren */
-@media (max-width: 600px) {
-  #filters select {
-    width: 100%;       /* Dropdown füllt die Breite */
-    font-size: 1.2em;  /* Größerer Text */
-    padding: 12px 10px; /* Größere Fläche zum Tippen */
-    margin-bottom: 10px;
+/* =======================================================================
+   CARDS — Mobile friendly
+   =======================================================================*/
+
+.card {
+  background: white;
+  border: 1px solid #ddd;
+  border-radius: 12px;
+  padding: 18px;
+  margin: 1px 0;
+  cursor: pointer;
+  font-size: 1.05rem;
+  line-height: 1.4;
+  box-shadow: 0 2px 10px rgba(0,0,0,0.05);
+}
+
+.card strong {
+  font-size: 1.2rem;               /* Bigger title */
+  display: inline-block;
+  margin-bottom: 6px;
+}
+
+.card em {
+  display: block;
+  font-size: 1rem;
+  color: #666;
+  margin-bottom: 3px;
+}
+
+/* Hover nur für Desktop */
+@media (hover: hover) {
+  .card:hover {
+    background-color: #f3f3f3;
+    transform: scale(1.01);
   }
+}
+
+/* =======================================================================
+   MODAL — Mobile First
+   =======================================================================*/
+
+.modal {
+  display: none;
+  position: fixed;
+  inset: 0;
+  background-color: rgba(0,0,0,0.6);
+  padding: 15px;
+  z-index: 2000;
+}
+
+.modal-content {
+  background: white;
+  border-radius: 14px;
+  padding: 10px;
+  
+  @media (min-width: 800px) {
+    padding: 20px;
+  }
+  width: 100%;
+  max-width: 95%;
+  margin: 40px auto;
+  max-height: 85vh;
+  overflow-y: auto;
+  font-size: 1.05rem;
+}
+
+.close {
+  float: right;
+  font-size: 28px;
+  font-weight: bold;
+  margin-top: -5px;
+  cursor: pointer;
+}
+
+/* =======================================================================
+   DESKTOP EXTRAS
+   =======================================================================*/
+
+@media (min-width: 800px) {
+
+  body {
+    max-width: 900px;
+    margin: 20px auto;
+    font-size: 16px;
+  }
+
+  #filters {
+    flex-direction: row;
+    flex-wrap: wrap;
+  }
+
+  #filters select {
+    flex: 1 1 200px;
+    font-size: 1rem;
+  }
+
+  .card {
+    padding: 20px;
+    font-size: 1rem;
+  }
+}
+
+/*immer nur 1 Karte */
+#cardsContainer {
+  display: grid;
+  grid-template-columns: 1fr;
+  row-gap: 6px;      /* vertikal */
+  column-gap: 12px;  /* horizontal */
 }

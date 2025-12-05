@@ -62,7 +62,7 @@ function renderCards(data) {
     const card = document.createElement("div");
     card.className = "card";
     card.innerHTML = `
-      <strong>${flagFromRef(p.id)} ${p.id}</strong> - ${p.employer}, ${p.city}, ${p.country}<br>
+      <strong>${flagFromRef(p.id)} ${p.id}</strong> - ${p.employer}, ${p.city}, ${p.country} <br>
       <em>${p.field}</em><br>
       Start: ${p.from} | End: ${p.to} | Deadline: ${p.deadline}
     `;
