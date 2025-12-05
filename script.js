@@ -21,7 +21,12 @@ fetch('praktika.json')
 function populateFilters() {
 
   const countries = [...new Set(praktikaData.map(p => p.country))];
-  const fields = [...new Set(praktikaData.map(p => p.field))];
+  
+  // Extrahiere Hauptfelder (vor dem ersten Komma)
+  const mainFields = [...new Set(praktikaData.map(p => {
+    const field = p.field || "";
+    return field.split(",")[0].trim();
+  }))].filter(f => f);
 
     countries.sort().forEach(c => {
         const opt = document.createElement("option");
@@ -29,7 +34,7 @@ function populateFilters() {
         countryFilter.appendChild(opt);
     });
 
-  fields.sort().forEach(f => {
+  mainFields.sort().forEach(f => {
     const opt = document.createElement("option");
     opt.value = f; opt.textContent = f;
     fieldFilter.appendChild(opt);
@@ -40,8 +45,10 @@ function populateFilters() {
 [countryFilter, fieldFilter].forEach(select => {
   select.addEventListener('change', () => {
     const filtered = praktikaData.filter(p => {
-      return (!countryFilter.value || p.country === countryFilter.value)
-          && (!fieldFilter.value || p.field === fieldFilter.value);
+      const matchesCountry = !countryFilter.value || p.country === countryFilter.value;
+      // Filter: alle Felder die mit dem gewählten Hauptfeld beginnen
+      const matchesField = !fieldFilter.value || (p.field && p.field.startsWith(fieldFilter.value));
+      return matchesCountry && matchesField;
     });
     renderCards(filtered);
   });
@@ -54,6 +61,36 @@ function flagFromRef(refno) {
   return `<img src="https://flagcdn.com/24x18/${iso.toLowerCase()}.png"> `;
 }
 
+// Format description text for better readability
+function formatDescription(text) {
+  if (!text) return "";
+  
+  // Split by newlines and clean up
+  let lines = text.split(/\\n/).map(line => line.trim()).filter(line => line);
+  
+  // Convert to HTML with proper formatting
+  let formatted = lines.map(line => {
+    // Check if line starts with dash, bullet, or number (list item)
+    if (/^[-•*]\s/.test(line)) {
+      return `<li>${line.replace(/^[-•*]\s/, '')}</li>`;
+    } else if (/^\d+[\.)]\s/.test(line)) {
+      return `<li>${line.replace(/^\d+[\.)]\s/, '')}</li>`;
+    } else if (line.endsWith(':')) {
+      // Section headers
+      return `</ul><strong>${line}</strong><ul>`;
+    } else {
+      // Regular paragraph
+      return `</ul><p>${line}</p><ul>`;
+    }
+  }).join('');
+  
+  // Wrap in proper structure and clean up empty lists
+  formatted = '<ul>' + formatted + '</ul>';
+  formatted = formatted.replace(/<ul>\s*<\/ul>/g, '');
+  formatted = formatted.replace(/<\/ul>\s*<ul>/g, '');
+  
+  return formatted;
+}
 
 // Cards rendern
 function renderCards(data) {
@@ -93,14 +130,15 @@ function showModal(p) {
 
     if (p.lodging && p.lodging.length > 0) {
         lodgingText = p.lodging.map((l) => {
-            let text = `Organized by ${l.lodging},  Lodging Cost ${l.lodgingcost} ${l.currency},  Living Cost ${l.livingcost} ${l.currency}`;
+            let actual_living_cost = Number(l.livingcost) - Number(l.lodgingcost);
+            let text = `Organized by ${l.lodging},  Lodging Cost ${l.lodgingcost} ${l.currency},  Living Cost ${actual_living_cost} ${l.currency}, Total Cost ${l.livingcost} ${l.currency}`;
             return text;
         }).join(" ");
     }
 
 
     modalBody.innerHTML = `
-        <h2>${p.id}</h2>
+        <h2>${flagFromRef(p.id)} ${p.id}</h2>
         <p><strong>Ref. No.:</strong> ${p.id || ""}</p>
         <p><strong>Offer Type:</strong> ${p["offer-type"] || ""}</p>
         <p><strong>Workplace:</strong> ${p.workplace || ""}</p>
@@ -120,10 +158,10 @@ function showModal(p) {
         <p><strong>Languages:</strong> ${languagesText}</p>
         <p><strong>Payment:</strong> ${paymentText || ""}</p>
         <p><strong>Lodging:</strong> ${lodgingText || ""}</p>
-        <p><strong>Description:</strong> ${p.description || ""}</p>
-        <p><strong>Other Requirements:</strong> ${p.other_requirements || ""}</p>
-        <p><strong>Required Knowledge & Experiences:</strong> ${p.requiredknowledgeandexperiences || ""}</p>
-        <p><strong>Additional Info:</strong> ${p.additional_Info || ""}</p>
+        <div><strong>Description:</strong> ${formatDescription(p.description)}</div>
+        <div><strong>Other Requirements:</strong> ${formatDescription(p.other_requirements)}</div>
+        <div><strong>Required Knowledge & Experiences:</strong> ${formatDescription(p.requiredknowledgeandexperiences)}</div>
+        <div><strong>Additional Info:</strong> ${formatDescription(p.additional_Info)}</div>
     `;
     modal.style.display = "block";
 }

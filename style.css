@@ -2,6 +2,48 @@
    BASE — Mobile first
    =======================================================================*/
 
+.header {
+    display: flex;
+    flex-wrap:wrap;
+    align-items:center;
+    /*border:2px solid red;*/
+    /*background-color: #ffffff;*/
+    margin-top: 10px;
+    margin-bottom: 10px;
+
+}
+
+.header .rl{
+    display:flex;
+    justify-content: space-between;
+    align-items:center;
+
+}
+
+.header .image {
+    background: url("iaeste-logo.png")
+    no-repeat;
+    background-size: cover;
+    width: 152px;
+    height: 46px;
+    /*border:2px solid green;*/
+    margin: 10px;
+    align-items:center;
+}
+
+.header .text {
+    /*border:2px solid blue;*/
+    display: inline-block;
+    color:#0b3d59;
+
+}
+
+.header .rtext {
+    /*border:2px solid orange;*/
+    display: inline-block;
+    margin: 5px;
+}
+
 body {
   font-family: Arial, sans-serif;
   margin: 10px;
