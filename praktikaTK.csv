@@ -1,0 +1,358 @@
+Ref.No,OfferType,Deadline,Employer,City,Country,Website,Workplace,Business,Employees,HoursWeekly,HoursDaily,FieldsOfStudy,OtherRequirements,Workkind,WeeksMin,WeeksMax,From,To,Language1,Language1Level,Language1Or,Language2,Language2Level,Language2Or,Language3,Language3Level,Currency,Payment,PaymentFrequency,Deduction,Lodging,LodgingCost,LivingCost,Faculty 1,Additional_Info,CompletedYearsOfStudy,RequiredKnowledgeAndExperiences,GeneralDisciplinesText
+BR-2026-227-SOR,ON-SITE,31.03.2026,UNESP - Sorocaba,Sorocaba - SP,Brazil,http://www.sorocaba.unesp.br/,Sorocaba - SP,University,1000,30,6,Nanotechnology,,Development of projects in nanotechnology applied to environmental and agriculture.,8,8,04.05.2026,27.11.2026,English,"Good (B1, B2)",,,,,,,BRL,1400,Monthly,0,Student with IAESTE support,800,1400,"Agriculture, Biotechnology, Chemistry and Chemical Engineering, Environmental Engineering/Sciences",,3,Chemistry and biotechnology lab experience.,"Agriculture, Biotechnology, Chemistry and Chemical Engineering, Environmental Engineering/Sciences"
+BR-2026-230-SOR,ON-SITE,31.03.2026,UNESP - Sorocaba,Sorocaba - SP,Brazil,http://www.sorocaba.unesp.br/,Sorocaba - SP,University,1000,20,4,General,,The inter is expected to develop or help in hardware-in-the-loop experiments for simulating and testing inverter-based resources in microgrids scenarios.,8,8,04.05.2026,30.10.2026,English,"Good (B1, B2)",Or,Spanish,"Good (B1, B2)",,,,BRL,1400,Monthly,0,Student with IAESTE support,800,1400,"Electrical Engineering, Mechatronics, Robotics and Automation",,3,C++ programming and electrical simulation softwares like MATLAB/Simulink and PSIM.,"Electrical Engineering, Mechatronics, Robotics and Automation"
+BR-2026-231-SOR,ON-SITE,31.03.2026,UNESP - Sorocaba,Sorocaba - SP,Brazil,http://www.sorocaba.unesp.br/,Sorocaba - SP,University,1000,20,4,General;General,,The inter is expected to develop or help in hardware-in-the-loop experiments for simulating and testing inverter-based resources in microgrids scenarios.,8,8,04.05.2026,30.10.2026,English,"Good (B1, B2)",Or,Spanish,"Good (B1, B2)",,,,BRL,1400,Monthly,0,Student with IAESTE support,800,1400,"Electrical Engineering, Mechatronics, Robotics and Automation",,3,C++ programming and electrical simulation softwares like MATLAB/Simulink and PSIM.,"Electrical Engineering, Mechatronics, Robotics and Automation"
+BR-2026-239-BOT,ON-SITE,31.03.2026,UNESP - Botucatu,Botucatu,Brazil,http://www.ibb.unesp.br/,Botucatu - SP,University,1000,30,6,General;General,,"The candidate will study and develop mathematical models in epidemiology, focusing on the fundamental concepts of infectious disease transmission and prevalence within host populations.
+ 
+ The work will begin with the basic Susceptible–Infected–Recovered (SIR) model and then progress to more complex frameworks, including vector-borne transmission and multi-host or multi-pathogen systems.
+ 
+ The student will learn how to determine the equilibrium points of these dynamical systems and analyze their stability. Additionally, the basic reproduction number (R0) of each disease model will be derived and interpreted.
+ 
+ Finally, the student will verify and validate the analytical results through numerical simulations, ensuring consistency between theoretical and computational findings.
+ 
+ Skills that will be developed: Mathematical Model Analysis, Julia Language (coding), Data Analysis.",8,8,04.05.2026,30.06.2026,English,"Good (B1, B2)",Or,Spanish,"Good (B1, B2)",,,,BRL,1400,Monthly,0,Student with IAESTE support,800,1400,"Biology, Mathematics and Statistics, Physics and Physical Sciences",,3,Basic Calculus and Programming,"Biology, Mathematics and Statistics, Physics and Physical Sciences"
+CO-2026-USTAT-02,ON-SITE,15.03.2026,Universidad Santo Tomás - Tunja,Tunja,Colombia,https://www.ustatunja.edu.co/,Tunja,Higher education,400,40,8,,,"The candidate should work on image labeling and programming computer vision algorithms for object identification and classification in embedded systems. Basic knowledge of Python and programming logic fundamentals is desirable. Experience in image processing, optimization of algorithms for low-power hardware such as Raspberry Pi or Jetson Nano, and use of libraries such as OpenCV, TensorFlow or PyTorch for machine vision applied to real-time image classification is an asset.",8,16,01.06.2026,30.11.2026,Spanish,"Good (B1, B2)",Or,English,"Good (B1, B2)",,,,COP,1500000,Monthly,0,Employer,800000,1500000,"Electrical Engineering, Electronics Engineering",Students from Americas and Europe don't need to issue a visa if their stay is shorter than 180 days,25,Embedded Systems and Machine Vision,"Electrical Engineering, Electronics Engineering"
+CH-2026-000006,ON-SITE,31.12.2025,Burckhardt Architektur AG,Zürich,Switzerland,https://burckhardt.swiss/,Zurich,Architecture,30,42,84,,Nomination documents + portfolio should NOT EXCEED 12 MB TOGETHER.,"We are one of Switzerland's leading architectural/general planning practices and committed to convincing architecture in harmony with economic and sustainable goals. Our international team in Zurich is looking for a highly motivated individual who wants to gain experience in the design and implementation of architectural projects. The tasks include the design of architectural projects in all planning phases in both small and large project teams. A high degree of independence and self-drive are required for this internship.
+ 
+ You will learn about:
+ - Drawing in AutoCAD and/or Revit
+ - Building of models
+ - Design and visualization
+ - Presentation and documentation
+ - Planning and project organization
+ 
+ We offer:
+ - exciting architectural projects in various scales and complexities 
+ - an instructive internship in all disciplines of architecture 
+ - projects in all business areas (residential, services, laboratory construction, hospital construction, industrial construction, urban development, etc.) 
+ - state-of-the-art planning technologies 
+ - a mixed and well-positioned team of around 40 committed employees in our Zurich office 
+ - flexibility in compatibility with work (annual working hours)",26,26,01.08.2026,31.03.2027,German,"Good (B1, B2)",Or,English,"Good (B1, B2)",,,,CHF,2500,Monthly,approx. 10 % Social security AHV/IV,IAESTE LC Zurich,850,1650,Architecture,"Any student with Non-EU/EFTA nationality needs an official letter from their university, confirming that the internship is compulsory (required for visa/work permit).",2,"Not yet finished Master, and first practical experience in architecture office.
+ Knowledge in AutoCAD; Revit and BIM/VDC experience is an advantage.",Architecture
+EC-2026-EC-004,ON-SITE,13.02.2026,BIOMETRIKA S.A.,Quito,Ecuador,www.biometrika.ec,"Quito, Ecuador",Over 20 years of specialization in time management and human identification.,15,30,6,Artificial Intelligence;Machine Learning,"Computer Science, with a focus on Artificial Intelligence / Machine Learning.",Improving the functionality of the Robot Daniela Project through software development and the integration of peripherals such as cameras and API connections,11,12,04.09.2026,27.11.2026,English,"Good (B1, B2)",,,,,,,USD,470,Monthly,0,IAESTE,250,470,Computer Science / Informatics,"As a student you will be enrolled at Universidad San Francisco de Quito , therefore your legal status in Ecuador will be as a student doing a cultural exchange program , in order to complete your studies. Despite of the fact that Ecuador allows almost every country to come as a tourist, you must to request an extension of permanence in Ecuador if you stay longer than 90 days. It is mandatory to apply a visa before coming to Ecuador for the following countries: Afganistan, Angola, Bangladesh, Republic of Cameroon, Cuba, Egypt, Eritrea, Etiopia, Gambia, Ghana, Guinera, Haiti, Ivory Coast, India, Irak, Kenia, Libia, Nepal, Nigeria, Pakistán, Philippines, Democratic Republic of the Congo, North Korea, Senegal, Siria, Somalia, Sri Lanka, Venezuela, Vietnam, Yemen.
+ Students must have Health Insurance. Accommodation will be arranged by IAESTE ECUADOR in the case that student will want our help. We will pick you up from the airport and take you to your Guest House.",3,"Degree programs in Systems, Computer, and Information Engineering.",Computer Science / Informatics
+EC-2026-EC-005,ON-SITE,13.02.2026,Huella Verde,Quito,Ecuador,https://www.huellaverde.com.ec/,"Quito, Ecuador",Zero Waste in food courts. We replace single-use containers with reusable tableware and recover the waste we cannot avoid.,79,30,6,,"Analysis, problem-solving, results orientation, leadership, teamwork, adaptability, continuous learning, proactivity, and effective communication.","• Review previously established processes and procedures through documentation and team meetings.
+ • Plan and implement the Quality Management System (QMS).
+ • Review and improve audit templates based on the QMS.
+ • Data management.
+ • Provide training on QMS implementation.
+ • Collaborate with different departments.
+ • Identify risks and opportunities found during the QMS evaluation.
+ • Optimize processes.
+ • Manage QMS documentation.",12,26,01.05.2026,02.10.2026,English,"Good (B1, B2)",And,Spanish,"Good (B1, B2)",,,,USD,470,Monthly,0,IAESTE,250,470,Industrial Engineering / System Engineering,"As a student you will be enrolled at Universidad San Francisco de Quito , therefore your legal status in Ecuador will be as a student doing a cultural exchange program , in order to complete your studies. Despite of the fact that Ecuador allows almost every country to come as a tourist, you must to request an extension of permanence in Ecuador if you stay longer than 90 days. It is mandatory to apply a visa before coming to Ecuador for the following countries: Afganistan, Angola, Bangladesh, Republic of Cameroon, Cuba, Egypt, Eritrea, Etiopia, Gambia, Ghana, Guinera, Haiti, Ivory Coast, India, Irak, Kenia, Libia, Nepal, Nigeria, Pakistán, Philippines, Democratic Republic of the Congo, North Korea, Senegal, Siria, Somalia, Sri Lanka, Venezuela, Vietnam, Yemen.
+ Students must have Health Insurance. Accommodation will be arranged by IAESTE ECUADOR in the case that student will want our help. We will pick you up from the airport and take you to your Guest House.",3,"Having knowledge of the processes and tools a company needs to improve its planning and internal activities, in order to efficiently achieve its strategic objectives.
+ Intermediate level of Spanish.",Industrial Engineering / System Engineering
+EC-2026-EC-019,ON-SITE,13.02.2026,UNIVERSIDAD SAN FRANCISCO DE QUITO,Quito,Ecuador,https://www.usfq.edu.ec/es,"Quito, Ecuador",Education,1000,30,6,,"None in particular, beyond the ability to conduct benchmarking.
+ Marketing / Industrial Engineering or related Engineering fields / Business Administration and similar areas.",Conduct a benchmarking analysis of the degree program to evaluate its positioning compared to similar programs in Ecuador and around the world.,8,10,05.01.2026,29.05.2026,English,"Good (B1, B2)",,,,,,,USD,470,Monthly,0,IAESTE,250,470,Industrial Engineering / System Engineering,"As a student you will be enrolled at Universidad San Francisco de Quito , therefore your legal status in Ecuador will be as a student doing a cultural exchange program , in order to complete your studies. Despite of the fact that Ecuador allows almost every country to come as a tourist, you must to request an extension of permanence in Ecuador if you stay longer than 90 days. It is mandatory to apply a visa before coming to Ecuador for the following countries: Afganistan, Angola, Bangladesh, Republic of Cameroon, Cuba, Egypt, Eritrea, Etiopia, Gambia, Ghana, Guinera, Haiti, Ivory Coast, India, Irak, Kenia, Libia, Nepal, Nigeria, Pakistán, Philippines, Democratic Republic of the Congo, North Korea, Senegal, Siria, Somalia, Sri Lanka, Venezuela, Vietnam, Yemen.
+ Students must have Health Insurance. Accommodation will be arranged by IAESTE ECUADOR in the case that student will want our help. We will pick you up from the airport and take you to your Guest House.",3,"Not being at an early stage of their degree, preferably at an intermediate or advanced level, and having knowledge of how to make comparisons and/or conduct benchmarking.",Industrial Engineering / System Engineering
+GH-2026-035-AC,ON-SITE,15.03.2026,Henos Energy Limited Company,Accra,Ghana,www.henosenergy.com,Accra,Business,50,50,10,General;Information Technology;General,"Excel, human relation skills","The company seeks to empower communities through reliable and safe energy solutions. We commit to providing efficient gas cylinder refilling and distribution services while prioritizing health and safety of customers.
+ 
+ Student will join a team who work in various regions of the country to ensure efficient gas refill and distribution. This is a Computer Science-focused role, and interns are expected to have programming skills to assist in software, app, and system-related tasks. Assignments and departmental responsibilities will be tailored to the student’s academic background and interests, providing exposure to technical problem-solving, operational planning, programming-based solutions, and stakeholder engagement.
+ 
+ Job responsibilities and departmental assignments will be tailored based on student's interest and field of study",8,12,01.06.2026,31.12.2026,English,"Good (B1, B2)",,,,,,,GHC,1000,Monthly,None,IAESTE Ghana,1000,2000,"Computer Science / Informatics, Computer Software/Hardware Engineering","The employer will help arrange for the accommodation. IAESTE Ghana will organize receptions, sightseeing trips and other social programs for the intern.",2,Good human relation skills/knowledge in any programming language,"Computer Science / Informatics, Computer Software/Hardware Engineering"
+GH-2026-043-AC,ON-SITE,15.03.2026,S-Class Services Limited,Accra,Ghana,,Accra,Vehicle inspection services,44,40,8,General;General,,"1. Introduction
+ This internship offers students the opportunity to gain practical experience in automotive safety, vehicle inspection, and maintenance in Accra, Ghana’s bustling capital. Interns will work with a professional team performing essential inspections, ensuring compliance with road safety standards, and supporting repair operations. Accra provides a vibrant cultural and professional environment, combining urban infrastructure with coastal leisure and a welcoming community.
+ 
+ 2. Work Description
+ Interns will support automotive inspection and maintenance teams through tasks including:
+ - Vehicle Inspection (Visual & Automated): Assisting in systematic checks to verify vehicle safety and compliance.
+ - Issuance of Roadworthy Certificates: Supporting the process of certifying vehicles that meet safety standards.
+ - Auto Repairs: Collaborating with technicians and electricians to diagnose and address mechanical or electrical issues.
+ 
+ This role provides hands-on exposure to automotive safety protocols, diagnostic techniques, and practical maintenance workflows, preparing interns for careers in automotive engineering, vehicle safety, or technical inspection.",8,12,01.09.2026,31.12.2026,English,"Good (B1, B2)",,,,,,,GHC,1000,Monthly,None,IAESTE,1000,2000,"Electrical Engineering, Electronics Engineering, Mechanical Engineering","IAESTE Ghana will organize receptions, sightseeing trips and other social programs for the intern.",2,Previous knowledge of student on the work offered is required,"Electrical Engineering, Electronics Engineering, Mechanical Engineering"
+GH-2026-044,ON-SITE,15.03.2026,Kwame Nkrumah University of Science and Technology (KNUST) Department of Food Science and Technology,Kumasi,Ghana,knust.edu.gh,KNUST,University Education,20,40,8,General;Food Technology and Processing;Nutrition & Health,,"The student will partake in an ongoing projects being carried out by the Food Science Department which comprises of field work and a laboratory research. 
+ 
+ The research focuses on:
+ 
+ • Food product development
+ • Food processing
+ • Food analysis
+ • Mycotoxin and toxicological analysis
+ • Chromatography involving High-Performance Liquid Chromatography (HPLC)
+ • Risk and determination of other risk of food.",8,12,01.09.2026,31.12.2026,English,"Good (B1, B2)",,,,,,,GHC,500,Monthly,None,Arranged and paid by IAESTE,0,600,Food Science,"Accommodation will be arranged and paid for by IAESTE Ghana. IAESTE Ghana will organize receptions, sightseeing trips and other social programs for the intern.",2,Previous knowledge of work offered is required,Food Science
+GH-2026-058,ON-SITE,15.03.2026,Medilab Diagnostic Services Limited,Kumasi,Ghana,www.medilabghana.com,Kumasi,Medical Laboratory Services,20,40,8,General,,"1. Introduction
+ This internship offers hands-on experience in a clinical laboratory environment. Interns will gain exposure to a wide range of biological testing techniques while working alongside experienced health professionals. Kumasi provides a dynamic cultural and professional environment, combining academic excellence, modern lab facilities, and vibrant local culture.
+ 
+ 2. Work Description
+ Interns will participate in laboratory processes across multiple specialized areas, including parasitology, bacteriology, microbiology, immunology, molecular biology, haematology, and sonography. Key responsibilities include:
+ - Assisting in the analysis of clinical samples and contributing to testing procedures in specialized areas.
+ - Supporting data recording and documentation of experimental results and laboratory procedures.
+ - Assisting in the maintenance of laboratory equipment and adherence to quality control protocols.
+ - Contributing to ongoing research projects and staying updated on advancements in biological sciences.
+ - Enhancing practical laboratory techniques and technical competencies relevant to each discipline.
+ 
+ This internship provides hands-on exposure to modern clinical laboratory operations and research practices. Opportunity to work in a state-of-the-art laboratory environment in Kumasi.",8,12,01.09.2026,31.12.2026,English,"Good (B1, B2)",,,,,,,GHC,600,Monthly,None,IAESTE Ghana,0,600,"Bioengineering/Biomedical Engineering, Biology, Biomedical Sciences, Microbiology","Accommodation will be arranged and paid for by IAESTE Ghana. IAESTE Ghana will organize receptions, sightseeing trips and other social programs for the intern.",2,Previous knowledge of work offered is required,"Bioengineering/Biomedical Engineering, Biology, Biomedical Sciences, Microbiology"
+GH-2026-062,ON-SITE,15.03.2026,Clinical Analysis Lab - KNUST,Kumasi,Ghana,,KNUST - Kumasi,Laboratoy,20,40,8,General;General,,"The laboratory undertakes wide range of biological tests on clinical samples employing different biological techniques spanning across the following areas;
+ parasitology, bacteriology, microbiology, immunology, molecular- -biology, haematology and sonography. The trainee would therefore assist laboratory
+ scientists to assay human biological substances and also be engaged in performing laboratory tests following established protocols, operate and maintain
+ laboratory equipment, record and analyze test results accurately and also collaborate with healthcare professionals",8,8,01.07.2026,31.12.2026,English,"Good (B1, B2)",,,,,,,GHC,500,Monthly,None,IAESTE Ghana,0,500,"Biology, Food Science, Microbiology","Accommodation will be arranged and paid for by IAESTE Ghana. IAESTE Ghana will organize receptions, sightseeing trips and other social programs for the intern.",2,Previous knowledge on work offered is required,"Biology, Food Science, Microbiology"
+IN-2026-B1127-KU,ON-SITE,15.03.2026,Karunya University,Coimbatore,India,http://www.karunya.edu,Karunya Institute of Technology,University,400,40,8,General,"The intern should have knowledge related to supervised learning, RNNs/CNNs, and basics of transformer architectures. Familiarity with Python (PyTorch/TensorFlow), time-series data processing, and fundamental battery concepts (SOC, SOH, charge/discharge cycles) is preferred.","Physics-Informed Deep Learning for Battery Health and Lifetime Prediction
+ 
+ Overview:
+ This project focuses on developing a physics-informed deep learning framework to predict the Remaining Useful Life (RUL) and State-of-Health (SOH) of lithium-ion batteries in electric vehicles. By combining data-driven sequence models with embedded electrochemical constraints, the framework aims to deliver accurate, robust, and interpretable predictions under real-world conditions such as variable driving patterns, ambient temperatures, and fast-charging events.
+ 
+ Objectives:
+ 1) Curate and preprocess multi-source time-series battery data.
+ 2) Explore feature engineering methods such as incremental capacity analysis.
+ 3) Implement and compare LSTM/GRU, transformer-based, and physics-informed architectures.
+ 4) Design loss functions that balance prediction accuracy with physical plausibility.
+ 
+ Outcomes:
+ 1) A reproducible deep learning framework for RUL and SOH prediction.
+ 2) Benchmarked performance across multiple modeling approaches.
+ 3) Insights into hybrid physics-informed architectures for battery health.
+ 
+ Responsibilities:
+ 1) Build and preprocess datasets for modeling and training.
+ 2) Implement deep learning models in PyTorch/TensorFlow.
+ 3) Evaluate performance under diverse driving and charging scenarios.
+ 4) Document findings in reports, notebooks, and presentation materials.",8,8,15.06.2026,18.09.2026,English,"Excellent (C1, C2)",,,,,,,INR,10000,Monthly,0,IAESTE- LC KARUNYA,5000,8000,Electrical Engineering,"1. The option to work from home is available for this offer. In this case, the available dates for the internship are from May 2026 - September 2026 and there will be no stipend provided.
+ However, if the intern chooses to work at the employer's location, a stipend will be provided based on the dates specified in the 'Work Offered Field'.
+ 2. The intern is required to fill out the attached declaration form to confirm their preferred mode of internship.",3,"Programming, Machine Learning, Electrical Engineering",Electrical Engineering
+IN-2026-B1122-KU,ON-SITE,15.03.2026,Faculty of Information Security and Digital Forensics,Coimbatore,India,www.karunya.edu,Karunya University,Educational,400,40,8,General,"The intern should have basic understanding of machine learning, robotic process automation, and computer network security.","Machine Learning, Robotic Process Automation & Computer Network Security Project
+ 
+ Overview:
+ This multidisciplinary project integrated Machine Learning (ML), Robotic Process Automation (RPA), and Computer Network Security to design, develop, and evaluate intelligent, secure, and efficient digital solutions. The ML segment focused on predictive modeling using supervised, unsupervised, and reinforcement learning with algorithms such as Decision Trees, Random Forests, and Neural Networks. RPA leveraged tools like UiPath and Automation Anywhere to automate repetitive tasks with cognitive features enabled by ML models. The security component implemented firewalls, intrusion detection systems, encryption, and vulnerability assessments to mitigate threats like malware, denial-of-service, and ransomware. Industry-standard tools, including Python, TensorFlow, and Kali Linux, were used extensively.
+ 
+ Objectives:
+ 1) Develop predictive ML models with robust evaluation.
+ 2) Design automated RPA workflows integrated with ML.
+ 3) Implement and test network security protocols.
+ 
+ Outcomes:
+ 1) Improved operational efficiency and reduced manual effort.
+ 2) Enhanced decision-making through ML-powered insights.
+ 3) Strengthened systems against cyberattacks.
+ 
+ Intern’s Responsibilities:
+ 1) Build, train, and evaluate ML models.
+ 2) Create, test, and optimize RPA workflows.
+ 3) Configure security tools, conduct VAPT, and document findings.",10,10,07.09.2026,04.12.2026,English,"Excellent (C1, C2)",,,,,,,INR,10000,Monthly,0,IAESTE- LC KARUNYA,5000,8000,Computer Science / Informatics,"This offer is from the Department of Digital Sciences, and the intern's field of research would be Machine Learning, Robotic Process Automation, and Computer Network Security.",3,"Python, Network security, Robotics",Computer Science / Informatics
+IN-2026-C1418-MU,ON-SITE,31.12.2025,Manipal Institute of Technology,Manipal,India,http://www.manipal.edu,Manipal,Education,500,40,8,General;General;Artificial Intelligence,"Specialization: Machine learning
+ Study Level: Graduate","Project Title: Machine Learning Approaches for Accurate Land Use and Land Cover Classification from Remote Sensing Data.
+ 
+ Land Use and Land Cover (LULC) mapping plays a vital role in urban planning, agriculture monitoring, deforestation studies, and climate change research. Traditionally, LULC classification relies on manual interpretation or conventional statistical techniques, which are often time-consuming and less accurate in handling large-scale remote sensing datasets.
+ Machine Learning (ML) provides efficient and automated approaches to analyze satellite images (e.g., Sentinel-2, Landsat-8) for precise classification of land categories such as agriculture, water bodies, forests, and built-up areas. This project aims to apply ML techniques to classify LULC from remote sensing imagery, evaluate their accuracy, and recommend the best-performing models."" ""Preprocessed satellite dataset for ROI.
+ 
+ Trained ML models for LULC classification.
+ LULC thematic maps showing classified categories.
+ Accuracy analysis report comparing multiple ML models.
+ Workflow documentation for scalable LULC monitoring projects.
+ 
+ This project proposes the use of machine learning for efficient LULC classification, enabling accurate and scalable mapping of land categories from satellite data. The workflow developed can support applications in agriculture, urban planning, and environmental monitoring. The project is achievable within a 6–8 week internship and will provide hands-on exposure to both remote sensing and machine learning techniques.",6,8,01.06.2026,30.11.2026,English,"Excellent (C1, C2)",,,,,,,INR,9000,Monthly,15%,IAESTE India LC Manipal,0,4500,"Computer Science / Informatics, Mechanical Engineering",,3,"Python (Scikit-learn, TensorFlow, PyTorch)","Computer Science / Informatics, Mechanical Engineering"
+IN-2026-C1456-MU,HYBRID,31.12.2025,Manipal Institute of Technology,Manipal,India,http://www.manipal.edu,Manipal,Education,500,40,8,,"Specialization: Computer Science
+ Study Level: Graduate","Project Title:Medical Diagnosis Agent using Vision Transformer and GPT-based Deep Learning Models for Radiology Workflows
+ 
+ This project focuses on building an intelligent agent that assists radiologists by analyzing medical images (e.g., X-rays, CT scans, MRIs) using Vision Transformer (ViT) deep learning models and generating natural language diagnostic summaries using a GPT-based language model.",12,16,01.09.2026,31.12.2026,English,"Excellent (C1, C2)",,,,,,,INR,9000,Monthly,15%,IAESTE India LC Manipal,0,4500,Computer Science / Informatics,"The option of Work from Home is available for this offer. In the case where the intern chooses to work from home, there will be no stipend provided. However, in the case where the intern opts to intern at the employer's address, a stipend will be provided for the period of internship.",1,Basic Python programming,Computer Science / Informatics
+IN-2026-D1120-MJ,ON-SITE,15.03.2026,Manipal University Jaipur,Jaipur,India,Jaipur.manipal.edu,Jaipur,Education,450,40,8,General,No,"Computer Science Intern
+ Title of the Project: Customization and Flexibility of RPA Solutions
+ 
+ This project focuses on developing flexible and customizable Robotic Process Automation (RPA) frameworks to address the limitations of off-the-shelf RPA solutions, which may not fully meet the unique needs of organizations. The goal is to create adaptable automation tools that can be tailored to diverse business processes, enhancing efficiency and reducing manual intervention.
+ 
+ The intern will work on designing, implementing, and testing RPA workflows, integrating customization features such as dynamic input handling, modular task execution, and process-specific adaptations. The project combines software development, process analysis, and automation strategy to deliver scalable and robust RPA frameworks.
+ 
+ Expected Outcomes:
+ 
+ Practical experience in RPA development and customization.
+ 
+ A flexible RPA framework that can be adapted to multiple organizational processes.
+ 
+ Documentation and presentation of results demonstrating improved automation efficiency and flexibility.",6,10,06.05.2026,27.09.2026,English,"Excellent (C1, C2)",,,,,,,INR,16000,Monthly,0%,IAESTE,8500,16000,Computer Science / Informatics,,1,"Robotics,Software Development Frameworks",Computer Science / Informatics
+IN-2026-D1122-MJ,ON-SITE,15.03.2026,Manipal University Jaipur,Jaipur,India,Jaipur.manipal.edu,Jaipur,Education,450,40,8,General,Python or R,"Computer Applications Intern
+ Title of the Project: Medical Data Analysis
+ 
+ This project focuses on modeling sequential clinical events to analyze the progression of patient data, including lab tests, medications, and interventions. By examining temporal relationships between events, it aims to uncover hidden pathways of disease evolution, such as progression from mild infection to sepsis and organ failure.
+ 
+ Hands-on work involves implementing techniques like recurrent neural networks, temporal point processes, and transformer-based models to capture complex dependencies in clinical data. These models provide predictive insights that enable timely interventions, personalized treatment strategies, and improved understanding of disease mechanisms in critical care.
+ 
+ The project integrates computational modeling with clinical research, offering practical experience in data analysis, machine learning, and healthcare applications.
+ 
+ Expected Outcomes:
+ 
+ Research publication detailing methodology and findings.
+ 
+ Practical exposure to sequential data modeling and advanced ML techniques.
+ 
+ Presentation of results highlighting the impact of predictive analytics on patient care.",6,10,06.05.2026,27.09.2026,English,"Excellent (C1, C2)",,,,,,,INR,16000,Monthly,0%,IAESTE,8500,16000,Computer Science / Informatics,,1,"Data Analysis,
+ Machine Learning,Python",Computer Science / Informatics
+IN-2026-D4004-MJ,ON-SITE,15.03.2026,Manipal University Jaipur,Jaipur,India,Jaipur.manipal.edu,Jaipur,Education,450,40,8,General;Chemoinformatics,Chemistry Lab knowledge,"Materials Science Intern
+ Project Title: Development of Polymeric and Metallic Composite-Based Electrodeposited Coating and Its Characterization
+ 
+ Project Overview:
+ This project focuses on developing polymer-reinforced metallic coatings using electrodeposition and electrophoretic deposition techniques to prevent corrosion, which occurs when metals react with oxygen and water, forming oxides that degrade structural integrity. Such degradation can lead to structural failure and economic losses. The coatings will be designed for applications in aeronautical, automotive, marine, electrical, and mechanical industries, providing durable and protective surfaces. The project will evaluate coating performance using methods like electrochemical impedance spectroscopy, potentiodynamic polarization, hardness testing, tribology analysis, adhesion studies, and surface imaging. By combining metallic and polymeric components, the study aims to enhance corrosion resistance, mechanical strength, and surface durability, contributing to the development of long-lasting and cost-effective protective coatings for industrial applications.
+ 
+ Expected Outcome:
+ • Fabrication of polymer-metal composite coatings through electrodeposition and EPD.
+ • Performance evaluation using electrochemical and mechanical tests.
+ • Analytical report detailing coating characteristics and effectiveness.
+ • Presentation summarizing results, surface analyses, and industrial applicability.",10,10,07.05.2026,28.09.2026,English,"Excellent (C1, C2)",,,,,,,INR,16000,Monthly,0%,IAESTE,8500,16000,Chemistry and Chemical Engineering,,1,"Handling Electrochemical Instrument, Polymer Synthesis, Good experimental hand, Teamwork.",Chemistry and Chemical Engineering
+JO-2026-101-AJI,ON-SITE,15.03.2026,AJI Group,"Amman, Jordan",Jordan,https://ajigroup.com/intl-en,"Al-Rawabi, Amman, Jordan",Engineering Firm,215,45,9,,The applicant must submit a portfolio along with their application.,"Company Description:
+ AJi is a regional leader in architecture and engineering building on 60 years of a deep legacy of forward-looking projects in the MENA region. AJi has delivered over 2000 projects in urban design, healthcare, utilities and sustainable development. AJi ranked amongst ENR’s top 225 international design firms through combining a multidisciplinary approach to all projects with a focus on sustainability and excellence. 
+ 
+ Work description
+ The intern will be work on: 
+ 1. Designing and developing architectural concepts
+ 2. Designing and developing drawings and presentations
+ 3. Preparing design documentation
+ 4. Collaborating with a multi-disciplinary team on projects.",4,8,01.06.2026,01.09.2026,English,"Good (B1, B2)",,,,,,,JOD,250,Monthly,0,IAESTE Jordan,0,180,Architecture,"Accommodation
+ IAESTE Jordan will cover the cost of accommodation for the entire duration of the internship, including accommodation two days before the start date and two days after the end date.
+ 
+ VISA 
+ Any information/requirements regarding the VISA will be communicated upon acceptance, and IAESTE JO will work to handle the majority of the process.",4,"Proficiency in new design concepts
+ Knowledge of BIM and the tools is a plus.",Architecture
+JO-2026-201-HCE,ON-SITE,15.03.2026,Hedra Consultant Engineering,Amman,Jordan,,Amman,Structural Consultants,4,40,8,,,"The internship starts by learning the design principles from the conceptual stage to concept development, 3D renders and presentation, study the engineering systems (structural & electromechanical) related to the project till reaching the construction drawings and details. The internship will depend on the available projects at the time of internship.",8,8,01.06.2026,31.08.2026,English,"Good (B1, B2)",And,Arabic,"Good (B1, B2)",,,,JOD,200,Monthly,0,IAESTE,0,180,Civil Engineering,"Accommodation
+ IAESTE Jordan will cover the cost of accommodation for the entire duration of the internship, including accommodation two days before the start date and two days after the end date.
+ 
+ VISA 
+ Any information/requirements regarding the VISA will be communicated upon acceptance, and IAESTE JO will work to handle the majority of the process.",4,"The intern should have the knowledge to design principles. Possess knowledge of the methods of drawing three-dimensional models in AutoCAD or other ordinary programs. Toward the end of the internship, the intern will be expected to know the structural basic design. If the workshop conditions allow, the intern should be able to contribute personally in building structural models",Civil Engineering
+JO-2026-301-MGE,ON-SITE,15.03.2026,Magic Energy,Amman,Jordan,https://www.magic-energy.net/en,Wasfi Al-Tal St.,Engineering Firm,20,42,8,,,"Company Description: 
+ Magic Energy for Engineering & Electrical Systems is a Jordan-based company specializing in renewable-energy solutions, with a focus on solar photovoltaic (PV) system design, installation, and maintenance. They work across multiple regions in Jordan and handle projects ranging from residential setups to commercial and industrial systems. Their work includes solar energy, battery storage, and related electrical solutions, aiming to deliver reliable and efficient energy systems tailored to client needs.
+ 
+ Work Description:
+ The intern will contribute to project stages including preparing proposals, assisting with design work, and installation.",8,8,01.06.2026,31.08.2026,Arabic,"Excellent (C1, C2)",And,English,"Good (B1, B2)",,,,JOD,200,Monthly,0,IAESTE Jordan,0,180,Mechanical Engineering,"Accommodation
+ IAESTE Jordan will cover the cost of accommodation for the entire duration of the internship, including accommodation two days before the start date and two days after the end date.
+ 
+ VISA 
+ Any information/requirements regarding the VISA will be communicated upon acceptance, and IAESTE JO will work to handle the majority of the process.",4,A bachelor's Degree,Mechanical Engineering
+KE-2026-12C-DK,ON-SITE,15.03.2026,DEDAN KIMATHI UNIVERSITY OF TECHNOLOGY,NYERI,Kenya,www.dkut.ac.ke,Main Campus,Education,500,40,8,Language Education/Linguistics,,"The hospitality industry is inherently multicultural and global, making language learning an essential aspect of it. The Institute of Tourism and Hospitality Management of DeKUT is offering German Language classes to students.
+ 
+ The tasks of the intern will include:
+ -Teaching German
+ -Assist in the design of the curriculum
+ -Prepare course outlines
+ -Prepare lesson plans
+ -Engage students with activities that will make them proficient in the German language.
+ -Engage students in intercultural activities promoting intercultural learning.
+ -Undertake assessments for the students.
+ -Submit class attendance sheets, and file weekly reports with the Director of the Institute.",12,12,01.05.2026,30.11.2026,German,"Excellent (C1, C2)",And,English,"Good (B1, B2)",,,,KES,15000,Monthly,NONE,Student with support from IAESTE DeKUT LC,5000,15000,Education,"Laptops/computers not provided
+ Kindly apply to start at the beginning of the month",2,"Good communication skills and interpersonal skills
+ Lesson planning.",Education
+KE-2026-FS-01JK,ON-SITE,15.03.2026,JOMO KENYATTA UNIVERSITY OF AGRICULTURE & TECHNOLOGY,NAIROBI,Kenya,www.jkuat.ac.ke/,Main campus,PRODUCTS,800,40,8,,,"The University is looking for a motivated student to take part in yoghurt production. The student will be working in the Nissin Food Company located inside the university. The student will also be involved in the manufacturing processes of yoghurt. The student will work closely with other food production staff including micro biologists, engineers, packaging specialists and buyers.",8,8,01.05.2026,30.11.2026,English,"Good (B1, B2)",,,,,,,KES,10000,Monthly,None,IAESTE JKUAT LC,3000,10000,Food Science,Laptops/computers not provided,3,"Testing food samples for particular types of molds, yeast and bacteria that maybe harmful, monitoring food safety protocols ,testing food storage options and making recommendations on improvement, good communication skills, good IT, analytical and numerical abilities",Food Science
+LB-2026-L001-B,ON-SITE,15.03.2026,INDEVCO SAL,Aajaltoun,Lebanon,https://www.indevcogroup.com/,TBA,Manufacturing,10000,40,8,,,"1- Assembly training on field
+ • Identification of each component and its accessories
+ • Understanding the functionality of each component
+ • Understanding the wiring method of each component
+ • Understanding cabinet’s structure and assembly method
+ • Hands on assembly training 
+ 
+ 2- Introduction to design tools
+ • Cad tools 
+ o Autocad, Solid works
+ o Eplan
+ • Programming tools 
+ o Siemens WinCC Flexible
+ o Siemens Simatic Step 7
+ o Siemens Drive Monitor
+ o Programming exercises
+ § Sequential programming
+ § Latching functions
+ § Single push button turns on lamp after 1st push then turns off lamp after 2nd push
+ • Selection tools 
+ o Siemens CA01 Catalog
+ o Siemens Sizer
+ o Overview on al catalogs used in designs 
+ 
+ 3- Brief introduction to the design concept 
+ The trainee is to design a sample project in the same design steps followed by an electrical design engineer in a machine design process:
+ a- Product Concept & General Electrical Layout
+ b- Definition and Sizing of Actuators and Sensors
+ c- Definition and Sizing of Machining and Automation Components
+ d- Preparation of Electrical Lay-Out Drawings
+ e- Preparation of Preliminary Wiring Diagrams
+ f- BOM preparation
+ g- Design and Development of machining and Automation Software Programs
+ h- Design and Development of Drive Parameterization
+ i- Preparation of operation instruction manual.
+ 
+ 4- Hands on automation and motion control products 
+ a- S7-300 / S7-400
+ b- Profibus network
+ c- Remote IO
+ d- Operator panel
+ e- Micromaster
+ f- Masterdrive Vector control
+ g- Implementation of program with hands on training on Lab kit
+ 
+ 5- Typical project 
+ a- Wiring diagrams and BOM
+ b- WinCC design
+ c- Programming PLC
+ d- PLC and Screen simulation
+ e- Micromaster AC Drives
+ f- MasterDrive vector control
+ g- Commissioning
+ 
+ 6- Report and presentation preparation
+ a. A presentation will be required weekly
+ b. A final report is required by the end of the training phase
+  
+ Objectives:
+ At the end of this training the trainee should have acquired the basics of:
+ • Mechanical and Electrical components (bearings, belts, PLC, Drives, protection elements, etc…)
+ • Design tools and supporting documents
+ • General Design process
+ • Hands on Automation",6,8,01.06.2026,31.07.2026,English,"Excellent (C1, C2)",,,,,,,USD,300,Monthly,7.5,IAESTE Lebanon,0,300,"Computer Software/Hardware Engineering, Electrical Engineering, Mechanical Engineering","For accommodation, the dorms will be in Byblos",4,Student studying towards an engineering or graphic design degree,"Computer Software/Hardware Engineering, Electrical Engineering, Mechanical Engineering"
+PL-2026-PLO008,ON-SITE,20.12.2025,"Institute of Material Science, Dept. of Numerical Methods in Materials Science - TUL",Lodz,Poland,www.iim.p.lodz.pl,Lodz,research institute,75,35,7,,,"The internship takes place in the Division of Numerical Methods in Material Science and Engineering lab. The main area of the division's activity concerns the use of Numerical Methods in Materials Science, FEM modeling, Computer-Aided Materials Engineering and Design, Lattice Structures, 3D printing (FDM, SLA) technology.
+ Depending on the specialisation and the interest of the candidate, the intern will become a member of one of the research teams working on the following topics:
+ - numerical models manufactured additively, with different core infill type of the samples,
+ - numerical analysis of stress and strains,
+ - 3D printing in FDM and SLA technology,
+ - manufacture and properties of lightweight composite with mineral filling,
+ - improve the mechanical properties of 3D printing polymer materials,
+ - use 3D printing (FDM and SLA) technologies to produce biomedical components, challenges at the intersection of engineering and medicine.
+ Other activities from the department's research area will be added based on the student's skills and interests.",6,6,01.07.2026,18.08.2026,English,"Good (B1, B2)",,,,,,,PLN,1000,Monthly,0%,IAESTE,0,80000,"Bioengineering/Biomedical Engineering, Material Engineering and Sciences, Mechanical Engineering",,3,-,"Bioengineering/Biomedical Engineering, Material Engineering and Sciences, Mechanical Engineering"
+RO-2026-ARH-23,ON-SITE,31.03.2026,S.C. STUDIO 10 M. S.R.L.,BUCHAREST,Romania,,Bucharest,ARCHITECTURE,10,40,8,General,,"Architectural, Urbanistic and Design Studies, CAD drawing,",8,11,01.04.2025,19.12.2026,English,"Excellent (C1, C2)",,,,,,,RON,1750,Monthly,0,IAESTE,650,1500,Architecture,,4,"AutoCad and Photoshop , Portfolio",Architecture
+RO-2026-ARH-28,ON-SITE,15.03.2026,Adest Architecture,Bucharest,Romania,http://,Bucharest,Architectural Design Company,0-10,40,8,,,"Architectural, Urbanistic and Design Studies, CAD drawing,",6,8,01.03.2026,31.07.2026,English,"Excellent (C1, C2)",,,,,,,RON,1750,Monthly,0,IAESTE,650,1500,Architecture,,4,"REvit , AutoCad , Portfolio",Architecture
+SI-2026-1003,ON-SITE,01.02.2026,Inštitut Jožef Stefan,Ljubljana,Slovenia,https://www.ijs.si/ijsw,Ljubljana,research,1300,40,8,,"Only applicants with EU, EEA, or Swiss citizenship are eligible.","The candidate will work with semiconductor particle detectors for tracking and timing applications in the ATLAS experiment at CERN. The tasks will include laboratory measurements and analysis of collected data.
+ 
+ The candidate will perform electrical tests of the samples and study charge collection with a laser setup. Data analysis will mostly be carried out with C++ (CERN ROOT framework), and using basic Python and Git tools will also be included.
+ 
+ The work will be done at the Experimental Particle Physics department at JSI.",8,12,01.06.2026,28.08.2026,English,"Excellent (C1, C2)",,,,,,,EUR,700,Monthly,none,Student in cooperation with IAESTE,250,600,Physics and Physical Sciences,,2,Python or C++,Physics and Physical Sciences
+SI-2026-1004,ON-SITE,15.03.2026,Protim Ržišnik Perc d.o.o.,,Slovenia,http://www.protim.si/home,Šenčur,consulting and design of architects and engineers,117,40,8,,"Only applicants with EU, EEA, or Swiss citizenship are eligible.","Inclusion in a working group in the project office. Participating in various architectural projects for different buildings and infrastructures.
+ 
+ Requires knowledge, skills and experience:
+ - excellent technical skills
+ - excellent computer skills: advanced knowledge of AutoCAD, Sketchup, Revit, Photoshop
+ - good communication skills
+ - team work ability
+ - desirable design work",4,12,01.09.2026,31.12.2026,English,"Excellent (C1, C2)",,,,,,,EUR,700,Monthly,none,Student in cooperation with IAESTE,300,600,Architecture,,3,/,Architecture
+TH-2026-U01-13,ON-SITE,15.03.2026,King Mongkut's University of Technology North Bangkok (Rayong Campus),Rayong,Thailand,,Rayong,University,100,40,8,,"***- The student, who is familiar with field-related simulation software, is needed. The student with responsibility, who can complete the internship until the end period, is needed.","- The trainees will be supervised by the faculty instructors who are specialized in related fields of work. The training topics are based on the trainee's background of knowledge and internal in the topics of mechanical and automotive engineering: machine design and simulation, machine testing, chassis and steering design and simulation, and EV issue.
+ 
+ 
+ (fields of study needed: Mechanical and Automotive Engineering)",12,12,01.05.2026,30.11.2026,English,"Good (B1, B2)",,,,,,,THB,10000,Monthly,0,Faculty,4000,6000,Mechanical Engineering,"**-Visa application – You are required to apply for a visa at your nearest Thai Embassy or Consulate. It is very important to apply as soon as you get you acceptance papers from IAESTE THAILAND the application procedure sometimes takes 8-12 weeks. The type of visa that you must get is Non-immigrant-“ED” only. If you wish to travel to the countries nearby Thailand, make sure that you have the multi-entries visa. We need to be informed about your visa extension at least 2 weeks before its expiration date.
+ 
+ Remarks :
+ **-In the past, bringing a significant other person while attending the internship has proven to be unsuccessful. Conflicts in schedules and distractions have in some cases led to a less than productive experience for both the intern and the employer. It is therefore requested that a trainee arrive unaccompanied to get maximum benefit from the time spent in his/her internship.",4,See work offered.,Mechanical Engineering
+TJ-2026-0202,ON-SITE,15.03.2026,"""Saikhun"" Ltd",Khujand,Tajikistan,http://saikhun.tj/,Khujand,Liqueur-alcohol products,60,40,8,General,,"The student will be assisting in scheduled maintaining, monitoring and testing of the company's electrical equipment.
+ The detailed work-plan will be sent upon receipt of nomination documents.",6,9,01.07.2026,30.09.2026,English,"Good (B1, B2)",Or,Russian,"Good (B1, B2)",Or,Persian,"Good (B1, B2)",TJS,1500,Monthly,0,IAESTE,0,600,Electrical Engineering,,3,-,Electrical Engineering
+TJ-2026-1003,ON-SITE,15.03.2026,"JSC ""Babilon-Mobile""",Dushanbe,Tajikistan,http://www.babilon-m.tj,Dushanbe,GSM/2G/3G/LTE mobile network operator,160,40,8,General;Information Technology,,"The company is interested in a motivated and enthusiastic student, who will be engaged in the following duties: 
+ - Learning and implementing the main working principles, structural functions and NSS/BSS/BTS subsystems of the GSM/WCDMA networks;
+ - Testing of the GSM/WCDMA networks;
+ - Monitoring, planning and testing of the GSM radio network settings;
+ - Performing statistical data analysis of BSS subsystem;
+ 
+ The detailed work-plan will be sent upon receipt of nomination documents.",6,8,01.05.2026,30.09.2026,English,"Good (B1, B2)",Or,Russian,"Good (B1, B2)",,,,TJS,1000,Monthly,0,IAESTE,0,600,"Computer Science / Informatics, Computer Software/Hardware Engineering, Telecommunications",,3,-,"Computer Science / Informatics, Computer Software/Hardware Engineering, Telecommunications"
+VN-2026-TTAS-07,ON-SITE,15.03.2026,TT-AS Architecture - Construction Joint Stock Company - Website: http://tt-as.vn/ Hanoi,Hanoi,Vietnam,http://tt-as.vn/,Hanoi,Architectural Design,45,44,8,"General;City/Urban, Community and Regional Planning","- Willing to take part in extra-curricular activities
+ - Porfolio","- T-As Architecture and Construction JSC (https://tt-as.vn/company/) was originated from RACBT (Research and Application Centre of Building Technique – University of Civil Engineering). With over 20 years of experience and more than 100 projects done, TT-Associates is proud to be among the ones who shape the landscape of the future. Designing this world is a truly meaningful thing to do. Now we refresh our brand by combining the TT-Associates and TTA-Partners logos together. 
+ - The company is one of the best companies in Architecture in Vietnam. Students will have a great time to experience in terms of Architecture Field in reality.
+ --------------------------------------------------------------------------------------------------------
+ - Participate in practical designing works with other staff in the company
+ - Develop creativity and expand ideas about planning projects, deploy drawings of urban planning.
+ - Support architects and interior designers: Build 3D perspective, deploy 2D technical documents as a customer design requirement. 
+ - Arranging layout images and drawings of projects to present to customers, and investors.
+ - Deploy designs as a division of leaders
+ - Support senior leaders in operating and managing design work in each project. 
+ - Deploy construction drawing.
+ - Perspective drawing – build ideas
+ - Working time: Monday - Friday: 8 hours/ day, Saturday: 4 hours in the morning
+ ------------------------------------------------------------------------------------------------
+ Prizes of TTAS:
+ - National Architecture Gold Award 2024 – 2025 for Grand Mercure 5 star hotel project
+ - TOP TEN Vietnam Architecture Firms voted by BCI.
+ - National Architecture Award for Hanoi Stock Exchange project
+ - 100 Architects of the Year – UIA 2017
+ - Awarded Housing design for N04 Complex building- UDIC complex
+ - Awarded the Designer Selection for “ Sofitel Legend Metropole hotel renovation 2015” project.
+ - Awarded the first prize in design contests for Vietnam News Agency television center ( VNEWS) – 33 Le Thanh Tong str- Hanoi
+ & a lot more here: https://tt-as.vn/award/",12,12,01.02.2026,30.06.2026,English,"Excellent (C1, C2)",,,,,,,VND,5000000,Monthly,0/ Depending,Employer,5000000,7000000,Architecture,"Hanoi is the capital city of Vietnam, and it is expensive to rent a room here. The company can only support an amount of stipend that isn't sufficient for the interns to pay for the accommodation and the fee of electricity; therefore, students need to bring about 250 USD to cover their living expenses.",3,"- Being friendly/ sociable/ adaptive/ creative and serious at work
+ - Having a laptop",Architecture
