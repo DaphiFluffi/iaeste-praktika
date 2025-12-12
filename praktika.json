@@ -265,6 +265,60 @@
     "requiredknowledgeandexperiences": "Embedded Systems and Machine Vision"
   },
   {
+    "id": "CO-2026-UV-02",
+    "offer-type": "ON-SITE",
+    "employer": "Universidad del Valle",
+    "workplace": "Caicedonia - Valle del Cauca",
+    "business": "Education & Research",
+    "employees": "100",
+    "hoursweekly": 40,
+    "hoursdaily": 8,
+    "website": "https://www.univalle.edu.co/",
+    "country": "Colombia",
+    "city": "Cali",
+    "from": "03.08.2026",
+    "to": "15.12.2026",
+    "weeksmin": 12,
+    "weeksmax": 16,
+    "deadline": "15.03.2026",
+    "field1": "",
+    "field2": "Agriculture, Biotechnology, Chemistry and Chemical Engineering, Food Science",
+    "field": "Agriculture, Biotechnology, Chemistry and Chemical Engineering, Food Science",
+    "completedyearsofstudy": 25,
+    "languages": [
+      {
+        "language": "Spanish",
+        "level": "Good (B1, B2)",
+        "andor": "Or"
+      },
+      {
+        "language": "English",
+        "level": "Good (B1, B2)",
+        "andor": ""
+      }
+    ],
+    "payment": [
+      {
+        "payment": 2300000,
+        "currency": "COP",
+        "period": "Monthly",
+        "deduction": "7%"
+      }
+    ],
+    "lodging": [
+      {
+        "lodging": "Employer and trainee",
+        "lodgingcost": 600000,
+        "livingcost": 1500000,
+        "currency": "COP"
+      }
+    ],
+    "description": "The Research Group in Innovation and Development of Specialty Coffee, aims to conduct research across two lines: the transformation of specialty coffees and the governance and sustainability of the coffee ecosystem. We are seeking students in Chemical Engineering, Food Engineering, Biotechnology, Agricultural Engineering, and Agro-Industrial Engineering, who are interested in understanding how post-harvest processes affect coffee quality. Specialty Coffee refers to coffee that is graded 80 points or higher, on a 100 point scale, which has been certified by a licensed Specialty Coffee Association (SCA) Q Grader (CQI). At the RoastLab, Univalle https://sigelab.net/laboratorio/ElKStj7fl51OmQ6bvi5o , physical and chemical tests are conducted on Arabica coffee beans grown in the Colombian Coffee Cultural Landscape area. The purpose is to identify the potential for specialty coffee that can be valued by coffee consumers worldwide. These results are then transferred to producers to help standardize the processes that enable them to obtain better coffee and become more competitive in global markets.\n The student will develop the following tasks: Physical characterization of green (fresh), dried, and roasted coffee beans. Chemical characterization of green, dried, and roasted coffee beans. Experimentation in the lab and on the farm (in the field, at the productive unit, to obtain a specialty coffee). Participation in the results transfer processes with producers and the academic community. Support in the analysis of relocation agendas and the production agenda for the region (Valle del Cauca) with sustainable development criteria. ​​Participation in academic meetings, seminars, and research debates.",
+    "other_requirements": "",
+    "additional_Info": "Americas and Europe students don´t need to issue a visa if their stay is shorter than 180 days.",
+    "requiredknowledgeandexperiences": "Data Analytics, Analysis Reporting, is a plus if has intrest in Coffee studies."
+  },
+  {
     "id": "CH-2026-000006",
     "offer-type": "ON-SITE",
     "employer": "Burckhardt Architektur AG",
@@ -317,6 +371,60 @@
     "other_requirements": "Nomination documents + portfolio should NOT EXCEED 12 MB TOGETHER.",
     "additional_Info": "Any student with Non-EU/EFTA nationality needs an official letter from their university, confirming that the internship is compulsory (required for visa/work permit).",
     "requiredknowledgeandexperiences": "Not yet finished Master, and first practical experience in architecture office.\n Knowledge in AutoCAD; Revit and BIM/VDC experience is an advantage."
+  },
+  {
+    "id": "CZ-2026-020002",
+    "offer-type": "ON-SITE",
+    "employer": "Procter & Gamble - Rakona, s.r.o.",
+    "workplace": "Rakovník",
+    "business": "business",
+    "employees": "400",
+    "hoursweekly": 40,
+    "hoursdaily": 8,
+    "website": "procter-gamble.cz",
+    "country": "Czech Republic",
+    "city": "Rakovnik",
+    "from": "02.02.2026",
+    "to": "02.10.2026",
+    "weeksmin": 12,
+    "weeksmax": 12,
+    "deadline": "15.03.2026",
+    "field1": "General;Computer and Information Research;Database Architecture",
+    "field2": "Computer Science / Informatics",
+    "field": "Computer Science / Informatics",
+    "completedyearsofstudy": 2,
+    "languages": [
+      {
+        "language": "English",
+        "level": "Good (B1, B2)",
+        "andor": "Or"
+      },
+      {
+        "language": "Czech",
+        "level": "Good (B1, B2)",
+        "andor": ""
+      }
+    ],
+    "payment": [
+      {
+        "payment": 30000,
+        "currency": "CZK",
+        "period": "Monthly",
+        "deduction": "0"
+      }
+    ],
+    "lodging": [
+      {
+        "lodging": "Employer",
+        "lodgingcost": 0,
+        "livingcost": 8000,
+        "currency": "CZK"
+      }
+    ],
+    "description": "The project is executed in the FMCG manufacturing facility. Project scope is to understand to current digitalization level of manufacturing and work through IOT platform on increasing productivity process flows. The objective is to develop most recent digital solution which will be reimplemented in the other P&G factories all over the globe. The cost accommodation will be covered by company.",
+    "other_requirements": "Online interview and online testing of students skills will be required. Only students who dont need VISA for Europe can apply\n Due to the Turkey GDPR legislation Turkish students are excluded from this request, no data from Turkish citizens will be shared with P&G.",
+    "additional_Info": "Please follow the instructions for preparing the nomination documents and the visa process in the attached document. This document ia only for you and your student, please don't include it in your student's nomination.\n IAESTE provides accommodation in the student dormitory, where interns are housed in shared double rooms with same-sex roommates. If an intern prefers a single room, they are responsible for arranging alternative accommodation independently.",
+    "requiredknowledgeandexperiences": "MVC architecture (model view controller), OOP (object oriented programming), Computer Programming, Data entry, Database administration"
   },
   {
     "id": "EC-2026-EC-004",
@@ -469,6 +577,109 @@
     "other_requirements": "None in particular, beyond the ability to conduct benchmarking.\n Marketing / Industrial Engineering or related Engineering fields / Business Administration and similar areas.",
     "additional_Info": "As a student you will be enrolled at Universidad San Francisco de Quito , therefore your legal status in Ecuador will be as a student doing a cultural exchange program , in order to complete your studies. Despite of the fact that Ecuador allows almost every country to come as a tourist, you must to request an extension of permanence in Ecuador if you stay longer than 90 days. It is mandatory to apply a visa before coming to Ecuador for the following countries: Afganistan, Angola, Bangladesh, Republic of Cameroon, Cuba, Egypt, Eritrea, Etiopia, Gambia, Ghana, Guinera, Haiti, Ivory Coast, India, Irak, Kenia, Libia, Nepal, Nigeria, Pakistán, Philippines, Democratic Republic of the Congo, North Korea, Senegal, Siria, Somalia, Sri Lanka, Venezuela, Vietnam, Yemen.\n Students must have Health Insurance. Accommodation will be arranged by IAESTE ECUADOR in the case that student will want our help. We will pick you up from the airport and take you to your Guest House.",
     "requiredknowledgeandexperiences": "Not being at an early stage of their degree, preferably at an intermediate or advanced level, and having knowledge of how to make comparisons and/or conduct benchmarking."
+  },
+  {
+    "id": "EC-2026-EC-010",
+    "offer-type": "ON-SITE",
+    "employer": "UNIVERSIDAD SAN FRANCISCO DE QUITO",
+    "workplace": "Quito, Ecuador",
+    "business": "Education",
+    "employees": "1000",
+    "hoursweekly": 30,
+    "hoursdaily": 6,
+    "website": "https://www.usfq.edu.ec/es",
+    "country": "Ecuador",
+    "city": "Quito",
+    "from": "01.05.2026",
+    "to": "28.08.2026",
+    "weeksmin": 10,
+    "weeksmax": 12,
+    "deadline": "13.02.2026",
+    "field1": "General",
+    "field2": "Biotechnology, Chemistry and Chemical Engineering, Environmental Engineering/Sciences",
+    "field": "Biotechnology, Chemistry and Chemical Engineering, Environmental Engineering/Sciences",
+    "completedyearsofstudy": 3,
+    "languages": [
+      {
+        "language": "English",
+        "level": "Good (B1, B2)",
+        "andor": ""
+      }
+    ],
+    "payment": [
+      {
+        "payment": 470,
+        "currency": "USD",
+        "period": "Monthly",
+        "deduction": "0"
+      }
+    ],
+    "lodging": [
+      {
+        "lodging": "IAESTE",
+        "lodgingcost": 250,
+        "livingcost": 470,
+        "currency": "USD"
+      }
+    ],
+    "description": "The intern will assist in collecting and analyzing water and sediment samples based on physical-parameters. The student will also participate in laboratory experiments to characterize microbial communities using microbiological and molecular techniques. Additional responsibilities include documenting experimental procedures, managing data, and contributing to the interpretation of results. The intern will also support for preparing reports or presentations to communicate findings to the research team, and to attend weekly lab meetings.",
+    "other_requirements": "Candidates should have a basic understanding of bioprocesses, microbiology, environmental sciences, or related fields. Strong analytical and problem-solving skills, attention to detail, and the ability to work both independently and as part of a team are essential. Familiarity with laboratory techniques and a genuine interest in sustainable environmental solutions, particularly bioremediation processes, are highly desirable.",
+    "additional_Info": "As a student you will be enrolled at Universidad San Francisco de Quito , therefore your legal status in Ecuador will be as a student doing a cultural exchange program , in order to complete your studies. Despite of the fact that Ecuador allows almost every country to come as a tourist, you must to request an extension of permanence in Ecuador if you stay longer than 90 days. It is mandatory to apply a visa before coming to Ecuador for the following countries: Afganistan, Angola, Bangladesh, Republic of Cameroon, Cuba, Egypt, Eritrea, Etiopia, Gambia, Ghana, Guinera, Haiti, Ivory Coast, India, Irak, Kenia, Libia, Nepal, Nigeria, Pakistán, Philippines, Democratic Republic of the Congo, North Korea, Senegal, Siria, Somalia, Sri Lanka, Venezuela, Vietnam, Yemen.\n Students must have Health Insurance. Accommodation will be arranged by IAESTE ECUADOR in the case that student will want our help. We will pick you up from the airport and take you to your Guest House.",
+    "requiredknowledgeandexperiences": "A complete academic record, a motivation letter, and a personal interview."
+  },
+  {
+    "id": "EG-2026-CUFE-9",
+    "offer-type": "ON-SITE",
+    "employer": "Faculty of Engineering, Cairo University",
+    "workplace": "Cairo University",
+    "business": "Engineering and applied science",
+    "employees": "100",
+    "hoursweekly": 40,
+    "hoursdaily": 8,
+    "website": "cu.edu.eg",
+    "country": "Egypt",
+    "city": "12613",
+    "from": "01.07.2026",
+    "to": "31.08.2026",
+    "weeksmin": 4,
+    "weeksmax": 6,
+    "deadline": "15.03.2026",
+    "field1": "General;Sustainable and Renewable Energy Engineering;General;General",
+    "field2": "Computer Science / Informatics, Mechanical Engineering, Power Engineering",
+    "field": "Computer Science / Informatics, Mechanical Engineering, Power Engineering",
+    "completedyearsofstudy": 3,
+    "languages": [
+      {
+        "language": "English",
+        "level": "Good (B1, B2)",
+        "andor": "Or"
+      },
+      {
+        "language": "Arabic",
+        "level": "Good (B1, B2)",
+        "andor": ""
+      }
+    ],
+    "payment": [
+      {
+        "payment": 10000,
+        "currency": "EGP",
+        "period": "Monthly",
+        "deduction": "0"
+      }
+    ],
+    "lodging": [
+      {
+        "lodging": "Employer",
+        "lodgingcost": 0,
+        "livingcost": 8000,
+        "currency": "EGP"
+      }
+    ],
+    "description": "The Engineering and Renewable Energy Engineering internship is a research-oriented experience that builds a broad understanding of clean-energy technologies and their role in achieving a low-carbon, healthy environment. Interns review academic and industry literature; compare renewable options such as solar, wind, storage, and efficiency across buildings, industry, agriculture, transport, and water; study fundamentals of energy systems, grid integration, and decarbonization pathways; and synthesize policy, market, and environmental considerations. The focus is on systems thinking, sustainability ethics, and clear communication. Typical outputs include brief summaries, concept notes, and presentations that highlight opportunities, risks, and high-level recommendations for expanding the use of renewables to support a cleaner environment.",
+    "other_requirements": "An interview",
+    "additional_Info": "Interview must be done before acceptance. \n Some social events will be arranged during the training.",
+    "requiredknowledgeandexperiences": "Research"
   },
   {
     "id": "GH-2026-035-AC",
@@ -1366,6 +1577,55 @@
     "other_requirements": "",
     "additional_Info": "For accommodation, the dorms will be in Byblos",
     "requiredknowledgeandexperiences": "Student studying towards an engineering or graphic design degree"
+  },
+  {
+    "id": "PH-2026-003-FCPC",
+    "offer-type": "ON-SITE",
+    "employer": "First City Providential College",
+    "workplace": "San Jose del Monte City",
+    "business": "Educational Institution",
+    "employees": "300",
+    "hoursweekly": 40,
+    "hoursdaily": 8,
+    "website": "www.firstcity.ph",
+    "country": "Philippines",
+    "city": "San Jose del Monte, Bulacan",
+    "from": "01.07.2026",
+    "to": "30.09.2026",
+    "weeksmin": 8,
+    "weeksmax": 12,
+    "deadline": "15.03.2026",
+    "field1": "Software Engineering",
+    "field2": "Cybersecurity, Web Development / Software Engineering / Computer Programming",
+    "field": "Cybersecurity, Web Development / Software Engineering / Computer Programming",
+    "completedyearsofstudy": 3,
+    "languages": [
+      {
+        "language": "English",
+        "level": "Good (B1, B2)",
+        "andor": ""
+      }
+    ],
+    "payment": [
+      {
+        "payment": 10000,
+        "currency": "PHP",
+        "period": "Monthly",
+        "deduction": "30.12"
+      }
+    ],
+    "lodging": [
+      {
+        "lodging": "Employer",
+        "lodgingcost": 0,
+        "livingcost": 8000,
+        "currency": "PHP"
+      }
+    ],
+    "description": "The Cybersecurity Intern will assist the institution’s IT and security team in safeguarding digital systems, networks, and sensitive information. The intern will participate in monitoring, detecting, and responding to security incidents while supporting preventive measures to strengthen the overall cybersecurity posture of the organization.",
+    "other_requirements": "",
+    "additional_Info": "",
+    "requiredknowledgeandexperiences": "Basic understanding of cybersecurity concepts such as:\n \n Network security\n \n Firewalls and intrusion detection systems\n \n Malware types and common attack vectors\n \n Encryption and authentication\n \n Access control and data protection"
   },
   {
     "id": "PL-2026-PLO008",
