@@ -265,60 +265,6 @@
     "requiredknowledgeandexperiences": "Embedded Systems and Machine Vision"
   },
   {
-    "id": "CO-2026-UV-02",
-    "offer-type": "ON-SITE",
-    "employer": "Universidad del Valle",
-    "workplace": "Caicedonia - Valle del Cauca",
-    "business": "Education & Research",
-    "employees": "100",
-    "hoursweekly": 40,
-    "hoursdaily": 8,
-    "website": "https://www.univalle.edu.co/",
-    "country": "Colombia",
-    "city": "Cali",
-    "from": "03.08.2026",
-    "to": "15.12.2026",
-    "weeksmin": 12,
-    "weeksmax": 16,
-    "deadline": "15.03.2026",
-    "field1": "",
-    "field2": "Agriculture, Biotechnology, Chemistry and Chemical Engineering, Food Science",
-    "field": "Agriculture, Biotechnology, Chemistry and Chemical Engineering, Food Science",
-    "completedyearsofstudy": 25.0,
-    "languages": [
-      {
-        "language": "Spanish",
-        "level": "Good (B1, B2)",
-        "andor": "Or"
-      },
-      {
-        "language": "English",
-        "level": "Good (B1, B2)",
-        "andor": ""
-      }
-    ],
-    "payment": [
-      {
-        "payment": 2300000,
-        "currency": "COP",
-        "period": "Monthly",
-        "deduction": "7%"
-      }
-    ],
-    "lodging": [
-      {
-        "lodging": "Employer and trainee",
-        "lodgingcost": 600000,
-        "livingcost": 1500000,
-        "currency": "COP"
-      }
-    ],
-    "description": "The Research Group in Innovation and Development of Specialty Coffee, aims to conduct research across two lines: the transformation of specialty coffees and the governance and sustainability of the coffee ecosystem. We are seeking students in Chemical Engineering, Food Engineering, Biotechnology, Agricultural Engineering, and Agro-Industrial Engineering, who are interested in understanding how post-harvest processes affect coffee quality. Specialty Coffee refers to coffee that is graded 80 points or higher, on a 100 point scale, which has been certified by a licensed Specialty Coffee Association (SCA) Q Grader (CQI). At the RoastLab, Univalle https://sigelab.net/laboratorio/ElKStj7fl51OmQ6bvi5o , physical and chemical tests are conducted on Arabica coffee beans grown in the Colombian Coffee Cultural Landscape area. The purpose is to identify the potential for specialty coffee that can be valued by coffee consumers worldwide. These results are then transferred to producers to help standardize the processes that enable them to obtain better coffee and become more competitive in global markets.\n The student will develop the following tasks: Physical characterization of green (fresh), dried, and roasted coffee beans. Chemical characterization of green, dried, and roasted coffee beans. Experimentation in the lab and on the farm (in the field, at the productive unit, to obtain a specialty coffee). Participation in the results transfer processes with producers and the academic community. Support in the analysis of relocation agendas and the production agenda for the region (Valle del Cauca) with sustainable development criteria. ​​Participation in academic meetings, seminars, and research debates.",
-    "other_requirements": "",
-    "additional_Info": "Americas and Europe students don´t need to issue a visa if their stay is shorter than 180 days.",
-    "requiredknowledgeandexperiences": "Data Analytics, Analysis Reporting, is a plus if has intrest in Coffee studies."
-  },
-  {
     "id": "CH-2026-000006",
     "offer-type": "ON-SITE",
     "employer": "Burckhardt Architektur AG",
@@ -371,60 +317,6 @@
     "other_requirements": "Nomination documents + portfolio should NOT EXCEED 12 MB TOGETHER.",
     "additional_Info": "Any student with Non-EU/EFTA nationality needs an official letter from their university, confirming that the internship is compulsory (required for visa/work permit).",
     "requiredknowledgeandexperiences": "Not yet finished Master, and first practical experience in architecture office.\n Knowledge in AutoCAD; Revit and BIM/VDC experience is an advantage."
-  },
-  {
-    "id": "CZ-2026-020002",
-    "offer-type": "ON-SITE",
-    "employer": "Procter & Gamble - Rakona, s.r.o.",
-    "workplace": "Rakovník",
-    "business": "business",
-    "employees": "400",
-    "hoursweekly": 40,
-    "hoursdaily": 8,
-    "website": "procter-gamble.cz",
-    "country": "Czech Republic",
-    "city": "Rakovnik",
-    "from": "02.02.2026",
-    "to": "02.10.2026",
-    "weeksmin": 12,
-    "weeksmax": 12,
-    "deadline": "15.03.2026",
-    "field1": "General;Computer and Information Research;Database Architecture",
-    "field2": "Computer Science / Informatics",
-    "field": "Computer Science / Informatics",
-    "completedyearsofstudy": 2.0,
-    "languages": [
-      {
-        "language": "English",
-        "level": "Good (B1, B2)",
-        "andor": "Or"
-      },
-      {
-        "language": "Czech",
-        "level": "Good (B1, B2)",
-        "andor": ""
-      }
-    ],
-    "payment": [
-      {
-        "payment": 30000,
-        "currency": "CZK",
-        "period": "Monthly",
-        "deduction": "0"
-      }
-    ],
-    "lodging": [
-      {
-        "lodging": "Employer",
-        "lodgingcost": 0,
-        "livingcost": 8000,
-        "currency": "CZK"
-      }
-    ],
-    "description": "The project is executed in the FMCG manufacturing facility. Project scope is to understand to current digitalization level of manufacturing and work through IOT platform on increasing productivity process flows. The objective is to develop most recent digital solution which will be reimplemented in the other P&G factories all over the globe. The cost accommodation will be covered by company.",
-    "other_requirements": "Online interview and online testing of students skills will be required. Only students who dont need VISA for Europe can apply\n Due to the Turkey GDPR legislation Turkish students are excluded from this request, no data from Turkish citizens will be shared with P&G.",
-    "additional_Info": "Please follow the instructions for preparing the nomination documents and the visa process in the attached document. This document ia only for you and your student, please don't include it in your student's nomination.\n IAESTE provides accommodation in the student dormitory, where interns are housed in shared double rooms with same-sex roommates. If an intern prefers a single room, they are responsible for arranging alternative accommodation independently.",
-    "requiredknowledgeandexperiences": "MVC architecture (model view controller), OOP (object oriented programming), Computer Programming, Data entry, Database administration"
   },
   {
     "id": "EC-2026-EC-004",
@@ -1427,6 +1319,398 @@
     "requiredknowledgeandexperiences": "A bachelor's Degree"
   },
   {
+    "id": "JP-2026-1302TMU",
+    "offer-type": "ON-SITE",
+    "employer": "Tokyo Metropolitan University",
+    "workplace": "Tokyo",
+    "business": "University /Research Institute",
+    "employees": "",
+    "hoursweekly": 40,
+    "hoursdaily": 8,
+    "website": "https://yoshida-makoto.fpark.tmu.ac.jp/ https://researchmap.jp/read0157790/?lang=english",
+    "country": "Japan",
+    "city": "Hinoshi, Tokyo",
+    "from": "1/6/2026",
+    "to": "30/11/2026",
+    "weeksmin": 8,
+    "weeksmax": 8,
+    "deadline": "15/3/2026",
+    "field1": "",
+    "field2": "Bioengineering/Biomedical Engineering, Mechanical Engineering, Web Development / Software Engineering / Computer Programming",
+    "field": "Bioengineering/Biomedical Engineering, Mechanical Engineering, Web Development / Software Engineering / Computer Programming",
+    "completedyearsofstudy": "",
+    "languages": [
+      {
+        "language": "English",
+        "level": "Good (B1, B2)",
+        "andor": ""
+      }
+    ],
+    "payment": [
+      {
+        "payment": 60000,
+        "currency": "JPY",
+        "period": "Monthly",
+        "deduction": "0"
+      }
+    ],
+    "lodging": [
+      {
+        "lodging": "Employer",
+        "lodgingcost": 0,
+        "livingcost": 50000,
+        "currency": "JPY"
+      }
+    ],
+    "description": "Biomechanical study related to human movement will be conducted for the internship. For examples, the following themes will be scheduled: computer simulation of human walking, three-dimensional measurement of human walking.",
+    "other_requirements": "",
+    "additional_Info": "Student dorm has private bedroom with WIFI. The fee for the student dorm and the commuter train expenses will be paid by the employer.\nHealth Certificate required.",
+    "requiredknowledgeandexperiences": "Fundamental computer programming skill (C language or whatever)\nFundamental knowledge on mechanics (kinetics)"
+  },
+  {
+    "id": "JP-2026-42THU",
+    "offer-type": "ON-SITE",
+    "employer": "Graduate School of Engineering,Tohoku University",
+    "workplace": "Miyagi Pref.",
+    "business": "Educational Research Institution",
+    "employees": "",
+    "hoursweekly": 40,
+    "hoursdaily": 8,
+    "website": "http://www.ifs.tohoku.ac.jp/enerdyn/en/",
+    "country": "Japan",
+    "city": "Miyagi Pref.",
+    "from": "1/6/2026",
+    "to": "31/12/2026",
+    "weeksmin": 8,
+    "weeksmax": 12,
+    "deadline": "15/3/2026",
+    "field1": "",
+    "field2": "Chemistry and Chemical Engineering, Mechanical Engineering",
+    "field": "Chemistry and Chemical Engineering, Mechanical Engineering",
+    "completedyearsofstudy": "",
+    "languages": [
+      {
+        "language": "English",
+        "level": "Good (B1, B2)",
+        "andor": ""
+      }
+    ],
+    "payment": [
+      {
+        "payment": 85000,
+        "currency": "JPY",
+        "period": "Monthly",
+        "deduction": "0"
+      }
+    ],
+    "lodging": [
+      {
+        "lodging": "Trainee or Tohoku LC",
+        "lodgingcost": 55000,
+        "livingcost": 80000,
+        "currency": "JPY"
+      }
+    ],
+    "description": "Fundamental study on novel concept combustion technology, particularly on super lean-burn technology and microcombustion-based fundamental study. (Experiments including optical measurements and/or computations.)",
+    "other_requirements": "For the reason of export control order, all the experience (work/education) after graduating High school must be written in CV with month & year. \nIf there is any blank of period in CV, the application would be rejected.",
+    "additional_Info": "Payment will be 4800 yen per working day. Estimated cost of lodging will be 70,000 yen for the first month and 40,000 yen from next month.\nHealth Certificate required.\nStudent dorm will be Urban Castle Kawauchi: Price and Facility Information :https://www.uc-kawauchi.com/en/facilities/",
+    "requiredknowledgeandexperiences": "Basic knowledge on fluid mechanics and thermodynamics, experience in experiment and/or computation is preferred."
+  },
+  {
+    "id": "JP-2026-52THU",
+    "offer-type": "ON-SITE",
+    "employer": "Graduate School of Engineering,Tohoku University",
+    "workplace": "Miyagi Pref.",
+    "business": "Educational Research Institution",
+    "employees": "",
+    "hoursweekly": 35,
+    "hoursdaily": 7,
+    "website": "https://www.qse.tohoku.ac.jp/english/",
+    "country": "Japan",
+    "city": "Miyagi Pref.",
+    "from": "1/6/2026",
+    "to": "31/3/2027",
+    "weeksmin": 8,
+    "weeksmax": 12,
+    "deadline": "15/3/2026",
+    "field1": "",
+    "field2": "Electrical Engineering, Mechanical Engineering, Power Engineering",
+    "field": "Electrical Engineering, Mechanical Engineering, Power Engineering",
+    "completedyearsofstudy": "",
+    "languages": [
+      {
+        "language": "English",
+        "level": "Good (B1, B2)",
+        "andor": ""
+      }
+    ],
+    "payment": [
+      {
+        "payment": 85000,
+        "currency": "JPY",
+        "period": "Monthly",
+        "deduction": "0"
+      }
+    ],
+    "lodging": [
+      {
+        "lodging": "Trainee or Tohoku LC",
+        "lodgingcost": 55000,
+        "livingcost": 80000,
+        "currency": "JPY"
+      }
+    ],
+    "description": "Our laboratory performs various studies mainly relating to the non-destructive inspection of the components to assure the integrity of structures using electromagnetic and acoustic fields. We expect interns to \n- assist the experiments and numerical simulations in the laboratory (measuring the material properties / detecting flaws using various non-destructive testing methods)\nand \n- assist in developing finite element numerical models of electromagnetic field simulations.\nIn addition, as our department is related to energy, we expect that the interns also contribute to developing game-based teaching materials for energy educations.",
+    "other_requirements": "For the reason of export control order, all the experience (work/education) after graduating High school must be written in CV with month & year. \nIf there is any blank of period in CV, the application would be rejected.",
+    "additional_Info": "Payment will be 4800 yen per working day(weekday). 　Estimated cost of lodging will be 70,000 yen for the first month and 40,000 yen from next month.\nHealth Certificate required.",
+    "requiredknowledgeandexperiences": "Basic knowledge on mechanical engineering and electromagnetics, as well as mathematics necessary for understanding them, is necessary. \nKnowledge/experience on numerical simulations using finite element software is preferable."
+  },
+  {
+    "id": "JP-2026-53THU",
+    "offer-type": "ON-SITE",
+    "employer": "Graduate School of Engineering,Tohoku University",
+    "workplace": "Miyagi Pref.",
+    "business": "Educational Research Institution",
+    "employees": "",
+    "hoursweekly": 40,
+    "hoursdaily": 8,
+    "website": "https://www.magnet.riec.tohoku.ac.jp",
+    "country": "Japan",
+    "city": "Miyagi Pref.",
+    "from": "1/6/2026",
+    "to": "31/3/2027",
+    "weeksmin": 8,
+    "weeksmax": 12,
+    "deadline": "15/3/2026",
+    "field1": "",
+    "field2": "Electronics Engineering, Material Engineering and Sciences, Physics and Physical Sciences",
+    "field": "Electronics Engineering, Material Engineering and Sciences, Physics and Physical Sciences",
+    "completedyearsofstudy": "",
+    "languages": [
+      {
+        "language": "English",
+        "level": "Excellent (C1, C2)",
+        "andor": ""
+      }
+    ],
+    "payment": [
+      {
+        "payment": 85000,
+        "currency": "JPY",
+        "period": "Monthly",
+        "deduction": "0"
+      }
+    ],
+    "lodging": [
+      {
+        "lodging": "Trainee of Tohoku LC",
+        "lodgingcost": 55000,
+        "livingcost": 80000,
+        "currency": "JPY"
+      }
+    ],
+    "description": "Using an ultrahigh vacuum sputtering system available in a cleanroom, the internship trainee will grow a magnetic film on a single crystal substrate at elevating temperature and post-annealing. The films will be characterised by X-ray diffraction and magneto-optical Kerr effect for the optimisation of the growth conditions. The optimised film will be patterned into a Hall bar for electrical transport measurements under an application of a magnetic field, which will offer a device concept for future spintronic applications.\nThese works will be carried out with the assistance of an assistant professor in the group. The progress will be discussed weekly to update and adjust the internship programme. By the end of the programme, the trainee will obtain basic experimental skills on spintronic research.\n\nOTHER REQUIREMENT:\nIt is also preferred to have some experience to work in a cleanroom with micron-scale device fabrication.Communications skills are required to work in collaborative environment.\nReading and writing skills in English to study previous works and to report progress on weekly basis are also required.It is also required to hold fundamental competence for work.",
+    "other_requirements": "For the reason of export control order, all the experience (work/education) after graduating High school must be written in CV with month & year. \nIf there is any blank of period in CV, the application would be rejected.",
+    "additional_Info": "Payment will be 4800 yen per working day(weekday). 　Estimated cost of lodging will be 70,000 yen for the first month and 40,000 yen from next month.\nHealth Certificate required.",
+    "requiredknowledgeandexperiences": "Knowledge on condensed matter physics, quantum mechanics and electronics is highly required.\nExperience on thin-film growth using sputtering and/or thermal deposition, structural analysis using X-ray diffraction and an electrical transport measurement is required.\nExperience on electron microscopy, magnetic characterisation including (temperature-dependent) magnetisation measurements is preferred."
+  },
+  {
+    "id": "JP-2026-59UTK",
+    "offer-type": "ON-SITE",
+    "employer": "Graduated school of Engineering , The University of Tokyo",
+    "workplace": "Tokyo",
+    "business": "University",
+    "employees": "",
+    "hoursweekly": 35,
+    "hoursdaily": 7,
+    "website": "http://bme.t.u-tokyo.ac.jp/en/",
+    "country": "Japan",
+    "city": "Tokyo",
+    "from": "1/6/2026",
+    "to": "28/9/2026",
+    "weeksmin": 8,
+    "weeksmax": 12,
+    "deadline": "15/3/2026",
+    "field1": "",
+    "field2": "Civil Engineering, Environmental Engineering/Sciences, Material Engineering and Sciences",
+    "field": "Civil Engineering, Environmental Engineering/Sciences, Material Engineering and Sciences",
+    "completedyearsofstudy": "",
+    "languages": [
+      {
+        "language": "English",
+        "level": "Good (B1, B2)",
+        "andor": ""
+      }
+    ],
+    "payment": [
+      {
+        "payment": 69000,
+        "currency": "JPY",
+        "period": "Monthly",
+        "deduction": "0"
+      }
+    ],
+    "lodging": [
+      {
+        "lodging": "IAESTE Japan",
+        "lodgingcost": 0,
+        "livingcost": 50000,
+        "currency": "JPY"
+      }
+    ],
+    "description": "In the internship, the followings will be implemented for the research on CO2 capture by concrete.\n1) Experimental works of acceleration of concrete carbonation, i.e. gas-solid carbonation and wet carbonation\n2) Chemical analyses of carbonated phases in concrete using X-ray diffraction, thermogravimetric analysis, microscopy observation, etc.\n3) Physical analyses of carbonated concrete using X-ray computed tomography, nitrogen absorption, water vapor absorption, etc.\n4) Experimental works on mechanical properties such as strength and modulus of elasticity of carbonated concrete",
+    "other_requirements": "Applicants should have an experience of experimental works using cement and concrete.\nCertificate of enrolement during the whole internship period is required .",
+    "additional_Info": "Certificate of enrolment until the completion of the internship is required.\nLodging will be shared apartment with private bedroom. Lodging fee will be paid by the employer.\nCommuter train expenses will be paid by the employer.",
+    "requiredknowledgeandexperiences": "It is desirable that the applicant has various knowledge of cement and concrete that are becoming a savior of curbing global warming.  Carbonation process in concrete was a phenomenon to be suppressed so far but it should be accelerated unless the carbonation leads to corrosion of steel in concrete.  Applicants should have knowledge of CO2 emission and resource circulation in cement and concrete field, carbonation mechanism of concrete and required performance of concrete."
+  },
+  {
+    "id": "JP-2026-6101TUS",
+    "offer-type": "ON-SITE",
+    "employer": "Tokyo University of Science",
+    "workplace": "Tokyo",
+    "business": "University",
+    "employees": "",
+    "hoursweekly": 35,
+    "hoursdaily": 7,
+    "website": "https://www.rs.noda.tus.ac.jp/aokilab/",
+    "country": "Japan",
+    "city": "TOKYO",
+    "from": "1/6/2026",
+    "to": "6/8/2026",
+    "weeksmin": 8,
+    "weeksmax": 12,
+    "deadline": "15/3/2026",
+    "field1": "",
+    "field2": "Biochemistry, Biomedical Sciences, Pharmaceutical Studies / Pharmacology",
+    "field": "Biochemistry, Biomedical Sciences, Pharmaceutical Studies / Pharmacology",
+    "completedyearsofstudy": "",
+    "languages": [
+      {
+        "language": "English",
+        "level": "Good (B1, B2)",
+        "andor": ""
+      }
+    ],
+    "payment": [
+      {
+        "payment": 120000,
+        "currency": "JPY",
+        "period": "Monthly",
+        "deduction": "0"
+      }
+    ],
+    "lodging": [
+      {
+        "lodging": "IAESTE Japan or Trainee",
+        "lodgingcost": 75000,
+        "livingcost": 120000,
+        "currency": "JPY"
+      }
+    ],
+    "description": "Design, synthesis, and evaluation of functional supramolecular complexes, supramoleculara catalysts, and supramolecular motors formed by assembly of metal complexes, organic molecules, and metal ions in water.\nDesign, synthesis, and biological assay of artificial ligands for luminescent imaging and treatment of cancer.\nDevelopment of new devices for capture, collection, and analysis of circulating tumor cells.\nDesign, synthesis, in vivo imaging, and biological evaluation of new drugs for neutron capture therapy.\nIn silico design, synthesis, and biological assay of metal enzyme inhibitors.\nDesign, synthesis, and biological evaluation of antiviral and antibacterial drugs.",
+    "other_requirements": "Certificate of enrolment during the whole internship period required.",
+    "additional_Info": "Certificate of Health is required. \nInternship cannot be done during Company Cloese period (Aug 7. --Aug.23).\nSubmission of nomination documents to results takes one to two months due to the host organisation's monthly meeting.",
+    "requiredknowledgeandexperiences": "Basic organic chemistry, Basic inorganic chemistry, Basic biochemistry"
+  },
+  {
+    "id": "JP-2026-72TUS",
+    "offer-type": "ON-SITE",
+    "employer": "Tokyo University of Science",
+    "workplace": "Tokyo",
+    "business": "University",
+    "employees": "",
+    "hoursweekly": 25,
+    "hoursdaily": 5,
+    "website": "https://www.rs.noda.tus.ac.jp/brlab/english/index.html",
+    "country": "Japan",
+    "city": "Chiba",
+    "from": "1/6/2026",
+    "to": "25/12/2026",
+    "weeksmin": 8,
+    "weeksmax": 12,
+    "deadline": "15/3/2026",
+    "field1": "",
+    "field2": "Bioengineering/Biomedical Engineering, Computer Science / Informatics, Mechatronics, Robotics and Automation",
+    "field": "Bioengineering/Biomedical Engineering, Computer Science / Informatics, Mechatronics, Robotics and Automation",
+    "completedyearsofstudy": "",
+    "languages": [
+      {
+        "language": "English",
+        "level": "Good (B1, B2)",
+        "andor": ""
+      }
+    ],
+    "payment": [
+      {
+        "payment": 120000,
+        "currency": "JPY",
+        "period": "Monthly",
+        "deduction": "0"
+      }
+    ],
+    "lodging": [
+      {
+        "lodging": "IAESTE Japan or Trainee",
+        "lodgingcost": 75000,
+        "livingcost": 120000,
+        "currency": "JPY"
+      }
+    ],
+    "description": "He/she researches and developments hardware and/or software related to medical device/robotics system/brain technology/image processing/AI.",
+    "other_requirements": "Certificate of enrolment during the whole internship is required.",
+    "additional_Info": "Certificate of Health is required.\nInternship cannot be done during Company closed period (Aug .7 -  Aug.23)",
+    "requiredknowledgeandexperiences": "Basic Computer Science / Informatics"
+  },
+  {
+    "id": "JP-2026-TTI-05-S",
+    "offer-type": "ON-SITE",
+    "employer": "Toyota Technological Institute",
+    "workplace": "Nagoya, Aichi",
+    "business": "University",
+    "employees": "",
+    "hoursweekly": 40,
+    "hoursdaily": 8,
+    "website": "https://mme-lab.github.io/MMLwebsite/",
+    "country": "Japan",
+    "city": "Nagoya",
+    "from": "1/6/2026",
+    "to": "31/3/2027",
+    "weeksmin": 8,
+    "weeksmax": 16,
+    "deadline": "15/3/2026",
+    "field1": "",
+    "field2": "Material Engineering and Sciences, Mechanical Engineering, Physics and Physical Sciences",
+    "field": "Material Engineering and Sciences, Mechanical Engineering, Physics and Physical Sciences",
+    "completedyearsofstudy": "",
+    "languages": [
+      {
+        "language": "English",
+        "level": "Good (B1, B2)",
+        "andor": ""
+      }
+    ],
+    "payment": [
+      {
+        "payment": 91000,
+        "currency": "JPY",
+        "period": "Monthly",
+        "deduction": "0"
+      }
+    ],
+    "lodging": [
+      {
+        "lodging": "Employer",
+        "lodgingcost": 35500,
+        "livingcost": 75500,
+        "currency": "JPY"
+      }
+    ],
+    "description": "We aim to develop advanced thermal management technologies through materials modeling and characterization from the perspective of mechanical engineering. The intern will be engaged in research activities focusing on computational modeling of nano- and micro-scale thermal transport using electronic and atomic simulations. Through this work, the student will gain both theoretical understanding and practical research experience in the field of thermal transport and materials science.",
+    "other_requirements": "Host laboratory may require an online interview as part of the screening process.",
+    "additional_Info": "The dormitory rent is 35,000 JPY/month, including gas, water and the internet fees.　\n\tDormitory residents are billed for electric fee at cost – the fee depends on how much electricity is used.\n\tJapan National Health Insurance: Approx. 2 000 JPY / month - Payment is obligatory for those who stay in Japan for 91 days or longer, regardless of having private health insurance or not.\n\tExpenses associated with the research activities, including registration/travel fees for conferences, and international travel/liability insurances, should be borne by the intern.",
+    "requiredknowledgeandexperiences": "[Required] Fundamental knowledge of solid-state physics and related subjects (quantum mechanics, statistical physics, thermodynamics, etc).\n[Preferred] Prior experience or coursework in these fields. Basic programming skills (Python, C, MATLAB, etc)"
+  },
+  {
     "id": "KE-2026-12C-DK",
     "offer-type": "ON-SITE",
     "employer": "DEDAN KIMATHI UNIVERSITY OF TECHNOLOGY",
@@ -2034,447 +2318,6 @@
     "requiredknowledgeandexperiences": "-"
   },
   {
-    "id": "VN-2026-TTAS-07",
-    "offer-type": "ON-SITE",
-    "employer": "TT-AS Architecture - Construction Joint Stock Company - Website: http://tt-as.vn/ Hanoi",
-    "workplace": "Hanoi",
-    "business": "Architectural Design",
-    "employees": "45",
-    "hoursweekly": 44,
-    "hoursdaily": 8,
-    "website": "http://tt-as.vn/",
-    "country": "Vietnam",
-    "city": "Hanoi",
-    "from": "01.02.2026",
-    "to": "30.06.2026",
-    "weeksmin": 12,
-    "weeksmax": 12,
-    "deadline": "15.03.2026",
-    "field1": "General;City/Urban, Community and Regional Planning",
-    "field2": "Architecture",
-    "field": "Architecture",
-    "completedyearsofstudy": 3.0,
-    "languages": [
-      {
-        "language": "English",
-        "level": "Excellent (C1, C2)",
-        "andor": ""
-      }
-    ],
-    "payment": [
-      {
-        "payment": 5000000,
-        "currency": "VND",
-        "period": "Monthly",
-        "deduction": "0/ Depending"
-      }
-    ],
-    "lodging": [
-      {
-        "lodging": "Employer",
-        "lodgingcost": 5000000,
-        "livingcost": 7000000,
-        "currency": "VND"
-      }
-    ],
-    "description": "- T-As Architecture and Construction JSC (https://tt-as.vn/company/) was originated from RACBT (Research and Application Centre of Building Technique – University of Civil Engineering). With over 20 years of experience and more than 100 projects done, TT-Associates is proud to be among the ones who shape the landscape of the future. Designing this world is a truly meaningful thing to do. Now we refresh our brand by combining the TT-Associates and TTA-Partners logos together. \n - The company is one of the best companies in Architecture in Vietnam. Students will have a great time to experience in terms of Architecture Field in reality.\n --------------------------------------------------------------------------------------------------------\n - Participate in practical designing works with other staff in the company\n - Develop creativity and expand ideas about planning projects, deploy drawings of urban planning.\n - Support architects and interior designers: Build 3D perspective, deploy 2D technical documents as a customer design requirement. \n - Arranging layout images and drawings of projects to present to customers, and investors.\n - Deploy designs as a division of leaders\n - Support senior leaders in operating and managing design work in each project. \n - Deploy construction drawing.\n - Perspective drawing – build ideas\n - Working time: Monday - Friday: 8 hours/ day, Saturday: 4 hours in the morning\n ------------------------------------------------------------------------------------------------\n Prizes of TTAS:\n - National Architecture Gold Award 2024 – 2025 for Grand Mercure 5 star hotel project\n - TOP TEN Vietnam Architecture Firms voted by BCI.\n - National Architecture Award for Hanoi Stock Exchange project\n - 100 Architects of the Year – UIA 2017\n - Awarded Housing design for N04 Complex building- UDIC complex\n - Awarded the Designer Selection for “ Sofitel Legend Metropole hotel renovation 2015” project.\n - Awarded the first prize in design contests for Vietnam News Agency television center ( VNEWS) – 33 Le Thanh Tong str- Hanoi\n & a lot more here: https://tt-as.vn/award/",
-    "other_requirements": "- Willing to take part in extra-curricular activities\n - Porfolio",
-    "additional_Info": "Hanoi is the capital city of Vietnam, and it is expensive to rent a room here. The company can only support an amount of stipend that isn't sufficient for the interns to pay for the accommodation and the fee of electricity; therefore, students need to bring about 250 USD to cover their living expenses.",
-    "requiredknowledgeandexperiences": "- Being friendly/ sociable/ adaptive/ creative and serious at work\n - Having a laptop"
-  },
-  {
-    "id": "JP-2026-1302TMU",
-    "offer-type": "ON-SITE",
-    "employer": "Tokyo Metropolitan University",
-    "workplace": "Tokyo",
-    "business": "University /Research Institute",
-    "employees": "",
-    "hoursweekly": 40,
-    "hoursdaily": 8,
-    "website": "https://yoshida-makoto.fpark.tmu.ac.jp/ https://researchmap.jp/read0157790/?lang=english",
-    "country": "Japan",
-    "city": "Hinoshi, Tokyo",
-    "from": "1/6/2026",
-    "to": "30/11/2026",
-    "weeksmin": 8,
-    "weeksmax": 8,
-    "deadline": "15/3/2026",
-    "field1": "",
-    "field2": "Bioengineering/Biomedical Engineering, Mechanical Engineering, Web Development / Software Engineering / Computer Programming",
-    "field": "Bioengineering/Biomedical Engineering, Mechanical Engineering, Web Development / Software Engineering / Computer Programming",
-    "completedyearsofstudy": "",
-    "languages": [
-      {
-        "language": "English",
-        "level": "Good (B1, B2)",
-        "andor": ""
-      }
-    ],
-    "payment": [
-      {
-        "payment": 60000,
-        "currency": "JPY",
-        "period": "Monthly",
-        "deduction": "0"
-      }
-    ],
-    "lodging": [
-      {
-        "lodging": "Employer",
-        "lodgingcost": 0,
-        "livingcost": 50000,
-        "currency": "JPY"
-      }
-    ],
-    "description": "Biomechanical study related to human movement will be conducted for the internship. For examples, the following themes will be scheduled: computer simulation of human walking, three-dimensional measurement of human walking.",
-    "other_requirements": "",
-    "additional_Info": "Student dorm has private bedroom with WIFI. The fee for the student dorm and the commuter train expenses will be paid by the employer.\nHealth Certificate required.",
-    "requiredknowledgeandexperiences": "Fundamental computer programming skill (C language or whatever)\nFundamental knowledge on mechanics (kinetics)"
-  },
-  {
-    "id": "JP-2026-42THU",
-    "offer-type": "ON-SITE",
-    "employer": "Graduate School of Engineering,Tohoku University",
-    "workplace": "Miyagi Pref.",
-    "business": "Educational Research Institution",
-    "employees": "",
-    "hoursweekly": 40,
-    "hoursdaily": 8,
-    "website": "http://www.ifs.tohoku.ac.jp/enerdyn/en/",
-    "country": "Japan",
-    "city": "Miyagi Pref.",
-    "from": "1/6/2026",
-    "to": "31/12/2026",
-    "weeksmin": 8,
-    "weeksmax": 12,
-    "deadline": "15/3/2026",
-    "field1": "",
-    "field2": "Chemistry and Chemical Engineering, Mechanical Engineering",
-    "field": "Chemistry and Chemical Engineering, Mechanical Engineering",
-    "completedyearsofstudy": "",
-    "languages": [
-      {
-        "language": "English",
-        "level": "Good (B1, B2)",
-        "andor": ""
-      }
-    ],
-    "payment": [
-      {
-        "payment": 85000,
-        "currency": "JPY",
-        "period": "Monthly",
-        "deduction": "0"
-      }
-    ],
-    "lodging": [
-      {
-        "lodging": "Trainee or Tohoku LC",
-        "lodgingcost": 55000,
-        "livingcost": 80000,
-        "currency": "JPY"
-      }
-    ],
-    "description": "Fundamental study on novel concept combustion technology, particularly on super lean-burn technology and microcombustion-based fundamental study. (Experiments including optical measurements and/or computations.)",
-    "other_requirements": "For the reason of export control order, all the experience (work/education) after graduating High school must be written in CV with month & year. \nIf there is any blank of period in CV, the application would be rejected.",
-    "additional_Info": "Payment will be 4800 yen per working day. Estimated cost of lodging will be 70,000 yen for the first month and 40,000 yen from next month.\nHealth Certificate required.\nStudent dorm will be Urban Castle Kawauchi: Price and Facility Information :https://www.uc-kawauchi.com/en/facilities/",
-    "requiredknowledgeandexperiences": "Basic knowledge on fluid mechanics and thermodynamics, experience in experiment and/or computation is preferred."
-  },
-  {
-    "id": "JP-2026-52THU",
-    "offer-type": "ON-SITE",
-    "employer": "Graduate School of Engineering,Tohoku University",
-    "workplace": "Miyagi Pref.",
-    "business": "Educational Research Institution",
-    "employees": "",
-    "hoursweekly": 35,
-    "hoursdaily": 7,
-    "website": "https://www.qse.tohoku.ac.jp/english/",
-    "country": "Japan",
-    "city": "Miyagi Pref.",
-    "from": "1/6/2026",
-    "to": "31/3/2027",
-    "weeksmin": 8,
-    "weeksmax": 12,
-    "deadline": "15/3/2026",
-    "field1": "",
-    "field2": "Electrical Engineering, Mechanical Engineering, Power Engineering",
-    "field": "Electrical Engineering, Mechanical Engineering, Power Engineering",
-    "completedyearsofstudy": "",
-    "languages": [
-      {
-        "language": "English",
-        "level": "Good (B1, B2)",
-        "andor": ""
-      }
-    ],
-    "payment": [
-      {
-        "payment": 85000,
-        "currency": "JPY",
-        "period": "Monthly",
-        "deduction": "0"
-      }
-    ],
-    "lodging": [
-      {
-        "lodging": "Trainee or Tohoku LC",
-        "lodgingcost": 55000,
-        "livingcost": 80000,
-        "currency": "JPY"
-      }
-    ],
-    "description": "Our laboratory performs various studies mainly relating to the non-destructive inspection of the components to assure the integrity of structures using electromagnetic and acoustic fields. We expect interns to \n- assist the experiments and numerical simulations in the laboratory (measuring the material properties / detecting flaws using various non-destructive testing methods)\nand \n- assist in developing finite element numerical models of electromagnetic field simulations.\nIn addition, as our department is related to energy, we expect that the interns also contribute to developing game-based teaching materials for energy educations.",
-    "other_requirements": "For the reason of export control order, all the experience (work/education) after graduating High school must be written in CV with month & year. \nIf there is any blank of period in CV, the application would be rejected.",
-    "additional_Info": "Payment will be 4800 yen per working day(weekday). 　Estimated cost of lodging will be 70,000 yen for the first month and 40,000 yen from next month.\nHealth Certificate required.",
-    "requiredknowledgeandexperiences": "Basic knowledge on mechanical engineering and electromagnetics, as well as mathematics necessary for understanding them, is necessary. \nKnowledge/experience on numerical simulations using finite element software is preferable."
-  },
-  {
-    "id": "JP-2026-53THU",
-    "offer-type": "ON-SITE",
-    "employer": "Graduate School of Engineering,Tohoku University",
-    "workplace": "Miyagi Pref.",
-    "business": "Educational Research Institution",
-    "employees": "",
-    "hoursweekly": 40,
-    "hoursdaily": 8,
-    "website": "https://www.magnet.riec.tohoku.ac.jp",
-    "country": "Japan",
-    "city": "Miyagi Pref.",
-    "from": "1/6/2026",
-    "to": "31/3/2027",
-    "weeksmin": 8,
-    "weeksmax": 12,
-    "deadline": "15/3/2026",
-    "field1": "",
-    "field2": "Electronics Engineering, Material Engineering and Sciences, Physics and Physical Sciences",
-    "field": "Electronics Engineering, Material Engineering and Sciences, Physics and Physical Sciences",
-    "completedyearsofstudy": "",
-    "languages": [
-      {
-        "language": "English",
-        "level": "Excellent (C1, C2)",
-        "andor": ""
-      }
-    ],
-    "payment": [
-      {
-        "payment": 85000,
-        "currency": "JPY",
-        "period": "Monthly",
-        "deduction": "0"
-      }
-    ],
-    "lodging": [
-      {
-        "lodging": "Trainee of Tohoku LC",
-        "lodgingcost": 55000,
-        "livingcost": 80000,
-        "currency": "JPY"
-      }
-    ],
-    "description": "Using an ultrahigh vacuum sputtering system available in a cleanroom, the internship trainee will grow a magnetic film on a single crystal substrate at elevating temperature and post-annealing. The films will be characterised by X-ray diffraction and magneto-optical Kerr effect for the optimisation of the growth conditions. The optimised film will be patterned into a Hall bar for electrical transport measurements under an application of a magnetic field, which will offer a device concept for future spintronic applications.\nThese works will be carried out with the assistance of an assistant professor in the group. The progress will be discussed weekly to update and adjust the internship programme. By the end of the programme, the trainee will obtain basic experimental skills on spintronic research.\n\nOTHER REQUIREMENT:\nIt is also preferred to have some experience to work in a cleanroom with micron-scale device fabrication.Communications skills are required to work in collaborative environment.\nReading and writing skills in English to study previous works and to report progress on weekly basis are also required.It is also required to hold fundamental competence for work.",
-    "other_requirements": "For the reason of export control order, all the experience (work/education) after graduating High school must be written in CV with month & year. \nIf there is any blank of period in CV, the application would be rejected.",
-    "additional_Info": "Payment will be 4800 yen per working day(weekday). 　Estimated cost of lodging will be 70,000 yen for the first month and 40,000 yen from next month.\nHealth Certificate required.",
-    "requiredknowledgeandexperiences": "Knowledge on condensed matter physics, quantum mechanics and electronics is highly required.\nExperience on thin-film growth using sputtering and/or thermal deposition, structural analysis using X-ray diffraction and an electrical transport measurement is required.\nExperience on electron microscopy, magnetic characterisation including (temperature-dependent) magnetisation measurements is preferred."
-  },
-  {
-    "id": "JP-2026-59UTK",
-    "offer-type": "ON-SITE",
-    "employer": "Graduated school of Engineering , The University of Tokyo",
-    "workplace": "Tokyo",
-    "business": "University",
-    "employees": "",
-    "hoursweekly": 35,
-    "hoursdaily": 7,
-    "website": "http://bme.t.u-tokyo.ac.jp/en/",
-    "country": "Japan",
-    "city": "Tokyo",
-    "from": "1/6/2026",
-    "to": "28/9/2026",
-    "weeksmin": 8,
-    "weeksmax": 12,
-    "deadline": "15/3/2026",
-    "field1": "",
-    "field2": "Civil Engineering, Environmental Engineering/Sciences, Material Engineering and Sciences",
-    "field": "Civil Engineering, Environmental Engineering/Sciences, Material Engineering and Sciences",
-    "completedyearsofstudy": "",
-    "languages": [
-      {
-        "language": "English",
-        "level": "Good (B1, B2)",
-        "andor": ""
-      }
-    ],
-    "payment": [
-      {
-        "payment": 69000,
-        "currency": "JPY",
-        "period": "Monthly",
-        "deduction": "0"
-      }
-    ],
-    "lodging": [
-      {
-        "lodging": "IAESTE Japan",
-        "lodgingcost": 0,
-        "livingcost": 50000,
-        "currency": "JPY"
-      }
-    ],
-    "description": "In the internship, the followings will be implemented for the research on CO2 capture by concrete.\n1) Experimental works of acceleration of concrete carbonation, i.e. gas-solid carbonation and wet carbonation\n2) Chemical analyses of carbonated phases in concrete using X-ray diffraction, thermogravimetric analysis, microscopy observation, etc.\n3) Physical analyses of carbonated concrete using X-ray computed tomography, nitrogen absorption, water vapor absorption, etc.\n4) Experimental works on mechanical properties such as strength and modulus of elasticity of carbonated concrete",
-    "other_requirements": "Applicants should have an experience of experimental works using cement and concrete.\nCertificate of enrolement during the whole internship period is required .",
-    "additional_Info": "Certificate of enrolment until the completion of the internship is required.\nLodging will be shared apartment with private bedroom. Lodging fee will be paid by the employer.\nCommuter train expenses will be paid by the employer.",
-    "requiredknowledgeandexperiences": "It is desirable that the applicant has various knowledge of cement and concrete that are becoming a savior of curbing global warming.  Carbonation process in concrete was a phenomenon to be suppressed so far but it should be accelerated unless the carbonation leads to corrosion of steel in concrete.  Applicants should have knowledge of CO2 emission and resource circulation in cement and concrete field, carbonation mechanism of concrete and required performance of concrete."
-  },
-  {
-    "id": "JP-2026-6101TUS",
-    "offer-type": "ON-SITE",
-    "employer": "Tokyo University of Science",
-    "workplace": "Tokyo",
-    "business": "University",
-    "employees": "",
-    "hoursweekly": 35,
-    "hoursdaily": 7,
-    "website": "https://www.rs.noda.tus.ac.jp/aokilab/",
-    "country": "Japan",
-    "city": "TOKYO",
-    "from": "1/6/2026",
-    "to": "6/8/2026",
-    "weeksmin": 8,
-    "weeksmax": 12,
-    "deadline": "15/3/2026",
-    "field1": "",
-    "field2": "Biochemistry, Biomedical Sciences, Pharmaceutical Studies / Pharmacology",
-    "field": "Biochemistry, Biomedical Sciences, Pharmaceutical Studies / Pharmacology",
-    "completedyearsofstudy": "",
-    "languages": [
-      {
-        "language": "English",
-        "level": "Good (B1, B2)",
-        "andor": ""
-      }
-    ],
-    "payment": [
-      {
-        "payment": 120000,
-        "currency": "JPY",
-        "period": "Monthly",
-        "deduction": "0"
-      }
-    ],
-    "lodging": [
-      {
-        "lodging": "IAESTE Japan or Trainee",
-        "lodgingcost": 75000,
-        "livingcost": 120000,
-        "currency": "JPY"
-      }
-    ],
-    "description": "Design, synthesis, and evaluation of functional supramolecular complexes, supramoleculara catalysts, and supramolecular motors formed by assembly of metal complexes, organic molecules, and metal ions in water.\nDesign, synthesis, and biological assay of artificial ligands for luminescent imaging and treatment of cancer.\nDevelopment of new devices for capture, collection, and analysis of circulating tumor cells.\nDesign, synthesis, in vivo imaging, and biological evaluation of new drugs for neutron capture therapy.\nIn silico design, synthesis, and biological assay of metal enzyme inhibitors.\nDesign, synthesis, and biological evaluation of antiviral and antibacterial drugs.",
-    "other_requirements": "Certificate of enrolment during the whole internship period required.",
-    "additional_Info": "Certificate of Health is required. \nInternship cannot be done during Company Cloese period (Aug 7. --Aug.23).\nSubmission of nomination documents to results takes one to two months due to the host organisation's monthly meeting.",
-    "requiredknowledgeandexperiences": "Basic organic chemistry, Basic inorganic chemistry, Basic biochemistry"
-  },
-  {
-    "id": "JP-2026-72TUS",
-    "offer-type": "ON-SITE",
-    "employer": "Tokyo University of Science",
-    "workplace": "Tokyo",
-    "business": "University",
-    "employees": "",
-    "hoursweekly": 25,
-    "hoursdaily": 5,
-    "website": "https://www.rs.noda.tus.ac.jp/brlab/english/index.html",
-    "country": "Japan",
-    "city": "Chiba",
-    "from": "1/6/2026",
-    "to": "25/12/2026",
-    "weeksmin": 8,
-    "weeksmax": 12,
-    "deadline": "15/3/2026",
-    "field1": "",
-    "field2": "Bioengineering/Biomedical Engineering, Computer Science / Informatics, Mechatronics, Robotics and Automation",
-    "field": "Bioengineering/Biomedical Engineering, Computer Science / Informatics, Mechatronics, Robotics and Automation",
-    "completedyearsofstudy": "",
-    "languages": [
-      {
-        "language": "English",
-        "level": "Good (B1, B2)",
-        "andor": ""
-      }
-    ],
-    "payment": [
-      {
-        "payment": 120000,
-        "currency": "JPY",
-        "period": "Monthly",
-        "deduction": "0"
-      }
-    ],
-    "lodging": [
-      {
-        "lodging": "IAESTE Japan or Trainee",
-        "lodgingcost": 75000,
-        "livingcost": 120000,
-        "currency": "JPY"
-      }
-    ],
-    "description": "He/she researches and developments hardware and/or software related to medical device/robotics system/brain technology/image processing/AI.",
-    "other_requirements": "Certificate of enrolment during the whole internship is required.",
-    "additional_Info": "Certificate of Health is required.\nInternship cannot be done during Company closed period (Aug .7 -  Aug.23)",
-    "requiredknowledgeandexperiences": "Basic Computer Science / Informatics"
-  },
-  {
-    "id": "JP-2026-TTI-05-S",
-    "offer-type": "ON-SITE",
-    "employer": "Toyota Technological Institute",
-    "workplace": "Nagoya, Aichi",
-    "business": "University",
-    "employees": "",
-    "hoursweekly": 40,
-    "hoursdaily": 8,
-    "website": "https://mme-lab.github.io/MMLwebsite/",
-    "country": "Japan",
-    "city": "Nagoya",
-    "from": "1/6/2026",
-    "to": "31/3/2027",
-    "weeksmin": 8,
-    "weeksmax": 16,
-    "deadline": "15/3/2026",
-    "field1": "",
-    "field2": "Material Engineering and Sciences, Mechanical Engineering, Physics and Physical Sciences",
-    "field": "Material Engineering and Sciences, Mechanical Engineering, Physics and Physical Sciences",
-    "completedyearsofstudy": "",
-    "languages": [
-      {
-        "language": "English",
-        "level": "Good (B1, B2)",
-        "andor": ""
-      }
-    ],
-    "payment": [
-      {
-        "payment": 91000,
-        "currency": "JPY",
-        "period": "Monthly",
-        "deduction": "0"
-      }
-    ],
-    "lodging": [
-      {
-        "lodging": "Employer",
-        "lodgingcost": 35500,
-        "livingcost": 75500,
-        "currency": "JPY"
-      }
-    ],
-    "description": "We aim to develop advanced thermal management technologies through materials modeling and characterization from the perspective of mechanical engineering. The intern will be engaged in research activities focusing on computational modeling of nano- and micro-scale thermal transport using electronic and atomic simulations. Through this work, the student will gain both theoretical understanding and practical research experience in the field of thermal transport and materials science.",
-    "other_requirements": "Host laboratory may require an online interview as part of the screening process.",
-    "additional_Info": "The dormitory rent is 35,000 JPY/month, including gas, water and the internet fees.　\n\tDormitory residents are billed for electric fee at cost – the fee depends on how much electricity is used.\n\tJapan National Health Insurance: Approx. 2 000 JPY / month - Payment is obligatory for those who stay in Japan for 91 days or longer, regardless of having private health insurance or not.\n\tExpenses associated with the research activities, including registration/travel fees for conferences, and international travel/liability insurances, should be borne by the intern.",
-    "requiredknowledgeandexperiences": "[Required] Fundamental knowledge of solid-state physics and related subjects (quantum mechanics, statistical physics, thermodynamics, etc).\n[Preferred] Prior experience or coursework in these fields. Basic programming skills (Python, C, MATLAB, etc)"
-  },
-  {
     "id": "TR-2026-001-ITU",
     "offer-type": "ON-SITE",
     "employer": "Erdemli Proje ve Musavirlik San. Tic. Ltd. Sti",
@@ -2723,5 +2566,54 @@
     "other_requirements": "",
     "additional_Info": "Lodging, reception, visa and etc will be arranged by related Local Committee (LC) of our member universities and lodging address will be determined after being accepted, so please consult the related LC for your questions related to the issues above-mentioned for the offer, ONLY AFTER you have received your acceptance from your IAESTE office.",
     "requiredknowledgeandexperiences": "Clear, Effective, and Multicultural Communication,Teamwork skills, Ability to adapt to multicultural environment, Innovative mindset, Agility and Adaptability, Result-Oriented Approach, Willingness to learn."
+  },
+  {
+    "id": "VN-2026-TTAS-07",
+    "offer-type": "ON-SITE",
+    "employer": "TT-AS Architecture - Construction Joint Stock Company - Website: http://tt-as.vn/ Hanoi",
+    "workplace": "Hanoi",
+    "business": "Architectural Design",
+    "employees": "45",
+    "hoursweekly": 44,
+    "hoursdaily": 8,
+    "website": "http://tt-as.vn/",
+    "country": "Vietnam",
+    "city": "Hanoi",
+    "from": "01.02.2026",
+    "to": "30.06.2026",
+    "weeksmin": 12,
+    "weeksmax": 12,
+    "deadline": "15.03.2026",
+    "field1": "General;City/Urban, Community and Regional Planning",
+    "field2": "Architecture",
+    "field": "Architecture",
+    "completedyearsofstudy": 3.0,
+    "languages": [
+      {
+        "language": "English",
+        "level": "Excellent (C1, C2)",
+        "andor": ""
+      }
+    ],
+    "payment": [
+      {
+        "payment": 5000000,
+        "currency": "VND",
+        "period": "Monthly",
+        "deduction": "0/ Depending"
+      }
+    ],
+    "lodging": [
+      {
+        "lodging": "Employer",
+        "lodgingcost": 5000000,
+        "livingcost": 7000000,
+        "currency": "VND"
+      }
+    ],
+    "description": "- T-As Architecture and Construction JSC (https://tt-as.vn/company/) was originated from RACBT (Research and Application Centre of Building Technique – University of Civil Engineering). With over 20 years of experience and more than 100 projects done, TT-Associates is proud to be among the ones who shape the landscape of the future. Designing this world is a truly meaningful thing to do. Now we refresh our brand by combining the TT-Associates and TTA-Partners logos together. \n - The company is one of the best companies in Architecture in Vietnam. Students will have a great time to experience in terms of Architecture Field in reality.\n --------------------------------------------------------------------------------------------------------\n - Participate in practical designing works with other staff in the company\n - Develop creativity and expand ideas about planning projects, deploy drawings of urban planning.\n - Support architects and interior designers: Build 3D perspective, deploy 2D technical documents as a customer design requirement. \n - Arranging layout images and drawings of projects to present to customers, and investors.\n - Deploy designs as a division of leaders\n - Support senior leaders in operating and managing design work in each project. \n - Deploy construction drawing.\n - Perspective drawing – build ideas\n - Working time: Monday - Friday: 8 hours/ day, Saturday: 4 hours in the morning\n ------------------------------------------------------------------------------------------------\n Prizes of TTAS:\n - National Architecture Gold Award 2024 – 2025 for Grand Mercure 5 star hotel project\n - TOP TEN Vietnam Architecture Firms voted by BCI.\n - National Architecture Award for Hanoi Stock Exchange project\n - 100 Architects of the Year – UIA 2017\n - Awarded Housing design for N04 Complex building- UDIC complex\n - Awarded the Designer Selection for “ Sofitel Legend Metropole hotel renovation 2015” project.\n - Awarded the first prize in design contests for Vietnam News Agency television center ( VNEWS) – 33 Le Thanh Tong str- Hanoi\n & a lot more here: https://tt-as.vn/award/",
+    "other_requirements": "- Willing to take part in extra-curricular activities\n - Porfolio",
+    "additional_Info": "Hanoi is the capital city of Vietnam, and it is expensive to rent a room here. The company can only support an amount of stipend that isn't sufficient for the interns to pay for the accommodation and the fee of electricity; therefore, students need to bring about 250 USD to cover their living expenses.",
+    "requiredknowledgeandexperiences": "- Being friendly/ sociable/ adaptive/ creative and serious at work\n - Having a laptop"
   }
 ]
