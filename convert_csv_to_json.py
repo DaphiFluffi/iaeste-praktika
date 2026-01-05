@@ -2,7 +2,7 @@ import pandas as pd
 import json
 
 # Google Sheets CSV
-df = pd.read_csv("praktikaTK.csv", sep=',', encoding='utf-8', quotechar='"')
+df = pd.read_csv("praktika.csv", sep=',', encoding='utf-8', quotechar='"')
 
 # Spaltennamen bereinigen (Whitespaces entfernen)
 df.columns = df.columns.str.strip()

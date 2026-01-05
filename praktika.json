@@ -19,7 +19,7 @@
     "field1": "Nanotechnology",
     "field2": "Agriculture, Biotechnology, Chemistry and Chemical Engineering, Environmental Engineering/Sciences",
     "field": "Agriculture, Biotechnology, Chemistry and Chemical Engineering, Environmental Engineering/Sciences",
-    "completedyearsofstudy": 3,
+    "completedyearsofstudy": 3.0,
     "languages": [
       {
         "language": "English",
@@ -68,7 +68,7 @@
     "field1": "General",
     "field2": "Electrical Engineering, Mechatronics, Robotics and Automation",
     "field": "Electrical Engineering, Mechatronics, Robotics and Automation",
-    "completedyearsofstudy": 3,
+    "completedyearsofstudy": 3.0,
     "languages": [
       {
         "language": "English",
@@ -122,7 +122,7 @@
     "field1": "General;General",
     "field2": "Electrical Engineering, Mechatronics, Robotics and Automation",
     "field": "Electrical Engineering, Mechatronics, Robotics and Automation",
-    "completedyearsofstudy": 3,
+    "completedyearsofstudy": 3.0,
     "languages": [
       {
         "language": "English",
@@ -176,7 +176,7 @@
     "field1": "General;General",
     "field2": "Biology, Mathematics and Statistics, Physics and Physical Sciences",
     "field": "Biology, Mathematics and Statistics, Physics and Physical Sciences",
-    "completedyearsofstudy": 3,
+    "completedyearsofstudy": 3.0,
     "languages": [
       {
         "language": "English",
@@ -230,7 +230,7 @@
     "field1": "",
     "field2": "Electrical Engineering, Electronics Engineering",
     "field": "Electrical Engineering, Electronics Engineering",
-    "completedyearsofstudy": 25,
+    "completedyearsofstudy": 25.0,
     "languages": [
       {
         "language": "Spanish",
@@ -284,7 +284,7 @@
     "field1": "",
     "field2": "Agriculture, Biotechnology, Chemistry and Chemical Engineering, Food Science",
     "field": "Agriculture, Biotechnology, Chemistry and Chemical Engineering, Food Science",
-    "completedyearsofstudy": 25,
+    "completedyearsofstudy": 25.0,
     "languages": [
       {
         "language": "Spanish",
@@ -338,7 +338,7 @@
     "field1": "",
     "field2": "Architecture",
     "field": "Architecture",
-    "completedyearsofstudy": 2,
+    "completedyearsofstudy": 2.0,
     "languages": [
       {
         "language": "German",
@@ -392,7 +392,7 @@
     "field1": "General;Computer and Information Research;Database Architecture",
     "field2": "Computer Science / Informatics",
     "field": "Computer Science / Informatics",
-    "completedyearsofstudy": 2,
+    "completedyearsofstudy": 2.0,
     "languages": [
       {
         "language": "English",
@@ -446,7 +446,7 @@
     "field1": "Artificial Intelligence;Machine Learning",
     "field2": "Computer Science / Informatics",
     "field": "Computer Science / Informatics",
-    "completedyearsofstudy": 3,
+    "completedyearsofstudy": 3.0,
     "languages": [
       {
         "language": "English",
@@ -495,7 +495,7 @@
     "field1": "",
     "field2": "Industrial Engineering / System Engineering",
     "field": "Industrial Engineering / System Engineering",
-    "completedyearsofstudy": 3,
+    "completedyearsofstudy": 3.0,
     "languages": [
       {
         "language": "English",
@@ -549,7 +549,7 @@
     "field1": "",
     "field2": "Industrial Engineering / System Engineering",
     "field": "Industrial Engineering / System Engineering",
-    "completedyearsofstudy": 3,
+    "completedyearsofstudy": 3.0,
     "languages": [
       {
         "language": "English",
@@ -598,7 +598,7 @@
     "field1": "General",
     "field2": "Biotechnology, Chemistry and Chemical Engineering, Environmental Engineering/Sciences",
     "field": "Biotechnology, Chemistry and Chemical Engineering, Environmental Engineering/Sciences",
-    "completedyearsofstudy": 3,
+    "completedyearsofstudy": 3.0,
     "languages": [
       {
         "language": "English",
@@ -647,7 +647,7 @@
     "field1": "General;Sustainable and Renewable Energy Engineering;General;General",
     "field2": "Computer Science / Informatics, Mechanical Engineering, Power Engineering",
     "field": "Computer Science / Informatics, Mechanical Engineering, Power Engineering",
-    "completedyearsofstudy": 3,
+    "completedyearsofstudy": 3.0,
     "languages": [
       {
         "language": "English",
@@ -701,7 +701,7 @@
     "field1": "General;Information Technology;General",
     "field2": "Computer Science / Informatics, Computer Software/Hardware Engineering",
     "field": "Computer Science / Informatics, Computer Software/Hardware Engineering",
-    "completedyearsofstudy": 2,
+    "completedyearsofstudy": 2.0,
     "languages": [
       {
         "language": "English",
@@ -750,7 +750,7 @@
     "field1": "General;General",
     "field2": "Electrical Engineering, Electronics Engineering, Mechanical Engineering",
     "field": "Electrical Engineering, Electronics Engineering, Mechanical Engineering",
-    "completedyearsofstudy": 2,
+    "completedyearsofstudy": 2.0,
     "languages": [
       {
         "language": "English",
@@ -799,7 +799,7 @@
     "field1": "General;Food Technology and Processing;Nutrition & Health",
     "field2": "Food Science",
     "field": "Food Science",
-    "completedyearsofstudy": 2,
+    "completedyearsofstudy": 2.0,
     "languages": [
       {
         "language": "English",
@@ -848,7 +848,7 @@
     "field1": "General",
     "field2": "Bioengineering/Biomedical Engineering, Biology, Biomedical Sciences, Microbiology",
     "field": "Bioengineering/Biomedical Engineering, Biology, Biomedical Sciences, Microbiology",
-    "completedyearsofstudy": 2,
+    "completedyearsofstudy": 2.0,
     "languages": [
       {
         "language": "English",
@@ -897,7 +897,7 @@
     "field1": "General;General",
     "field2": "Biology, Food Science, Microbiology",
     "field": "Biology, Food Science, Microbiology",
-    "completedyearsofstudy": 2,
+    "completedyearsofstudy": 2.0,
     "languages": [
       {
         "language": "English",
@@ -946,7 +946,7 @@
     "field1": "General",
     "field2": "Electrical Engineering",
     "field": "Electrical Engineering",
-    "completedyearsofstudy": 3,
+    "completedyearsofstudy": 3.0,
     "languages": [
       {
         "language": "English",
@@ -995,7 +995,7 @@
     "field1": "General",
     "field2": "Computer Science / Informatics",
     "field": "Computer Science / Informatics",
-    "completedyearsofstudy": 3,
+    "completedyearsofstudy": 3.0,
     "languages": [
       {
         "language": "English",
@@ -1044,7 +1044,7 @@
     "field1": "General;General;Artificial Intelligence",
     "field2": "Computer Science / Informatics, Mechanical Engineering",
     "field": "Computer Science / Informatics, Mechanical Engineering",
-    "completedyearsofstudy": 3,
+    "completedyearsofstudy": 3.0,
     "languages": [
       {
         "language": "English",
@@ -1093,7 +1093,7 @@
     "field1": "",
     "field2": "Computer Science / Informatics",
     "field": "Computer Science / Informatics",
-    "completedyearsofstudy": 1,
+    "completedyearsofstudy": 1.0,
     "languages": [
       {
         "language": "English",
@@ -1142,7 +1142,7 @@
     "field1": "General",
     "field2": "Computer Science / Informatics",
     "field": "Computer Science / Informatics",
-    "completedyearsofstudy": 1,
+    "completedyearsofstudy": 1.0,
     "languages": [
       {
         "language": "English",
@@ -1191,7 +1191,7 @@
     "field1": "General",
     "field2": "Computer Science / Informatics",
     "field": "Computer Science / Informatics",
-    "completedyearsofstudy": 1,
+    "completedyearsofstudy": 1.0,
     "languages": [
       {
         "language": "English",
@@ -1240,7 +1240,7 @@
     "field1": "General;Chemoinformatics",
     "field2": "Chemistry and Chemical Engineering",
     "field": "Chemistry and Chemical Engineering",
-    "completedyearsofstudy": 1,
+    "completedyearsofstudy": 1.0,
     "languages": [
       {
         "language": "English",
@@ -1289,7 +1289,7 @@
     "field1": "",
     "field2": "Architecture",
     "field": "Architecture",
-    "completedyearsofstudy": 4,
+    "completedyearsofstudy": 4.0,
     "languages": [
       {
         "language": "English",
@@ -1338,7 +1338,7 @@
     "field1": "",
     "field2": "Civil Engineering",
     "field": "Civil Engineering",
-    "completedyearsofstudy": 4,
+    "completedyearsofstudy": 4.0,
     "languages": [
       {
         "language": "English",
@@ -1392,7 +1392,7 @@
     "field1": "",
     "field2": "Mechanical Engineering",
     "field": "Mechanical Engineering",
-    "completedyearsofstudy": 4,
+    "completedyearsofstudy": 4.0,
     "languages": [
       {
         "language": "Arabic",
@@ -1446,7 +1446,7 @@
     "field1": "Language Education/Linguistics",
     "field2": "Education",
     "field": "Education",
-    "completedyearsofstudy": 2,
+    "completedyearsofstudy": 2.0,
     "languages": [
       {
         "language": "German",
@@ -1500,7 +1500,7 @@
     "field1": "",
     "field2": "Food Science",
     "field": "Food Science",
-    "completedyearsofstudy": 3,
+    "completedyearsofstudy": 3.0,
     "languages": [
       {
         "language": "English",
@@ -1549,7 +1549,7 @@
     "field1": "",
     "field2": "Computer Software/Hardware Engineering, Electrical Engineering, Mechanical Engineering",
     "field": "Computer Software/Hardware Engineering, Electrical Engineering, Mechanical Engineering",
-    "completedyearsofstudy": 4,
+    "completedyearsofstudy": 4.0,
     "languages": [
       {
         "language": "English",
@@ -1598,7 +1598,7 @@
     "field1": "Software Engineering",
     "field2": "Cybersecurity, Web Development / Software Engineering / Computer Programming",
     "field": "Cybersecurity, Web Development / Software Engineering / Computer Programming",
-    "completedyearsofstudy": 3,
+    "completedyearsofstudy": 3.0,
     "languages": [
       {
         "language": "English",
@@ -1647,7 +1647,7 @@
     "field1": "",
     "field2": "Bioengineering/Biomedical Engineering, Material Engineering and Sciences, Mechanical Engineering",
     "field": "Bioengineering/Biomedical Engineering, Material Engineering and Sciences, Mechanical Engineering",
-    "completedyearsofstudy": 3,
+    "completedyearsofstudy": 3.0,
     "languages": [
       {
         "language": "English",
@@ -1696,7 +1696,7 @@
     "field1": "General",
     "field2": "Architecture",
     "field": "Architecture",
-    "completedyearsofstudy": 4,
+    "completedyearsofstudy": 4.0,
     "languages": [
       {
         "language": "English",
@@ -1745,7 +1745,7 @@
     "field1": "",
     "field2": "Architecture",
     "field": "Architecture",
-    "completedyearsofstudy": 4,
+    "completedyearsofstudy": 4.0,
     "languages": [
       {
         "language": "English",
@@ -1794,7 +1794,7 @@
     "field1": "",
     "field2": "Physics and Physical Sciences",
     "field": "Physics and Physical Sciences",
-    "completedyearsofstudy": 2,
+    "completedyearsofstudy": 2.0,
     "languages": [
       {
         "language": "English",
@@ -1843,7 +1843,7 @@
     "field1": "",
     "field2": "Architecture",
     "field": "Architecture",
-    "completedyearsofstudy": 3,
+    "completedyearsofstudy": 3.0,
     "languages": [
       {
         "language": "English",
@@ -1892,7 +1892,7 @@
     "field1": "",
     "field2": "Mechanical Engineering",
     "field": "Mechanical Engineering",
-    "completedyearsofstudy": 4,
+    "completedyearsofstudy": 4.0,
     "languages": [
       {
         "language": "English",
@@ -1941,7 +1941,7 @@
     "field1": "General",
     "field2": "Electrical Engineering",
     "field": "Electrical Engineering",
-    "completedyearsofstudy": 3,
+    "completedyearsofstudy": 3.0,
     "languages": [
       {
         "language": "English",
@@ -1999,7 +1999,7 @@
     "field1": "General;Information Technology",
     "field2": "Computer Science / Informatics, Computer Software/Hardware Engineering, Telecommunications",
     "field": "Computer Science / Informatics, Computer Software/Hardware Engineering, Telecommunications",
-    "completedyearsofstudy": 3,
+    "completedyearsofstudy": 3.0,
     "languages": [
       {
         "language": "English",
@@ -2053,7 +2053,7 @@
     "field1": "General;City/Urban, Community and Regional Planning",
     "field2": "Architecture",
     "field": "Architecture",
-    "completedyearsofstudy": 3,
+    "completedyearsofstudy": 3.0,
     "languages": [
       {
         "language": "English",
@@ -2081,5 +2081,647 @@
     "other_requirements": "- Willing to take part in extra-curricular activities\n - Porfolio",
     "additional_Info": "Hanoi is the capital city of Vietnam, and it is expensive to rent a room here. The company can only support an amount of stipend that isn't sufficient for the interns to pay for the accommodation and the fee of electricity; therefore, students need to bring about 250 USD to cover their living expenses.",
     "requiredknowledgeandexperiences": "- Being friendly/ sociable/ adaptive/ creative and serious at work\n - Having a laptop"
+  },
+  {
+    "id": "JP-2026-1302TMU",
+    "offer-type": "ON-SITE",
+    "employer": "Tokyo Metropolitan University",
+    "workplace": "Tokyo",
+    "business": "University /Research Institute",
+    "employees": "",
+    "hoursweekly": 40,
+    "hoursdaily": 8,
+    "website": "https://yoshida-makoto.fpark.tmu.ac.jp/ https://researchmap.jp/read0157790/?lang=english",
+    "country": "Japan",
+    "city": "Hinoshi, Tokyo",
+    "from": "1/6/2026",
+    "to": "30/11/2026",
+    "weeksmin": 8,
+    "weeksmax": 8,
+    "deadline": "15/3/2026",
+    "field1": "",
+    "field2": "Bioengineering/Biomedical Engineering, Mechanical Engineering, Web Development / Software Engineering / Computer Programming",
+    "field": "Bioengineering/Biomedical Engineering, Mechanical Engineering, Web Development / Software Engineering / Computer Programming",
+    "completedyearsofstudy": "",
+    "languages": [
+      {
+        "language": "English",
+        "level": "Good (B1, B2)",
+        "andor": ""
+      }
+    ],
+    "payment": [
+      {
+        "payment": 60000,
+        "currency": "JPY",
+        "period": "Monthly",
+        "deduction": "0"
+      }
+    ],
+    "lodging": [
+      {
+        "lodging": "Employer",
+        "lodgingcost": 0,
+        "livingcost": 50000,
+        "currency": "JPY"
+      }
+    ],
+    "description": "Biomechanical study related to human movement will be conducted for the internship. For examples, the following themes will be scheduled: computer simulation of human walking, three-dimensional measurement of human walking.",
+    "other_requirements": "",
+    "additional_Info": "Student dorm has private bedroom with WIFI. The fee for the student dorm and the commuter train expenses will be paid by the employer.\nHealth Certificate required.",
+    "requiredknowledgeandexperiences": "Fundamental computer programming skill (C language or whatever)\nFundamental knowledge on mechanics (kinetics)"
+  },
+  {
+    "id": "JP-2026-42THU",
+    "offer-type": "ON-SITE",
+    "employer": "Graduate School of Engineering,Tohoku University",
+    "workplace": "Miyagi Pref.",
+    "business": "Educational Research Institution",
+    "employees": "",
+    "hoursweekly": 40,
+    "hoursdaily": 8,
+    "website": "http://www.ifs.tohoku.ac.jp/enerdyn/en/",
+    "country": "Japan",
+    "city": "Miyagi Pref.",
+    "from": "1/6/2026",
+    "to": "31/12/2026",
+    "weeksmin": 8,
+    "weeksmax": 12,
+    "deadline": "15/3/2026",
+    "field1": "",
+    "field2": "Chemistry and Chemical Engineering, Mechanical Engineering",
+    "field": "Chemistry and Chemical Engineering, Mechanical Engineering",
+    "completedyearsofstudy": "",
+    "languages": [
+      {
+        "language": "English",
+        "level": "Good (B1, B2)",
+        "andor": ""
+      }
+    ],
+    "payment": [
+      {
+        "payment": 85000,
+        "currency": "JPY",
+        "period": "Monthly",
+        "deduction": "0"
+      }
+    ],
+    "lodging": [
+      {
+        "lodging": "Trainee or Tohoku LC",
+        "lodgingcost": 55000,
+        "livingcost": 80000,
+        "currency": "JPY"
+      }
+    ],
+    "description": "Fundamental study on novel concept combustion technology, particularly on super lean-burn technology and microcombustion-based fundamental study. (Experiments including optical measurements and/or computations.)",
+    "other_requirements": "For the reason of export control order, all the experience (work/education) after graduating High school must be written in CV with month & year. \nIf there is any blank of period in CV, the application would be rejected.",
+    "additional_Info": "Payment will be 4800 yen per working day. Estimated cost of lodging will be 70,000 yen for the first month and 40,000 yen from next month.\nHealth Certificate required.\nStudent dorm will be Urban Castle Kawauchi: Price and Facility Information :https://www.uc-kawauchi.com/en/facilities/",
+    "requiredknowledgeandexperiences": "Basic knowledge on fluid mechanics and thermodynamics, experience in experiment and/or computation is preferred."
+  },
+  {
+    "id": "JP-2026-52THU",
+    "offer-type": "ON-SITE",
+    "employer": "Graduate School of Engineering,Tohoku University",
+    "workplace": "Miyagi Pref.",
+    "business": "Educational Research Institution",
+    "employees": "",
+    "hoursweekly": 35,
+    "hoursdaily": 7,
+    "website": "https://www.qse.tohoku.ac.jp/english/",
+    "country": "Japan",
+    "city": "Miyagi Pref.",
+    "from": "1/6/2026",
+    "to": "31/3/2027",
+    "weeksmin": 8,
+    "weeksmax": 12,
+    "deadline": "15/3/2026",
+    "field1": "",
+    "field2": "Electrical Engineering, Mechanical Engineering, Power Engineering",
+    "field": "Electrical Engineering, Mechanical Engineering, Power Engineering",
+    "completedyearsofstudy": "",
+    "languages": [
+      {
+        "language": "English",
+        "level": "Good (B1, B2)",
+        "andor": ""
+      }
+    ],
+    "payment": [
+      {
+        "payment": 85000,
+        "currency": "JPY",
+        "period": "Monthly",
+        "deduction": "0"
+      }
+    ],
+    "lodging": [
+      {
+        "lodging": "Trainee or Tohoku LC",
+        "lodgingcost": 55000,
+        "livingcost": 80000,
+        "currency": "JPY"
+      }
+    ],
+    "description": "Our laboratory performs various studies mainly relating to the non-destructive inspection of the components to assure the integrity of structures using electromagnetic and acoustic fields. We expect interns to \n- assist the experiments and numerical simulations in the laboratory (measuring the material properties / detecting flaws using various non-destructive testing methods)\nand \n- assist in developing finite element numerical models of electromagnetic field simulations.\nIn addition, as our department is related to energy, we expect that the interns also contribute to developing game-based teaching materials for energy educations.",
+    "other_requirements": "For the reason of export control order, all the experience (work/education) after graduating High school must be written in CV with month & year. \nIf there is any blank of period in CV, the application would be rejected.",
+    "additional_Info": "Payment will be 4800 yen per working day(weekday). 　Estimated cost of lodging will be 70,000 yen for the first month and 40,000 yen from next month.\nHealth Certificate required.",
+    "requiredknowledgeandexperiences": "Basic knowledge on mechanical engineering and electromagnetics, as well as mathematics necessary for understanding them, is necessary. \nKnowledge/experience on numerical simulations using finite element software is preferable."
+  },
+  {
+    "id": "JP-2026-53THU",
+    "offer-type": "ON-SITE",
+    "employer": "Graduate School of Engineering,Tohoku University",
+    "workplace": "Miyagi Pref.",
+    "business": "Educational Research Institution",
+    "employees": "",
+    "hoursweekly": 40,
+    "hoursdaily": 8,
+    "website": "https://www.magnet.riec.tohoku.ac.jp",
+    "country": "Japan",
+    "city": "Miyagi Pref.",
+    "from": "1/6/2026",
+    "to": "31/3/2027",
+    "weeksmin": 8,
+    "weeksmax": 12,
+    "deadline": "15/3/2026",
+    "field1": "",
+    "field2": "Electronics Engineering, Material Engineering and Sciences, Physics and Physical Sciences",
+    "field": "Electronics Engineering, Material Engineering and Sciences, Physics and Physical Sciences",
+    "completedyearsofstudy": "",
+    "languages": [
+      {
+        "language": "English",
+        "level": "Excellent (C1, C2)",
+        "andor": ""
+      }
+    ],
+    "payment": [
+      {
+        "payment": 85000,
+        "currency": "JPY",
+        "period": "Monthly",
+        "deduction": "0"
+      }
+    ],
+    "lodging": [
+      {
+        "lodging": "Trainee of Tohoku LC",
+        "lodgingcost": 55000,
+        "livingcost": 80000,
+        "currency": "JPY"
+      }
+    ],
+    "description": "Using an ultrahigh vacuum sputtering system available in a cleanroom, the internship trainee will grow a magnetic film on a single crystal substrate at elevating temperature and post-annealing. The films will be characterised by X-ray diffraction and magneto-optical Kerr effect for the optimisation of the growth conditions. The optimised film will be patterned into a Hall bar for electrical transport measurements under an application of a magnetic field, which will offer a device concept for future spintronic applications.\nThese works will be carried out with the assistance of an assistant professor in the group. The progress will be discussed weekly to update and adjust the internship programme. By the end of the programme, the trainee will obtain basic experimental skills on spintronic research.\n\nOTHER REQUIREMENT:\nIt is also preferred to have some experience to work in a cleanroom with micron-scale device fabrication.Communications skills are required to work in collaborative environment.\nReading and writing skills in English to study previous works and to report progress on weekly basis are also required.It is also required to hold fundamental competence for work.",
+    "other_requirements": "For the reason of export control order, all the experience (work/education) after graduating High school must be written in CV with month & year. \nIf there is any blank of period in CV, the application would be rejected.",
+    "additional_Info": "Payment will be 4800 yen per working day(weekday). 　Estimated cost of lodging will be 70,000 yen for the first month and 40,000 yen from next month.\nHealth Certificate required.",
+    "requiredknowledgeandexperiences": "Knowledge on condensed matter physics, quantum mechanics and electronics is highly required.\nExperience on thin-film growth using sputtering and/or thermal deposition, structural analysis using X-ray diffraction and an electrical transport measurement is required.\nExperience on electron microscopy, magnetic characterisation including (temperature-dependent) magnetisation measurements is preferred."
+  },
+  {
+    "id": "JP-2026-59UTK",
+    "offer-type": "ON-SITE",
+    "employer": "Graduated school of Engineering , The University of Tokyo",
+    "workplace": "Tokyo",
+    "business": "University",
+    "employees": "",
+    "hoursweekly": 35,
+    "hoursdaily": 7,
+    "website": "http://bme.t.u-tokyo.ac.jp/en/",
+    "country": "Japan",
+    "city": "Tokyo",
+    "from": "1/6/2026",
+    "to": "28/9/2026",
+    "weeksmin": 8,
+    "weeksmax": 12,
+    "deadline": "15/3/2026",
+    "field1": "",
+    "field2": "Civil Engineering, Environmental Engineering/Sciences, Material Engineering and Sciences",
+    "field": "Civil Engineering, Environmental Engineering/Sciences, Material Engineering and Sciences",
+    "completedyearsofstudy": "",
+    "languages": [
+      {
+        "language": "English",
+        "level": "Good (B1, B2)",
+        "andor": ""
+      }
+    ],
+    "payment": [
+      {
+        "payment": 69000,
+        "currency": "JPY",
+        "period": "Monthly",
+        "deduction": "0"
+      }
+    ],
+    "lodging": [
+      {
+        "lodging": "IAESTE Japan",
+        "lodgingcost": 0,
+        "livingcost": 50000,
+        "currency": "JPY"
+      }
+    ],
+    "description": "In the internship, the followings will be implemented for the research on CO2 capture by concrete.\n1) Experimental works of acceleration of concrete carbonation, i.e. gas-solid carbonation and wet carbonation\n2) Chemical analyses of carbonated phases in concrete using X-ray diffraction, thermogravimetric analysis, microscopy observation, etc.\n3) Physical analyses of carbonated concrete using X-ray computed tomography, nitrogen absorption, water vapor absorption, etc.\n4) Experimental works on mechanical properties such as strength and modulus of elasticity of carbonated concrete",
+    "other_requirements": "Applicants should have an experience of experimental works using cement and concrete.\nCertificate of enrolement during the whole internship period is required .",
+    "additional_Info": "Certificate of enrolment until the completion of the internship is required.\nLodging will be shared apartment with private bedroom. Lodging fee will be paid by the employer.\nCommuter train expenses will be paid by the employer.",
+    "requiredknowledgeandexperiences": "It is desirable that the applicant has various knowledge of cement and concrete that are becoming a savior of curbing global warming.  Carbonation process in concrete was a phenomenon to be suppressed so far but it should be accelerated unless the carbonation leads to corrosion of steel in concrete.  Applicants should have knowledge of CO2 emission and resource circulation in cement and concrete field, carbonation mechanism of concrete and required performance of concrete."
+  },
+  {
+    "id": "JP-2026-6101TUS",
+    "offer-type": "ON-SITE",
+    "employer": "Tokyo University of Science",
+    "workplace": "Tokyo",
+    "business": "University",
+    "employees": "",
+    "hoursweekly": 35,
+    "hoursdaily": 7,
+    "website": "https://www.rs.noda.tus.ac.jp/aokilab/",
+    "country": "Japan",
+    "city": "TOKYO",
+    "from": "1/6/2026",
+    "to": "6/8/2026",
+    "weeksmin": 8,
+    "weeksmax": 12,
+    "deadline": "15/3/2026",
+    "field1": "",
+    "field2": "Biochemistry, Biomedical Sciences, Pharmaceutical Studies / Pharmacology",
+    "field": "Biochemistry, Biomedical Sciences, Pharmaceutical Studies / Pharmacology",
+    "completedyearsofstudy": "",
+    "languages": [
+      {
+        "language": "English",
+        "level": "Good (B1, B2)",
+        "andor": ""
+      }
+    ],
+    "payment": [
+      {
+        "payment": 120000,
+        "currency": "JPY",
+        "period": "Monthly",
+        "deduction": "0"
+      }
+    ],
+    "lodging": [
+      {
+        "lodging": "IAESTE Japan or Trainee",
+        "lodgingcost": 75000,
+        "livingcost": 120000,
+        "currency": "JPY"
+      }
+    ],
+    "description": "Design, synthesis, and evaluation of functional supramolecular complexes, supramoleculara catalysts, and supramolecular motors formed by assembly of metal complexes, organic molecules, and metal ions in water.\nDesign, synthesis, and biological assay of artificial ligands for luminescent imaging and treatment of cancer.\nDevelopment of new devices for capture, collection, and analysis of circulating tumor cells.\nDesign, synthesis, in vivo imaging, and biological evaluation of new drugs for neutron capture therapy.\nIn silico design, synthesis, and biological assay of metal enzyme inhibitors.\nDesign, synthesis, and biological evaluation of antiviral and antibacterial drugs.",
+    "other_requirements": "Certificate of enrolment during the whole internship period required.",
+    "additional_Info": "Certificate of Health is required. \nInternship cannot be done during Company Cloese period (Aug 7. --Aug.23).\nSubmission of nomination documents to results takes one to two months due to the host organisation's monthly meeting.",
+    "requiredknowledgeandexperiences": "Basic organic chemistry, Basic inorganic chemistry, Basic biochemistry"
+  },
+  {
+    "id": "JP-2026-72TUS",
+    "offer-type": "ON-SITE",
+    "employer": "Tokyo University of Science",
+    "workplace": "Tokyo",
+    "business": "University",
+    "employees": "",
+    "hoursweekly": 25,
+    "hoursdaily": 5,
+    "website": "https://www.rs.noda.tus.ac.jp/brlab/english/index.html",
+    "country": "Japan",
+    "city": "Chiba",
+    "from": "1/6/2026",
+    "to": "25/12/2026",
+    "weeksmin": 8,
+    "weeksmax": 12,
+    "deadline": "15/3/2026",
+    "field1": "",
+    "field2": "Bioengineering/Biomedical Engineering, Computer Science / Informatics, Mechatronics, Robotics and Automation",
+    "field": "Bioengineering/Biomedical Engineering, Computer Science / Informatics, Mechatronics, Robotics and Automation",
+    "completedyearsofstudy": "",
+    "languages": [
+      {
+        "language": "English",
+        "level": "Good (B1, B2)",
+        "andor": ""
+      }
+    ],
+    "payment": [
+      {
+        "payment": 120000,
+        "currency": "JPY",
+        "period": "Monthly",
+        "deduction": "0"
+      }
+    ],
+    "lodging": [
+      {
+        "lodging": "IAESTE Japan or Trainee",
+        "lodgingcost": 75000,
+        "livingcost": 120000,
+        "currency": "JPY"
+      }
+    ],
+    "description": "He/she researches and developments hardware and/or software related to medical device/robotics system/brain technology/image processing/AI.",
+    "other_requirements": "Certificate of enrolment during the whole internship is required.",
+    "additional_Info": "Certificate of Health is required.\nInternship cannot be done during Company closed period (Aug .7 -  Aug.23)",
+    "requiredknowledgeandexperiences": "Basic Computer Science / Informatics"
+  },
+  {
+    "id": "JP-2026-TTI-05-S",
+    "offer-type": "ON-SITE",
+    "employer": "Toyota Technological Institute",
+    "workplace": "Nagoya, Aichi",
+    "business": "University",
+    "employees": "",
+    "hoursweekly": 40,
+    "hoursdaily": 8,
+    "website": "https://mme-lab.github.io/MMLwebsite/",
+    "country": "Japan",
+    "city": "Nagoya",
+    "from": "1/6/2026",
+    "to": "31/3/2027",
+    "weeksmin": 8,
+    "weeksmax": 16,
+    "deadline": "15/3/2026",
+    "field1": "",
+    "field2": "Material Engineering and Sciences, Mechanical Engineering, Physics and Physical Sciences",
+    "field": "Material Engineering and Sciences, Mechanical Engineering, Physics and Physical Sciences",
+    "completedyearsofstudy": "",
+    "languages": [
+      {
+        "language": "English",
+        "level": "Good (B1, B2)",
+        "andor": ""
+      }
+    ],
+    "payment": [
+      {
+        "payment": 91000,
+        "currency": "JPY",
+        "period": "Monthly",
+        "deduction": "0"
+      }
+    ],
+    "lodging": [
+      {
+        "lodging": "Employer",
+        "lodgingcost": 35500,
+        "livingcost": 75500,
+        "currency": "JPY"
+      }
+    ],
+    "description": "We aim to develop advanced thermal management technologies through materials modeling and characterization from the perspective of mechanical engineering. The intern will be engaged in research activities focusing on computational modeling of nano- and micro-scale thermal transport using electronic and atomic simulations. Through this work, the student will gain both theoretical understanding and practical research experience in the field of thermal transport and materials science.",
+    "other_requirements": "Host laboratory may require an online interview as part of the screening process.",
+    "additional_Info": "The dormitory rent is 35,000 JPY/month, including gas, water and the internet fees.　\n\tDormitory residents are billed for electric fee at cost – the fee depends on how much electricity is used.\n\tJapan National Health Insurance: Approx. 2 000 JPY / month - Payment is obligatory for those who stay in Japan for 91 days or longer, regardless of having private health insurance or not.\n\tExpenses associated with the research activities, including registration/travel fees for conferences, and international travel/liability insurances, should be borne by the intern.",
+    "requiredknowledgeandexperiences": "[Required] Fundamental knowledge of solid-state physics and related subjects (quantum mechanics, statistical physics, thermodynamics, etc).\n[Preferred] Prior experience or coursework in these fields. Basic programming skills (Python, C, MATLAB, etc)"
+  },
+  {
+    "id": "TR-2026-001-ITU",
+    "offer-type": "ON-SITE",
+    "employer": "Erdemli Proje ve Musavirlik San. Tic. Ltd. Sti",
+    "workplace": "İstanbul Türkiye",
+    "business": "Structural Engineering Projects",
+    "employees": "",
+    "hoursweekly": 40,
+    "hoursdaily": 8,
+    "website": "www.erdemli.com",
+    "country": "Türkiye",
+    "city": "Istanbul",
+    "from": "6/7/2026",
+    "to": "31/8/2026",
+    "weeksmin": 8,
+    "weeksmax": 8,
+    "deadline": "31/3/2026",
+    "field1": "",
+    "field2": "Civil Engineering",
+    "field": "Civil Engineering",
+    "completedyearsofstudy": "",
+    "languages": [
+      {
+        "language": "English",
+        "level": "Excellent (C1, C2)",
+        "andor": ""
+      }
+    ],
+    "payment": [
+      {
+        "payment": 22000,
+        "currency": "TRY",
+        "period": "Monthly",
+        "deduction": "0"
+      }
+    ],
+    "lodging": [
+      {
+        "lodging": "Arranged by ITU LC",
+        "lodgingcost": 13000,
+        "livingcost": 18000,
+        "currency": "TRY"
+      }
+    ],
+    "description": "User of AutoCAD, SAP2000, FEM. Applicant needs to bring his/ her own laptop.",
+    "other_requirements": "",
+    "additional_Info": "Lodging, reception, visa and etc will be arranged by related Local Committee (LC) of our member universities and lodging address will be determined after being accepted, so please consult the related LC for your questions related to the issues above-mentioned for the offer, ONLY AFTER you have received your acceptance from your IAESTE office.",
+    "requiredknowledgeandexperiences": "User of AutoCAD, SAP2000, FEM. Applicant needs to bring his/ her own laptop."
+  },
+  {
+    "id": "TR-2026-001-MRK",
+    "offer-type": "ON-SITE",
+    "employer": "Tapu ve Kadastro Genel Müdürlüğü (TKGM)",
+    "workplace": "Ankara Türkiye",
+    "business": "Public Organization on Land Registry, Large Scale Mapping",
+    "employees": "",
+    "hoursweekly": 40,
+    "hoursdaily": 8,
+    "website": "www.tkgm.gov.tr",
+    "country": "Türkiye",
+    "city": "Çankaya",
+    "from": "1/7/2026",
+    "to": "1/9/2026",
+    "weeksmin": 6,
+    "weeksmax": 6,
+    "deadline": "31/3/2026",
+    "field1": "",
+    "field2": "Civil Engineering",
+    "field": "Civil Engineering",
+    "completedyearsofstudy": "",
+    "languages": [
+      {
+        "language": "English",
+        "level": "Good (B1, B2)",
+        "andor": ""
+      }
+    ],
+    "payment": [
+      {
+        "payment": 22000,
+        "currency": "TRY",
+        "period": "Monthly",
+        "deduction": "17000"
+      }
+    ],
+    "lodging": [
+      {
+        "lodging": "Arranged by IAESTE Turkiye",
+        "lodgingcost": 13000,
+        "livingcost": 17000,
+        "currency": "TRY"
+      }
+    ],
+    "description": "Working on projectes related to: Geodetic Applications, Tusaga-Aktif (CORS-TR), Metadata, Project Planing, Photo Flight Mission Planning, Aerialtriangulation, Digital Terrain Model, Stereo Plotting, Map Production, Orthophoto production and Orthophoto Web services.",
+    "other_requirements": "",
+    "additional_Info": "Lodging, reception, visa and etc will be arranged by related Local Committee (LC) of our member universities and lodging address will be determined after being accepted, so please consult the related LC for your questions related to the issues above-mentioned for the offer, ONLY AFTER you have received your acceptance from your IAESTE office. Please note that in this offer, \"The trainee will stay at the uiversity's dormitory, it will be a shared room with 2 or 3 people and have his/her lunch at university's canteen. The net salary will be calculated after the deductions (accomodation and lunch with their current costs.), therefore it is estimated that the trainee will gel approximately 5.000 TRY net salary per month. Meals and accommodation are provided as facilities for students. The use of these facilities is optional; however, students are not entitled to claim any payment or reimbursement for facilities they choose not to use.",
+    "requiredknowledgeandexperiences": "To be familiar to Land Registry, Large scale mapping, orthophoto production, Land Registry and cadastre, information Systems and NSDI related projects"
+  },
+  {
+    "id": "TR-2026-003-ODTU",
+    "offer-type": "ON-SITE",
+    "employer": "ODTU Teknokent A.Ş.",
+    "workplace": "Çankaya/Ankara",
+    "business": "Research and Development",
+    "employees": "",
+    "hoursweekly": 45,
+    "hoursdaily": 9,
+    "website": "www.odtuteknokent.com.tr",
+    "country": "Türkiye",
+    "city": "Ankara",
+    "from": "1/7/2026",
+    "to": "31/8/2026",
+    "weeksmin": 8,
+    "weeksmax": 8,
+    "deadline": "31/3/2026",
+    "field1": "",
+    "field2": "Economics, Business, Management and Marketing",
+    "field": "Economics, Business, Management and Marketing",
+    "completedyearsofstudy": "",
+    "languages": [
+      {
+        "language": "English",
+        "level": "Good (B1, B2)",
+        "andor": ""
+      }
+    ],
+    "payment": [
+      {
+        "payment": 22000,
+        "currency": "TRY",
+        "period": "Monthly",
+        "deduction": "0"
+      }
+    ],
+    "lodging": [
+      {
+        "lodging": "Arranged by IAESTE METU",
+        "lodgingcost": 12000,
+        "livingcost": 18000,
+        "currency": "TRY"
+      }
+    ],
+    "description": "Writing and Testing simple features, help maintain project documentation and checklist, joing daily standsup and learn team tods.",
+    "other_requirements": "",
+    "additional_Info": "Lodging, reception, visa and etc will be arranged by related Local Committee (LC) of our member universities and lodging address will be determined after being accepted, so please consult the related LC for your questions related to the issues above-mentioned for the offer, ONLY AFTER you have received your acceptance from your IAESTE office.",
+    "requiredknowledgeandexperiences": "Specified in the job describtion"
+  },
+  {
+    "id": "TR-2026-004-MEF",
+    "offer-type": "ON-SITE",
+    "employer": "MEF University",
+    "workplace": "İstanbul Türkiye",
+    "business": "Education/ Academy",
+    "employees": "",
+    "hoursweekly": 40,
+    "hoursdaily": 8,
+    "website": "www.mef.edu.tr",
+    "country": "Türkiye",
+    "city": "Istanbul",
+    "from": "1/7/2026",
+    "to": "1/9/2026",
+    "weeksmin": 6,
+    "weeksmax": 8,
+    "deadline": "31/3/2026",
+    "field1": "",
+    "field2": "Economics, Business, Management and Marketing",
+    "field": "Economics, Business, Management and Marketing",
+    "completedyearsofstudy": "",
+    "languages": [
+      {
+        "language": "English",
+        "level": "Good (B1, B2)",
+        "andor": "Or"
+      },
+      {
+        "language": "English",
+        "level": "Fair (A2)",
+        "andor": ""
+      }
+    ],
+    "payment": [
+      {
+        "payment": 22000,
+        "currency": "TRY",
+        "period": "Monthly",
+        "deduction": "0"
+      }
+    ],
+    "lodging": [
+      {
+        "lodging": "Arranged by IAESTE LC MEF",
+        "lodgingcost": 13000,
+        "livingcost": 18000,
+        "currency": "TRY"
+      }
+    ],
+    "description": "\"This posiştion is based on an academic research project exploring how cities build and communicate identity—through branding campaigns, urban design, and everyday social practices. You' ll support literature reviews, data collection (online and in the field), content analysis of campaigns, and synthesis for papers and lectures.\nBuild and maintain annotated work on place branding, symbolic governance, spectacle vs. narrative branding, and urban sociology.\nSummarize 2–3 academic papers/week into 1-page memos (key concepts, methods, findings, limits).\nAssistance may be needed in the field- data collection (TBD)\nYou may use AI tools for brainstorming, translation checks, outline scaffolds, or code snippets. You must disclose AI assistance in a note on deliverables and remain responsible for accuracy, citations, and original analysis. No auto-generated text in final quotes/summaries without verification.\"",
+    "other_requirements": "",
+    "additional_Info": "Lodging, reception, visa and etc will be arranged by related Local Committee (LC) of our member universities and lodging address will be determined after being accepted, so please consult the related LC for your questions related to the issues above-mentioned for the offer, ONLY AFTER you have received your acceptance from your IAESTE office.",
+    "requiredknowledgeandexperiences": "\"Knowledge of Branding and/or Urban Sociology is essential.\nKnowledge of Place Branding and concept of identity is desirable.\nKnowledge/ understanding of qualitative research methods is desirable\nArchitecture, Sociology and Urban Planning students are also welcome \nCuriosity about cities, branding, and visual culture.\""
+  },
+  {
+    "id": "TR-2026-013-ITU",
+    "offer-type": "ON-SITE",
+    "employer": "Çalık Denim Tekstil San.Tic. A.Ş.",
+    "workplace": "İstanbul Türkiye",
+    "business": "Textile Industry",
+    "employees": "",
+    "hoursweekly": 40,
+    "hoursdaily": 8,
+    "website": "www.calikdenim.com",
+    "country": "Türkiye",
+    "city": "İstanbul",
+    "from": "1/7/2026",
+    "to": "1/9/2026",
+    "weeksmin": 8,
+    "weeksmax": 8,
+    "deadline": "31/3/2026",
+    "field1": "",
+    "field2": "Chemistry and Chemical Engineering, Industrial Engineering / System Engineering, Textile Sciences and Engineering",
+    "field": "Chemistry and Chemical Engineering, Industrial Engineering / System Engineering, Textile Sciences and Engineering",
+    "completedyearsofstudy": "",
+    "languages": [
+      {
+        "language": "English",
+        "level": "Excellent (C1, C2)",
+        "andor": ""
+      }
+    ],
+    "payment": [
+      {
+        "payment": 26000,
+        "currency": "TRY",
+        "period": "Monthly",
+        "deduction": "0"
+      }
+    ],
+    "lodging": [
+      {
+        "lodging": "Arranged by IAESTE Turkiye",
+        "lodgingcost": 15000,
+        "livingcost": 25000,
+        "currency": "TRY"
+      }
+    ],
+    "description": "\"Çalık Denim is a global player in the textile industry, standing out with its innovative products and sustainable production approach. With strong R&D investments and a customer-oriented mindset, the company serves numerous brands worldwide. This internship program offers university students the opportunity to experience product development and sales processes in the textile industry. Interns will work within the R&D and Sales teams, contributing to both technical and commercial processes and participating in project-based tasks.\n \nGeneral Responsibilities;\nCollaborate effectively with team members and contribute to a positive, innovative work environment.Actively participate in problem-solving processes and share creative ideas to improve workflows.Communicate clearly and proactively, ensuring transparency and alignment.Manage data and information responsibly, adhering to confidentiality and ethical standards.Be eager to learn new tools, technologies, and methods, and contribute to their implementation.\n \nSales Intern Responsibilities;\nAssist the sales team in preparing proposals, presentations, and customer communications.Contribute to market research and competitor analysis activities.Help organize customer visits and follow up on requests.Support  data entry and sales performance reporting.\"",
+    "other_requirements": "",
+    "additional_Info": "Lodging, reception, visa and etc will be arranged by related Local Committee (LC) of our member universities and lodging address will be determined after being accepted, so please consult the related LC for your questions related to the issues above-mentioned for the offer, ONLY AFTER you have received your acceptance from your IAESTE office.",
+    "requiredknowledgeandexperiences": "Clear, Effective, and Multicultural Communication,Teamwork skills, Ability to adapt to multicultural environment, Innovative mindset, Agility and Adaptability, Result-Oriented Approach, Willingness to learn."
   }
 ]
