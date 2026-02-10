@@ -2,7 +2,7 @@ import pandas as pd
 import json
 
 # Google Sheets CSV
-df = pd.read_csv("praktika.csv", sep=',', encoding='utf-8', quotechar='"')
+df = pd.read_csv("praktika-wes.csv", sep=',', encoding='utf-8', quotechar='"')
 
 # Spaltennamen bereinigen (Whitespaces entfernen)
 df.columns = df.columns.str.strip()
@@ -77,8 +77,9 @@ for _, row in df.iterrows():
         "deadline": row["Deadline"] if pd.notna(row.get("Deadline")) else "",
         "field1": row["FieldsOfStudy"] if pd.notna(row.get("FieldsOfStudy")) else "",
         "field2": row["Faculty 1"] if pd.notna(row.get("Faculty 1")) else "",
-        "field": row["GeneralDisciplinesText"] if pd.notna(row.get("GeneralDisciplinesText")) else "",
+        "field": row["GeneralDisciplines"] if pd.notna(row.get("GeneralDisciplines")) else "",
         "completedyearsofstudy": row["CompletedYearsOfStudy"] if pd.notna(row.get("CompletedYearsOfStudy")) else "",
+        "student_status_requirements": row["Student status requirements"] if pd.notna(row.get("Student status requirements")) else "",
         "languages": languages,
         "payment": payment,
         "lodging": lodging,

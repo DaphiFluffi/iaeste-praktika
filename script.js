@@ -60,7 +60,7 @@ function flagFromRef(refno) {
   const iso = refno.split("-")[0];
   return `<img src="https://flagcdn.com/24x18/${iso.toLowerCase()}.png"> `;
 }
-
+    
 // Format description text for better readability
 function formatDescription(text) {
   if (!text) return "";
@@ -159,7 +159,8 @@ function showModal(p) {
         <p><strong>Payment:</strong> ${paymentText || ""}</p>
         <p><strong>Lodging:</strong> ${lodgingText || ""}</p>
         <div><strong>Description:</strong> ${formatDescription(p.description)}</div>
-        <div><strong>Other Requirements:</strong> ${formatDescription(p.other_requirements)}</div>
+        <div><strong>Other Requirements:</strong> ${formatDescription(p.other_requirements)} </div>
+        <div><strong>Student Status Requirements:</strong> ${formatDescription(p.student_status_requirements)} </div>
         <div><strong>Required Knowledge & Experiences:</strong> ${formatDescription(p.requiredknowledgeandexperiences)}</div>
         <div><strong>Additional Info:</strong> ${formatDescription(p.additional_Info)}</div>
     `;
